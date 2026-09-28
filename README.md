@@ -4,6 +4,21 @@
 
 # GradBridge
 
+<p align="center">
+  <a href="https://github.com/Rayayuu/GradBridge">
+    <img src="https://img.shields.io/github/stars/Rayayuu/GradBridge?style=flat-square&logo=github" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Rayayuu/GradBridge/issues">
+    <img src="https://img.shields.io/github/issues/Rayayuu/GradBridge?style=flat-square" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/Rayayuu/GradBridge/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Rayayuu/GradBridge?style=flat-square" alt="Last Commit">
+  </a>
+  <img src="https://img.shields.io/badge/VitePress-1.6.4-646CFF?style=flat-square&logo=vite" alt="VitePress">
+  <img src="https://img.shields.io/badge/pnpm-11-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">
+</p>
+
+
 ### 从海外 CS 学生，到第一份技术工作
 
 **学习 · 技术 · 求职 · 澳洲职业发展 · 悉尼生活**
@@ -267,6 +282,21 @@ It is **not affiliated with or endorsed by the University of Sydney, UNSW, UTS, 
 <div align="center">
 
 ## GradBridge
+
+<p align="center">
+  <a href="https://github.com/Rayayuu/GradBridge">
+    <img src="https://img.shields.io/github/stars/Rayayuu/GradBridge?style=flat-square&logo=github" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Rayayuu/GradBridge/issues">
+    <img src="https://img.shields.io/github/issues/Rayayuu/GradBridge?style=flat-square" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/Rayayuu/GradBridge/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Rayayuu/GradBridge?style=flat-square" alt="Last Commit">
+  </a>
+  <img src="https://img.shields.io/badge/VitePress-1.6.4-646CFF?style=flat-square&logo=vite" alt="VitePress">
+  <img src="https://img.shields.io/badge/pnpm-11-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">
+</p>
+
 
 **From CS Student to Software Engineer.**
 
