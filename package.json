@@ -12,5 +12,8 @@
   "type": "module",
   "devDependencies": {
     "vitepress": "^1.6.4"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.0"
   }
 }

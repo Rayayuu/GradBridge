@@ -1,0 +1,3727 @@
+[
+  {
+    "id": "/about/::0::0",
+    "route": "/about/",
+    "title": "🌉 关于 GradBridge",
+    "section": "🌉 关于 GradBridge",
+    "description": "",
+    "keywords": [],
+    "content": "From CS Student to Software Engineer. GradBridge 是一个面向海外 CS 学生的： Learning + Career + Technology + Local Life Platform 我们希望把一个学生从进入大学到找到第一份技术工作的过程中，真正需要的信息整理到同一个地方。 GradBridge 是独立学生项目，与 University of Sydney 以及网站中提到的其他高校不存在官方隶属或背书关系。"
+  },
+  {
+    "id": "/career/australia/::0::0",
+    "route": "/career/australia/",
+    "title": "澳洲求职",
+    "section": "澳洲求职",
+    "description": "",
+    "keywords": [],
+    "content": "了解 Internship、Graduate Program、招聘季、Visa Requirement、Networking 与本地求职渠道。 这里会重点整理澳洲技术岗位的真实申请流程。"
+  },
+  {
+    "id": "/career/china/::0::0",
+    "route": "/career/china/",
+    "title": "国内秋招",
+    "section": "国内秋招",
+    "description": "",
+    "keywords": [],
+    "content": "面向计划回国求职的海外 CS 学生。 这里会整理暑期实习、提前批、秋招、补录与国内技术面试准备。"
+  },
+  {
+    "id": "/career/cv/::0::0",
+    "route": "/career/cv/",
+    "title": "CV",
+    "section": "CV",
+    "description": "",
+    "keywords": [],
+    "content": "从第一份技术简历，到真正可以投递的软件工程、Backend 和 AI 岗位简历。 这里会覆盖结构、Project、Internship、Technical Skills、ATS 和常见错误。"
+  },
+  {
+    "id": "/career/::0::0",
+    "route": "/career/",
+    "title": "index",
+    "section": "index",
+    "description": "",
+    "keywords": [],
+    "content": "GRADBRIDGE · CAREER 从第一份 CV， 走到第一份 Offer。 求职不是毕业前突然开始的一件事。GradBridge 会把 CV、Internship、Graduate Program、OA、技术面试和 Behavioral Interview 放进同一条路线里。 查看求职路线 浏览核心模块 → CAREER ROADMAP 求职，本质上是一个连续过程 不要等到岗位开放以后才开始准备。真正有效的求职，是把每一个阶段提前完成。 01 准备基础材料 完成第一版 CV、LinkedIn、GitHub，并整理可以讲清楚的项目经历。 CV · LinkedIn · GitHub 02 进入申请市场 开始追踪 Internship、Graduate 和其他 Entry-level 技术岗位。 Search · Apply · Track 03 通过筛选与面试 准备 OA、Coding Interview、Technical Interview 和 Behavioral Interview。 OA · Coding · Interview 04 完成 Offer 转化 比较岗位、团队、技术方向和长期成长机会，完成从学生到工程师的转换。 Offer · Decision · Growth CORE MODULES 求职最重要的四个模块 01 CV Education、Internship、Project、Technical Skills 到 ATS，逐步建立一份真正能投递的技术简历。 CV Guide · Checklist · Project Writing 02 Internship 什么时候开始准备、第一份实习怎么找、没有经验时应该优先补什么。 Timeline · Application · Experience 03 Interview 从 Coding、Backend、AI 到 Behavioral，建立完整的技术面试准备体系。 Coding · Technical · Behavioral 04 Graduate 理解澳洲 Graduate Program 的申请时间线、流程、岗位类型和筛选方式。 Graduate · Timeline · Assessment AUSTRALIA CAREER 在澳洲找技术工作，需要理解本地规则 澳洲技术招聘和国内秋招并不完全一样。申请时间、Graduate Program、Visa Requirement、Networking 和招聘渠道都需要单独理解。 01 Graduate Program 很多大型企业会提前数月开放 Graduate 招聘，时间线本身就是求职的一部分。 02 Visa Requirement 学会区分岗位是否接受学生签证、毕业生签证以及是否涉及 Sponsorship。"
+  },
+  {
+    "id": "/career/::0::1",
+    "route": "/career/",
+    "title": "index",
+    "section": "index",
+    "description": "",
+    "keywords": [],
+    "content": "、Graduate Program、Visa Requirement、Networking 和招聘渠道都需要单独理解。 01 Graduate Program 很多大型企业会提前数月开放 Graduate 招聘，时间线本身就是求职的一部分。 02 Visa Requirement 学会区分岗位是否接受学生签证、毕业生签证以及是否涉及 Sponsorship。 03 Job Platforms LinkedIn、Seek、GradConnection 和企业官网承担不同的岗位发现角色。 04 Networking Networking 不等于找人内推，而是逐渐建立真实的行业连接和职业信息来源。 COMING GUIDES 接下来会逐步完成的专题 CV CS CV 完整指南 从一页结构到 Internship 和 Project Bullet。 INTERNSHIP 第一份实习怎么找 没有工作经验时，应该从哪里开始。 GRADUATE 澳洲 Graduate 时间线 什么时候准备、什么时候投递、什么时候面试。 CODING Coding Interview 不是单纯刷题，而是掌握高频 Pattern。 TECHNICAL Technical Interview Backend、AI 和 CS Fundamentals 应该怎么准备。 BEHAVIORAL Behavioral Interview 建立自己的 STAR Story Bank，而不是现场编答案。 START BEFORE YOU FEEL READY 不要等到“准备好了”才开始投递。 真实申请本身就是发现 CV、项目和面试短板最快的方法之一。 查看路线 ↑"
+  },
+  {
+    "id": "/career/interview/::0::0",
+    "route": "/career/interview/",
+    "title": "面试",
+    "section": "面试",
+    "description": "",
+    "keywords": [],
+    "content": "系统整理 Coding、Technical、Backend、AI 和 Behavioral Interview。 目标不是背答案，而是建立真正可以应对追问的理解与表达。"
+  },
+  {
+    "id": "/career/roadmap/::0::0",
+    "route": "/career/roadmap/",
+    "title": "求职路线",
+    "section": "求职路线",
+    "description": "",
+    "keywords": [],
+    "content": "从大学阶段准备，到 Internship、Graduate、OA、Interview 和 Offer。 这里会逐步整理澳洲与国内两条主要求职路线，让你知道每个阶段应该准备什么。"
+  },
+  {
+    "id": "/career/sydney/::0::0",
+    "route": "/career/sydney/",
+    "title": "悉尼 CS 求职",
+    "section": "悉尼 CS 求职",
+    "description": "",
+    "keywords": [],
+    "content": "围绕悉尼本地的软件工程、AI、Graduate 和 Internship 岗位展开。 后续会逐步加入公司分类、招聘流程与岗位 Tracker。"
+  },
+  {
+    "id": "/free/::0::0",
+    "route": "/free/",
+    "title": "🎁 免费资源",
+    "section": "🎁 免费资源",
+    "description": "",
+    "keywords": [],
+    "content": "真正能够直接使用，而不是故意做残缺的免费资源。 这里会持续整理 GradBridge 的 Roadmap、Checklist、Template 和 Tracker。 免费内容本身就应该能够解决一个具体问题。 --- 计划提供： - CS 求职 Roadmap - CV Checklist - Interview Checklist - Backend Roadmap - AI Roadmap - Sydney Newcomer Checklist - Renting Checklist - Job Tracker"
+  },
+  {
+    "id": "/::0::0",
+    "route": "/",
+    "title": "工具",
+    "section": "工具",
+    "description": "",
+    "keywords": [],
+    "content": "WHY GRADBRIDGE 海外 CS 学生真正缺的，不是又一个博客 大学课程告诉你知识，LeetCode 告诉你怎么刷题，招聘网站告诉你哪里有岗位。 真正困难的是：怎么把学习、技术、项目、求职和生活连成一条完整路线。 01 学什么 知道当前阶段真正值得投入时间的方向。 02 做什么 从课程走向项目、实习和真实工程能力。 03 怎么求职 从 CV 到 OA、面试，再走向第一份 Offer。 04 怎么生活 解决悉尼租房、生活与留学阶段的现实问题。 START FROM HERE 从你现在最需要解决的问题开始 不用一次看完整个 GradBridge。选择你当前所在的阶段，直接进入对应路线。 01 我刚开始读 CS 从大学规划、技术基础和学习方法开始。 进入学习路线 → 02 我准备找实习 开始准备 CV、项目、岗位和面试。 进入求职路线 → 03 我想提升技术 系统学习 Backend、Java、AI 和 System Design。 进入技术知识库 → 04 我刚来到悉尼 了解租房、生活、工作和周末路线。 进入悉尼指南 → FROM STUDENT TO ENGINEER 从学生到工程师，是一条连续的成长路径 01 进入大学 适应课程与海外学习方式 02 建立技术基础 CS Basics · Backend · AI 03 完成真实项目 从会写代码到能交付系统 04 准备求职 CV · LinkedIn · Job Tracker 05 通过面试 OA · Coding · Technical · Behavioral 06 拿到第一份工作 完成从学生到工程师的转化 FREE FIRST 真正有价值的内容，应该先让学生用起来 GradBridge 第一阶段不会把核心知识藏在付费墙后面。免费内容本身就应该能够解决一个实际问题。 CS 求职 Roadmap 从准备 CV 到最终 Offer 的完整路线。 查看路线 → Backend Roadmap 从 HTTP、Database 到 Redis 和 System Design。 开始学习 → CV Checklist 检查你的简历是否满足技术岗位的基本要求。 获取资源 → Sydney Checklist 新生落地、租房与本地生活的实用清单。 查看指南 → BEYOND CONTENT 未来， 它不只是一份知识库 随着真实用户需求增加，GradBridge 会逐步加入真正能节省时间的学生工具。 01 Australia Job Tracker 集中查看与管理 Internship / Graduate 岗位。 02 AI CV Checker 分析 CV 的结构、关键词与岗位匹配度。 03 JD · CV Matcher 快速判断职位要求和个人背景之间的差距。"
+  },
+  {
+    "id": "/::0::1",
+    "route": "/",
+    "title": "工具",
+    "section": "工具",
+    "description": "",
+    "keywords": [],
+    "content": "知识库 随着真实用户需求增加，GradBridge 会逐步加入真正能节省时间的学生工具。 01 Australia Job Tracker 集中查看与管理 Internship / Graduate 岗位。 02 AI CV Checker 分析 CV 的结构、关键词与岗位匹配度。 03 JD · CV Matcher 快速判断职位要求和个人背景之间的差距。 04 AI Mock Interview 面向 Backend、AI 与 Behavioral 的模拟面试。 BUILD WITH US GradBridge 不需要只由一个人完成 未来希望有更多海外 CS 学生、毕业生和工程师参与内容 Review、投稿与资源维护。 如果你有真实经验，也可以成为 Contributor。 了解 GradBridge 加入我们 →"
+  },
+  {
+    "id": "/premium/::0::0",
+    "route": "/premium/",
+    "title": "✨ 升级",
+    "section": "✨ 升级",
+    "description": "",
+    "keywords": [],
+    "content": "免费知识库始终是 GradBridge 的基础。 未来的付费功能不会通过隐藏基础知识来制造付费墙，而是提供更高效率、更深度和更个性化的服务。 ---"
+  },
+  {
+    "id": "/premium/::1::0",
+    "route": "/premium/",
+    "title": "✨ 升级",
+    "section": "Free",
+    "description": "",
+    "keywords": [],
+    "content": "知识库、基础指南、Roadmap 与部分工具。"
+  },
+  {
+    "id": "/premium/::2::0",
+    "route": "/premium/",
+    "title": "✨ 升级",
+    "section": "Plus",
+    "description": "",
+    "keywords": [],
+    "content": "Coming Soon."
+  },
+  {
+    "id": "/premium/::3::0",
+    "route": "/premium/",
+    "title": "✨ 升级",
+    "section": "Pro",
+    "description": "",
+    "keywords": [],
+    "content": "Coming Soon. 现阶段不会开放正式收费。"
+  },
+  {
+    "id": "/study/::0::0",
+    "route": "/study/",
+    "title": "学习",
+    "section": "学习",
+    "description": "",
+    "keywords": [],
+    "content": "GRADBRIDGE · STUDY 从海外 CS 学习规划、课程管理，到项目、LeetCode、实习准备，GradBridge 帮你知道每个阶段真正应该优先做什么。 查看四年成长路线 学习效率指南 → YOUR STAGE 你现在处在哪个阶段？ 不同年级需要解决的问题完全不同。先找到自己的阶段，再决定时间应该花在哪里。 YEAR 01 大一 · 建立基础 适应大学、掌握一门语言、Git、数据结构，并完成第一个真正的项目。 开始大一路线 → YEAR 02 大二 · 开始职业化 完善项目、准备第一版 CV、开始 LeetCode，并进入 Internship 市场。 进入大二路线 → YEAR 03 大三 · 求职主战场 Internship、Graduate、Coding Interview 与技术方向深化逐渐成为重点。 进入大三路线 → YEAR 04 大四 · 完成转化 平衡毕业课程、求职、面试与最终 Offer，完成从学生到工程师的过渡。 进入大四路线 → WHAT MATTERS 大学阶段真正值得管理的四件事 01 Academic 保持稳定课程表现，学会管理 WAM / GPA、考试和 Deadline。 02 Technical 建立 CS 基础，并逐渐形成 Backend、AI 或其他明确技术方向。 03 Projects 从课程作业走向真正能写进 CV、也能在面试中讲清楚的项目。 04 Career 提前准备 Internship、Graduate、CV 和面试，而不是毕业前才开始。 POPULAR GUIDES 先从这些问题开始 成长规划 海外 CS 四年成长路线 从大一到毕业，每个阶段应该把时间花在哪里。 实习准备 什么时候开始找实习 从 CV、项目、LeetCode 到真正投递，什么时候开始准备最合适。 时间分配 WAM 和求职怎么平衡 成绩、项目、实习和技术能力之间应该如何做取舍。 学习效率 课程、项目和 LeetCode 避免所有事情同时堆积，建立可持续的大学学习节奏。 团队协作 Group Project 生存指南 任务拆分、Git 协作、会议和贡献记录应该怎么做。 沟通能力 如何和 Tutor 沟通 怎样提出一个更容易得到高质量回答的问题。 下一阶段 Honours 值不值得做 从研究、就业和机会成本三个角度判断是否适合自己。 FIND YOUR NEXT STEP 你现在遇到什么问题？ 不用先知道应该看哪篇文章。直接从你现在真正遇到的问题开始。 刚入学 我刚入学，不知道从哪里开始 先把课程、编程基础、Git 和第一个项目安排清楚。 第一份实习 我想开始准备第一份实习 从 CV、项目、LeetCode 到投递，找到正确的准备顺序。 时间分配 成绩和项目时间到底怎么平衡？ 判断现在更应该投入 WAM、技术、项目还是求职。"
+  },
+  {
+    "id": "/study/::0::1",
+    "route": "/study/",
+    "title": "学习",
+    "section": "学习",
+    "description": "",
+    "keywords": [],
+    "content": "你现在遇到什么问题？ 不用先知道应该看哪篇文章。直接从你现在真正遇到的问题开始。 刚入学 我刚入学，不知道从哪里开始 先把课程、编程基础、Git 和第一个项目安排清楚。 第一份实习 我想开始准备第一份实习 从 CV、项目、LeetCode 到投递，找到正确的准备顺序。 时间分配 成绩和项目时间到底怎么平衡？ 判断现在更应该投入 WAM、技术、项目还是求职。 学习节奏 课程、项目和 LeetCode 怎么一起做？ 建立可以持续一个学期，而不是坚持一周的学习节奏。 团队协作 Group Project 怎么避免最后一周崩掉？ 从任务拆分、Git、Meeting 到贡献记录，把团队协作真正管起来。 未来选择 我到底该不该做 Honours？ 从 Research、就业、导师和机会成本判断它是否适合你。 START SMALL 不用一次规划完整个大学。 先解决你现在最重要的一个问题，然后再进入下一阶段。 开始学习 →"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::0::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "课程、项目与 LeetCode 怎么分配",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "三者都重要，但它们解决的是完全不同的问题。 很多 CS 学生会陷入一个循环： 问题不是你不努力。 而是没有给不同类型的成长建立固定位置。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::1::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "课程",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "主要建立： - CS 基础 - 系统知识 - Academic Performance - Structured Learning"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::2::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "项目",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "主要训练： - Engineering - Debugging - Architecture - Git - Collaboration - Delivery"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::3::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "LeetCode",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "主要训练： - Data Structures - Algorithm Pattern - Problem Solving - Coding Interview 所以任何一个都无法完全替代其他两个。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::4::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "大一的优先级",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "建议更偏向： 原因很简单： 如果连编程和数据结构都还不熟，过早大量刷题收益有限。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::5::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "大二的优先级",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "逐渐变成： 这一阶段最重要的是不要再只有 Coursework。 你需要开始留下真正属于自己的技术资产。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::6::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "大三的优先级",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "如果进入招聘周期，通常需要提高求职相关投入。 例如： 此时项目数量不一定需要继续增长。 更重要的是： - 项目能不能讲 - 算法能不能写 - 基础能不能答 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::7::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "大四的优先级",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "最后一年通常更加岗位导向。 不要因为觉得“还没学完”而无限推迟申请。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::8::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "推荐使用固定时间块",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "相比“有空就做”，固定时间更稳定。 例如： 具体小时数并不重要。 重要的是长期不断线。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::9::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "如何判断现在应该把时间加到哪里",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "看你的最短板。"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::10::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "成绩已经危险",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "优先课程。"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::11::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "成绩稳定，但没有项目",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "增加项目投入。"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::12::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "项目很多，但 OA 总挂",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "增加 LeetCode。"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::13::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "OA 能过，但面试讲不清项目",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "减少新项目，开始 Deep Dive。 这比固定使用“40% / 30% / 30%”更有效。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::14::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "不要把项目理解成额外负担",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "好的项目可以同时帮助你学习： - Database - Network - Backend - Testing - Git - Deployment 它本身也是学习方法。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::15::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "不要把 LeetCode 理解成考试题库",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "如果只是记答案，很容易换一道题就不会。 更有效的是建立 Pattern。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::16::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "一个实用的每周 Review",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "每周末只回答四个问题： 1. 这周课程最大的知识缺口是什么？ 2. 项目推进了什么？ 3. 新掌握了哪个算法 Pattern？ 4. 下周最重要的一件事是什么？ 这比每天重新规划整个大学生涯更有效。 ---"
+  },
+  {
+    "id": "/study/method/course-project-leetcode::17::0",
+    "route": "/study/method/course-project-leetcode",
+    "title": "课程、项目与 LeetCode 怎么分配",
+    "section": "最终原则",
+    "description": "海外 CS 学生如何在课程、个人项目和 LeetCode 之间安排时间，并根据不同阶段调整优先级。",
+    "keywords": [
+      "CS 学习方法",
+      "LeetCode",
+      "项目",
+      "课程",
+      "时间管理"
+    ],
+    "content": "不要追求每天三项全部完成。 追求的是： 整个学期里，课程、项目和算法都在持续向前。"
+  },
+  {
+    "id": "/study/method/group-project-guide::0::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "Group Project 指南",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "Group Project 真正考验的不只是代码，而是你能不能让一群人持续把事情推进。 大学团队项目经常出现这些问题： - 有人一直不回复 - 两个人同时改同一个文件 - Deadline 前才 Merge - 每个人以为别人会做 - Meeting 很多，但没有 Action Item - 最后无法证明自己的贡献 这些问题本质上都是协作问题。 ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::1::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "项目开始第一天就应该明确什么",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "至少先明确： - 项目目标 - Deliverables - Deadline - Team Roles - Communication Channel - Git Workflow - Meeting Frequency - Task Tracking 如果这些东西一直模糊，项目越到后面越容易混乱。 ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::2::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "不要只说“你做前端，我做后端”",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "这种分工粒度太大。 更好的 Task 应该可以验证。 例如： 每个 Task 最好至少有： - Owner - Expected Output - Due Date - Status ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::3::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "Git 尽早统一",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "团队项目至少应该提前约定： - Branch 怎么命名 - 谁可以直接改 main - Pull Request 是否必须 Review - Merge Conflict 怎么处理 - Commit Message 大致规范 一个简单工作流可以是： 不要所有人长期直接在 main 上开发。 ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::4::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "Meeting 不应该只是聊天",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "每次 Meeting 最好回答三件事。"
+  },
+  {
+    "id": "/study/method/group-project-guide::5::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "上次完成了什么",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "每个人快速 Update。"
+  },
+  {
+    "id": "/study/method/group-project-guide::6::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "当前卡在哪里",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "把 Blocker 尽早暴露。"
+  },
+  {
+    "id": "/study/method/group-project-guide::7::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "下一步谁做什么",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "形成明确 Action Item。 Meeting 结束时应该留下： 否则会议很容易变成“大家都觉得讨论过了”。 ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::8::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "如何处理队友进度慢",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "第一反应不要直接指责。 先确认： - 任务是否清楚 - 对方是否知道 Deadline - 是否有技术 Blocker - 任务是否过大 如果需要，可以把任务拆小。 例如把： 完成 Dashboard 拆成： 如果多次沟通仍然没有进展，再通过团队既定机制或课程要求升级问题。 ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::9::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "冲突怎么处理",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "尽量讨论行为和结果，不评价人。 例如不要说： 你太不负责了。 更有效的是： 这个 Task 原定周二完成，现在还没有 Merge，这会影响后续 Integration。我们需要重新确认完成时间。 把讨论集中在： - Task - Deadline - Impact - Next Action ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::10::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "保留自己的贡献记录",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "这不仅为了 Peer Review。 以后写 CV 和准备面试时也很重要。 你可以持续记录： - 完成的 Feature - Pull Request - Bug Fix - Design Decision - Meeting Contribution - Client Communication - Testing 项目结束后，你会更容易回答： 你在这个团队项目里具体做了什么？ ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::11::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "把 Group Project 变成面试故事",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "一个团队项目可以转化成很多 Behavioral Story。 例如： - Conflict - Leadership - Communication - Tight Deadline - Technical Challenge - Ownership 结构仍然可以使用 STAR。 ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::12::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "项目结束前做一次整理",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "- [ ] README 完整 - [ ] 架构说明清楚 - [ ] Branch / PR 已整理 - [ ] Demo 可以正常运行 - [ ] 每个人的贡献可追踪 - [ ] Known Issues 已记录 - [ ] 项目成果可以用于 CV ---"
+  },
+  {
+    "id": "/study/method/group-project-guide::13::0",
+    "route": "/study/method/group-project-guide",
+    "title": "Group Project 指南",
+    "section": "最终原则",
+    "description": "海外大学 CS Group Project 实战指南：分工、Git、会议、沟通、冲突、进度与个人贡献记录。",
+    "keywords": [
+      "Group Project",
+      "团队项目",
+      "Git",
+      "Collaboration",
+      "CS"
+    ],
+    "content": "好的 Group Project 不意味着从来没有冲突。 而是团队能够不断把： 讲清楚并推进下去。"
+  },
+  {
+    "id": "/study/method/tutor-communication::0::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "如何和 Tutor 沟通",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "好的提问不是“我不会”，而是让对方快速知道你理解到哪里、尝试过什么、具体卡在哪里。 很多学生不是没有问题。 而是不知道应该怎么问。 结果常见两种情况： - 完全不问，自己卡几个小时 - 只说“我的代码为什么不工作” 高质量沟通本身也是工程能力。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::1::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "提问前先整理问题",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "一个好的技术问题通常包含： 这会让 Tutor 更快定位问题。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::2::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "不要直接说“我的代码错了”",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "例如： 我的程序运行不了，可以帮我看看吗？ 信息非常少。 更好的表达是： 我正在实现 X。当前输入 A 时得到 B，但我预期得到 C。我已经检查了循环条件和输入格式，目前怀疑问题在这里。 这能展示你已经进行过 Debug。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::3::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "提问代码问题时准备最小上下文",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "尽量带上： - Error Message - Relevant Code - Input - Expected Output - Actual Output - 已尝试的方法 不要一开始就把整个几千行项目发过去。 先缩小问题范围。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::4::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "Office Hour 怎么利用",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "Office Hour 不只适合“作业做不出来”。 你还可以讨论： - 课程概念 - 为什么一种方法比另一种好 - 学习方向 - Project Design - Further Reading 提前准备两三个明确问题，通常比现场临时想更有效。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::5::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "邮件怎么写",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "邮件建议尽量清楚简短。 结构可以是： 例如主题不要只写： Help 而可以写得更具体： Question about Week 5 database transaction concept 这样对方更容易判断邮件内容。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::6::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "关于 Assignment，什么可以问",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "你可以询问： - Requirement 的理解 - 公开知识点 - Error Message 的含义 - Debug 方法 - 课程允许范围内的 Clarification 但不要要求 Tutor： - 直接完成 Assignment - 给出完整答案 - 验证整份作业是否一定满分 - 绕过 Academic Integrity 要求 如果不确定边界，先问课程 Staff 什么程度的帮助是允许的。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::7::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "为什么“展示尝试过程”很重要",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "技术学习最有价值的地方往往不是答案本身。 而是你如何排除错误。 例如： 这已经是很好的提问材料。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::8::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "如果 Tutor 的解释还是听不懂",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "可以直接继续问。 例如： 我理解前半部分，但不太理解为什么这里会变成 O(n log n)，可以再解释一下这个步骤吗？ 这比假装听懂更有价值。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::9::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "和 Tutor 建立专业关系",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "不需要刻意“套近乎”。 长期表现出这些特点就足够： - 按时出现 - 认真准备 - 提问具体 - 接受 Feedback - 下次能看到改进 这本身就会形成专业印象。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::10::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "什么都没试就直接问",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "先做基本排查。"
+  },
+  {
+    "id": "/study/method/tutor-communication::11::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "一次发大量无关代码",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "尽量缩小范围。"
+  },
+  {
+    "id": "/study/method/tutor-communication::12::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "只问答案，不问原因",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "短期可能解决问题，但长期能力不会增长。"
+  },
+  {
+    "id": "/study/method/tutor-communication::13::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "害怕问“简单问题”",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "真正的问题不是问题简单。 而是同一个问题长期不理解又不解决。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::14::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "一个可以长期使用的提问模板",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "只要能够把这六项写清楚，大多数问题都会容易沟通很多。 ---"
+  },
+  {
+    "id": "/study/method/tutor-communication::15::0",
+    "route": "/study/method/tutor-communication",
+    "title": "如何和 Tutor 沟通",
+    "section": "最终原则",
+    "description": "海外 CS 学生与 Tutor、Lecturer 沟通的实用方法：提问、Office Hour、邮件、Debug 和 Academic Integrity。",
+    "keywords": [
+      "Tutor",
+      "Lecturer",
+      "Office Hour",
+      "CS 学习",
+      "提问"
+    ],
+    "content": "不要把向 Tutor 求助理解成“能力不够”。 真正成熟的学习方式是： 先独立思考，再高质量提问，然后把反馈转化成自己的理解。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::0::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "大一应该做什么",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "大一的目标不是提前学完整个计算机科学，而是建立一套以后能够持续增长的基础。 刚进入 CS 时最容易出现两个极端： - 觉得自己什么都不会，所以只跟着课程走 - 看别人刷题、实习、做 AI，于是什么都想同时开始 更合理的方法是把第一年拆成几个明确目标。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::1::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "大一结束时，你应该达到什么状态",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "理想情况下，大一结束时你应该能够： - 熟练使用至少一门主要编程语言 - 理解基础数据结构和算法 - 使用 Git 和 GitHub - 独立完成一个小型项目 - 阅读基本技术文档 - Debug 自己的代码 - 开始接触 LeetCode - 知道 Backend、AI、Data、Security 等方向大概在做什么 你不需要已经成为工程师。 但应该开始从“只会完成作业”走向“能够自己做东西”。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::2::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "第一阶段：先适应大学，而不是急着卷",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "海外大学与高中最大的差别之一，是很多事情不会有人持续提醒你。 你需要开始自己管理： - Lecture - Tutorial / Lab - Assignment - Quiz - Group Project - Exam - Personal Project - 求职准备 建议尽早形成自己的每周系统。 例如： 不要等考试周才第一次整理课程。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::3::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "第二阶段：真正学会一门语言",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "大一阶段最重要的不是语言数量。 如果学校主要使用 Java，就先把 Java 学扎实。 如果主要使用 Python，也可以先围绕 Python 建立基础。 至少需要逐渐掌握： - Variable - Condition - Loop - Function - Array / List - Class - Object - Inheritance - Exception - File I/O - 基础 Debug 你的判断标准不是： “我看过这个语法。” 而是： “不给我模板，我能不能自己写出来？” ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::4::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "第三阶段：把数据结构学明白",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "第一年常见的数据结构包括： - Array - ArrayList / List - Linked List - Stack - Queue - HashMap - Set - Tree 基础 学习时不要只背定义。 每个数据结构至少问四个问题： 1. 它解决什么问题？ 2. 常见操作是什么？ 3. 时间复杂度是多少？ 4. 什么场景下应该使用它？ 例如 HashMap 的价值不是“面试会考”。 而是它能够帮助你快速通过 Key 找到 Value。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::5::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "第四阶段：尽早学 Git 和 GitHub",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "很多学生直到 Group Project 才第一次认真使用 Git。 其实大一就应该开始。 至少掌握： 并理解： - Repository - Commit - Branch - Merge - Remote - Conflict 从第一个个人项目开始，就把代码放在 GitHub。 你的 GitHub 不需要一开始就很漂亮。 重要的是形成长期使用习惯。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::6::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "第五阶段：完成第一个真正的项目",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "不要一开始就挑战“大型 AI 平台”或者“完整电商系统”。 第一个项目最重要的是完整。 例如： - Todo List - Expense Tracker - Course Planner - Personal Blog - Simple REST API - Weather Dashboard - Study Tracker 一个完整的小项目至少应该经历："
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::7::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "README 至少写什么",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "- 项目是什么 - 为什么做 - 使用什么技术 - 如何运行 - 主要功能 - 后续可以改进什么 这已经比单纯上传代码强很多。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::8::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "第六阶段：开始 LeetCode，但不要被题数绑架",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "大一适合从基础题型开始。 推荐顺序： 这个阶段最重要的是理解模式。 你应该练习解释： - 为什么这样做 - 时间复杂度是多少 - 空间复杂度是多少 - 有没有边界情况 而不是追求“刷了 300 道”。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::9::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "第七阶段：开始了解不同技术方向",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "大一不需要立刻决定职业方向。 但可以开始观察："
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::10::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "Backend",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "如果你喜欢： - API - Database - 系统逻辑 - Server - 分布式系统 可以继续了解 Backend。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::11::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "AI / Machine Learning",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "如果你喜欢： - Python - 数据 - 模型 - 数学 - 实验 可以开始了解 AI / ML。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::12::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "Data",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "如果你喜欢： - SQL - 数据分析 - Visualization - Pipeline 可以了解 Data Engineering / Analytics。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::13::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "Security",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "如果你喜欢： - Network - Web Security - Vulnerability - Reverse Engineering 可以继续了解 Security。 探索可以广，但真正学习时最好逐渐形成主线。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::14::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "一个比较现实的每周分配",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "不需要每天学习十几个小时。 在课程正常进行的情况下，可以尝试： | 内容 | 建议 | | --- | --- | | 课程 | 优先完成并理解核心内容 | | 编程 | 每周持续练习 | | LeetCode | 少量、持续 | | 项目 | 每周固定时间推进 | | GitHub | 跟随项目自然维护 | | 技术探索 | 周末适量进行 | 核心不是每天全部做。 而是不要连续几个月完全停止其中某一条重要主线。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::15::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "只追求 WAM / GPA",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "成绩重要，但如果一年结束后完全不会独立做项目，后面仍然要补。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::16::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "同时学习太多语言",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "Java、Python、C++、JavaScript 全学一点，往往意味着没有一个真正熟练。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::17::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "复制 Tutorial 项目",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "跟着教程做项目可以入门，但最终需要离开教程自己做一次。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::18::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "过早焦虑实习",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "可以了解 Internship，但第一年的核心仍然是基础能力。"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::19::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "GitHub 只有 Assignment",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "学校作业并不等于完整个人技术作品。 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::20::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "大一结束 Checklist",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "- [ ] 熟练使用至少一门编程语言 - [ ] 理解常见基础数据结构 - [ ] 可以独立 Debug 基础程序 - [ ] 会使用 Git 和 GitHub - [ ] 有至少一个完整个人项目 - [ ] 项目有基本 README - [ ] 开始做基础 LeetCode - [ ] 对主要 CS 职业方向有初步认识 - [ ] 建立自己的学习和任务管理方式 ---"
+  },
+  {
+    "id": "/study/roadmap/first-year-guide::21::0",
+    "route": "/study/roadmap/first-year-guide",
+    "title": "大一应该做什么",
+    "section": "下一步",
+    "description": "海外 CS 新生第一年行动指南：课程、编程基础、GitHub、第一个项目、LeetCode 与大学学习习惯。",
+    "keywords": [
+      "CS 大一",
+      "海外 CS",
+      "编程入门",
+      "GitHub",
+      "第一个项目",
+      "LeetCode"
+    ],
+    "content": "进入大二后，重点会逐渐从： 变成： 下一篇：大二应该做什么。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::0::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "海外 CS 四年成长路线",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "从进入大学，到拿到第一份技术工作，你真正需要规划的并不只是成绩。 很多 CS 学生的问题并不是“不努力”，而是每个阶段做的事情顺序不对。 有人大一就疯狂刷 LeetCode，却没有任何项目； 有人大三才第一次写 CV； 有人 WAM 很高，但 GitHub 上没有一个能讲清楚的项目； 也有人做了很多项目，却从来没有系统准备面试。 真正有效的成长路线，是把几件事同时放进一张长期地图： - 课程与基础 - 编程与工程能力 - 项目 - 实习 - CV - LeetCode - 面试 - Networking - Graduate / Internship 申请 这篇文章给出的是一条 通用海外 CS 成长路线。 它不是要求每个人严格按照同样的速度前进，而是帮助你判断： 我现在处于什么阶段？ 这一阶段最重要的事情是什么？ 下一阶段应该提前准备什么？ ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::1::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "先看全局：大学四年到底在积累什么",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "如果把大学四年压缩成一句话： 你最终需要形成的，不是一张只有成绩的成绩单，而是一套完整的能力组合。 | 能力 | 最终应该留下什么 | | --- | --- | | 学术基础 | Algorithms、Database、OS、Network 等基础理解 | | 编程能力 | 能独立写、调试和维护代码 | | 工程能力 | Git、API、Database、Deployment、Testing | | 项目能力 | 2–4 个能够深入讲解的项目 | | 求职能力 | CV、LeetCode、Interview、Behavioral | | 职业认知 | 知道自己更适合 Backend、AI、Data、Security 等哪个方向 | 最危险的情况不是某一项暂时比较弱。 而是到了毕业前才第一次意识到这些东西需要同时准备。 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::2::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "核心目标",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "大一最重要的任务不是“提前学完整个计算机科学”。 真正应该完成的是三件事： 1. 适应大学学习方式 2. 建立稳定的编程基础 3. 开始形成自己的技术输出"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::3::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "课程",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "优先保证基础课程真正学会。 尤其需要关注： - Programming Fundamentals - Object-Oriented Programming - Data Structures - Discrete Mathematics - 基础 Algorithms 不要只以“作业能交”为标准。 你应该逐渐能够回答： - 为什么这里要用 class？ - Array 和 Linked List 的区别是什么？ - 时间复杂度为什么重要？ - Recursion 到底在解决什么问题？ - Debug 时应该从哪里开始找问题？"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::4::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "编程",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "大一结束时，理想状态不是掌握十门语言。 而是至少有一门语言达到“可以真正写东西”的程度。 例如："
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::5::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "项目",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "这一阶段不需要追求所谓“大项目”。 一个完整的小项目，通常比五个只写了一半的项目更有价值。 可以从这些类型开始： - Todo / Task Manager - 简单博客系统 - Course Planner - Expense Tracker - REST API - 小型数据分析项目 重点不是项目名字，而是你是否经历过："
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::6::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "LeetCode",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "大一可以开始，但不要让 LeetCode 占据全部时间。 推荐优先理解： - Array - String - HashMap - Stack - Queue - Linked List - Binary Search - 基础 Recursion 这个阶段的目标是建立题型认知，而不是追求刷题数量。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::7::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "大一结束 Checklist",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "- [ ] 至少熟练使用一门编程语言 - [ ] 理解基础数据结构 - [ ] 会使用 Git / GitHub - [ ] 有至少一个完整项目 - [ ] 能写基本 README - [ ] 开始接触 LeetCode - [ ] 对 Backend / AI / Data / Security 等方向有初步认识 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::8::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "核心目标",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "大二是非常关键的一年。 因为你需要开始从： 走向："
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::9::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "开始选择技术方向",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "这个阶段可以开始探索自己的主方向。 例如： Backend AI / ML Computer Vision 不用过早把自己锁死在一个方向。 但最好开始形成一个明显的主线。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::10::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "项目升级",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "大二的项目应该开始具备工程结构。 例如 Backend 项目可以逐渐包含： - Authentication - REST API - Database - Redis - Testing - Docker - Deployment 项目开始从： “我做过一个网站” 升级成： “我设计了什么系统，解决了什么问题，为什么这样设计。”"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::11::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "第一版 CV",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "不要等真正申请工作时才第一次写 CV。 大二就应该建立自己的第一版。 哪怕内容还不够强，也可以帮助你发现自己的缺口。 CV 至少开始包含： - Education - Technical Skills - Projects - Experience - GitHub"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::12::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "开始关注 Internship",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "不同国家、公司和年份的招聘时间差异很大，因此具体开放时间需要查看当年的官方招聘页面。 但从能力准备角度，大二开始关注 Internship 并不算早。 你至少应该开始知道： - 哪些公司招 Intern - 常见申请流程是什么 - CV 需要什么 - OA 通常考什么 - Technical Interview 会问什么"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::13::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "大二结束 Checklist",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "- [ ] 有明确的主技术方向 - [ ] 至少有一个工程化程度较高的项目 - [ ] CV 已经有第一版 - [ ] GitHub 开始形成个人技术主页 - [ ] LeetCode 已覆盖常见基础题型 - [ ] 开始关注 Internship - [ ] 能清楚介绍至少一个项目 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::14::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "核心目标",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "大三开始，求职不能再只是“有空的时候准备一下”。 需要把它当成一个长期项目。 核心流程通常可以理解为："
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::15::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "CV 不再只是个人介绍",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "此时 CV 的作用是： 在很短时间里证明你值得进入下一轮。 项目描述应该尽量回答： - 你做了什么？ - 为什么做？ - 使用了什么技术？ - 你具体负责什么？ - 最终结果是什么？ 避免只写： 更应该体现问题、动作与结果。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::16::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "LeetCode 系统化",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "这一阶段需要逐步覆盖： - Array / String - HashMap - Two Pointers - Sliding Window - Stack / Queue - Linked List - Binary Search - Tree - Heap - Graph - DFS / BFS - Backtracking - Dynamic Programming 基础 不要只记答案。 真正需要训练的是："
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::17::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "Technical Interview",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "除了算法，技术面试往往还会回到你的基础和项目。 例如： - OOP - Database - Operating Systems - Network - HTTP - REST API - Authentication - Redis - Concurrency - 项目架构 - Debug 过程 因此“只刷题”并不能完整覆盖技术面试。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::18::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "Behavioral Interview",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "需要逐渐积累自己的故事库。 例如： - 一次团队冲突 - 一次失败 - 一次技术决策 - 一次 Leadership 经历 - 一次 deadline 压力 - 一次解决复杂问题的经历 建议使用 STAR："
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::19::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "大三结束 Checklist",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "- [ ] CV 可以正式投递 - [ ] 有 2–4 个可以深入讲解的项目 - [ ] LeetCode 常见模式已经系统覆盖 - [ ] 能进行完整项目面试 - [ ] 有 Behavioral 故事库 - [ ] 开始持续追踪 Internship / Graduate 岗位 - [ ] 至少经历过真实申请流程 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::20::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "核心目标",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "大四最大的变化是： 不再只是“继续提升能力”，而是开始完成职业转换。 这一阶段主要处理： - Graduate Program - Full-time Software Engineer - Internship 转正 - Research / Honours - Master / PhD - 不同国家或地区的就业选择"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::21::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "求职进入持续迭代",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "不要把每次拒绝都理解成“能力不行”。 更有效的方法是拆解漏斗： 通过漏斗判断问题，比单纯增加投递数量更有效。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::22::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "项目从“展示”升级到“深度”",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "到了大四，不一定需要继续无限增加项目数量。 更重要的是把已有项目讲深。 你应该能够回答： - 为什么选择这个架构？ - 如果用户量增加十倍怎么办？ - Database 为什么这样设计？ - 遇到过什么 Bug？ - 最大技术挑战是什么？ - 如果重新做一次会改什么？"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::23::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "大四结束 Checklist",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "- [ ] 有稳定版本 CV - [ ] 有明确岗位方向 - [ ] 有持续维护的 Job Tracker - [ ] 能完成完整 Technical Interview - [ ] 能完成 Behavioral Interview - [ ] 能深入讲解核心项目 - [ ] 对毕业后的路径已有明确 Plan A / B ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::24::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "WAM / GPA 到底应该放在什么位置",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "成绩重要，但它不是大学四年的唯一目标。 一个更合理的理解是： 如果为了提高很少的分数，把项目、实习、求职准备全部推迟，机会成本可能很高。 反过来，如果为了做项目完全忽视课程，也可能导致基础薄弱。 真正需要做的是平衡。 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::25::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "误区 1：等课程教完再做项目",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "课程永远不会把所有工程能力全部教完。 项目本身就是学习的一部分。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::26::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "误区 2：项目越多越好",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "三个可以深入讲解的项目，通常比十个 Tutorial 项目更有价值。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::27::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "误区 3：大四再开始准备求职",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "CV、LeetCode、项目和面试都需要长期积累。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::28::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "误区 4：只刷 LeetCode",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "算法只是求职的一部分。 你仍然需要基础知识、项目表达、Behavioral 和工程能力。"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::29::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "误区 5：看到别人进度快就频繁换方向",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "长期稳定积累通常比不断重启更重要。 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::30::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "一张更实用的四年时间线",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "| 阶段 | 学习 | 技术 | 项目 | 求职 | | --- | --- | --- | --- | --- | | 大一 | 编程、数据结构 | Git、基础开发 | 小型完整项目 | 了解职业方向 | | 大二 | CS 核心课 | 选择主技术栈 | 工程化项目 | CV、关注 Internship | | 大三 | 补齐基础 | 深化方向 | 核心项目 | Internship / Interview | | 大四 | 按需补强 | 面向岗位优化 | 项目深挖 | Graduate / Full-time | ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::31::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "如果你现在已经晚于这条路线怎么办",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "不用重新从“大一任务”开始按年份补。 应该按优先级补。 例如你已经大三，但没有项目： 重点不是追赶别人的时间线。 而是找到你当前最影响下一步结果的短板。 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::32::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "最后的判断标准",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "每隔三到六个月，可以重新问自己五个问题： 1. 我现在最强的技术方向是什么？ 2. 我有没有一个能讲 10–15 分钟的项目？ 3. 如果今天看到一个 Internship，我的 CV 能不能直接投？ 4. 如果明天安排 Technical Interview，我最薄弱的是哪一部分？ 5. 我现在做的事情，是否真的在提高下一阶段的竞争力？ 如果这五个问题你越来越能回答清楚，说明你的成长方向基本是对的。 ---"
+  },
+  {
+    "id": "/study/roadmap/four-year-roadmap::33::0",
+    "route": "/study/roadmap/four-year-roadmap",
+    "title": "海外 CS 四年成长路线",
+    "section": "下一步",
+    "description": "从大一到毕业，把课程、技术、项目、实习与求职放进同一条时间线。",
+    "keywords": [],
+    "content": "四年路线解决的是“什么时候做什么”。 接下来可以继续拆解： - 大一到底应该做什么 - 什么时候开始找实习 - WAM 与求职怎么平衡 - Honours 是否值得做 - 课程、项目与 LeetCode 如何分配时间 GradBridge 会把这些问题继续拆成独立指南。 不要试图一次完成整个大学规划。先把下一阶段最重要的一件事做好。"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::0::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "大四应该做什么",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "大四的核心任务不是“再多学一点”，而是完成从学生到职业工程师的转换。 到了最后一年，你会同时面对很多事情： - Final-year courses - Capstone - Honours / Thesis - Graduate Program - Full-time Application - Interview - 毕业规划 - Visa / Location - Master / PhD 选择 所以大四最重要的是优先级。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::1::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "大四结束时，你真正需要的结果",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "理想情况下，你应该拥有： - 明确的目标岗位 - 稳定版本的 CV - 2–4 个能深入讲解的核心项目 - 比较成熟的面试能力 - 稳定维护的 Job Tracker - 对 Graduate / Full-time 招聘节奏有认识 - 明确的 Plan A / Plan B 并且能够清楚回答： 我毕业后准备做什么？ ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::2::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第一件事：明确你的目标岗位",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "到了大四，求职方向最好已经比较明确。 例如： - Software Engineer - Backend Engineer - AI Engineer - Machine Learning Engineer - Data Engineer - Security Engineer - Graduate Developer 不要再使用非常模糊的目标： “只要是 CS 工作都可以。” 方向越明确，你越容易决定： - CV 放什么 - 项目强调什么 - 技术补什么 - 面试准备什么 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::3::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第二件事：Graduate / Full-time 提前准备",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "很多 Graduate Program 的招聘周期可能早于毕业。 具体开放时间、Eligibility 和 Deadline 每年都可能变化。 因此实际申请时必须检查公司官方 Career Page。 但准备工作可以提前完成： - CV - Transcript - GitHub - LinkedIn - Cover Letter 模板 - Behavioral 故事 - LeetCode - Job Tracker 不要等 Deadline 前一天才整理。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::4::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第三件事：停止无限增加项目",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "大四常见误区之一，是觉得简历不够强，于是不断做新项目。 但到了这个阶段，很多时候更重要的是： 把已有项目讲深。 一个核心项目至少应该能回答： - 项目解决什么问题？ - 架构是什么？ - 你负责什么？ - 最难的技术问题是什么？ - 为什么选择这个技术？ - 出现过什么失败？ - 怎么 Debug？ - 如何测试？ - 如何部署？ - 如果重新设计会改什么？ 甚至可以继续思考： 如果用户从 100 人增长到 100 万人，会发生什么？ 这就是项目开始接近 System Design 的地方。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::5::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第四件事：建立求职漏斗",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "大四不应该只看“投了多少份”。 应该看完整漏斗： 不同位置的转化率，可以帮助你判断问题在哪里。"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::6::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Application → OA 很低",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "可能需要检查： - CV - 岗位匹配 - Eligibility - 招聘时间"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::7::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "OA → Interview 很低",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "可能需要检查： - LeetCode - Coding Speed - Edge Cases - Test Cases"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::8::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Interview → Offer 很低",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "可能需要检查： - Technical Depth - Project Explanation - Behavioral - Communication 这种分析比单纯“再投 100 家”更有价值。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::9::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第五件事：面试准备进入综合阶段",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "大四的面试准备应该逐渐整合。"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::10::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Coding",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- 常见 Algorithm Pattern - Complexity - Edge Cases - 清晰表达思路"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::11::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "CS Fundamentals",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- OOP - Database - OS - Network - Concurrency"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::12::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Engineering",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- API - Authentication - Cache - Testing - Deployment - Debugging"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::13::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Project",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- Architecture - Trade-off - Challenge - Impact"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::14::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Behavioral",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- Leadership - Conflict - Failure - Ownership - Learning - Collaboration 面试能力本质上是多个模块的组合。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::15::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第六件事：把 Capstone / Honours 转化成职业资产",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "Final-year Project、Capstone 或 Honours 不应该只在提交后结束。 可以继续整理成： - GitHub Repository - Technical README - Architecture Diagram - Portfolio Entry - CV Bullet Points - Interview Story 尤其需要明确： 哪些工作是你真正完成的？ 团队项目里这一点非常重要。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::16::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第七件事：建立 Plan A 和 Plan B",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "毕业前最好不要只有一条路线。 例如："
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::17::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Plan A",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "Graduate Software Engineer"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::18::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Plan B",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "Internship / Junior Engineer / Contract Role 或者："
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::19::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Plan A",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "直接就业"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::20::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "Plan B",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "继续 Master / Research Plan B 的意义不是悲观。 而是避免某一个时间节点没有结果时完全失去方向。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::21::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "第八件事：开始用工程师标准要求自己",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "学生时期常见判断标准是： “代码能运行。” 进入工作后，标准会逐渐变成： - 可读吗？ - 可维护吗？ - 有测试吗？ - 出错怎么办？ - 能部署吗？ - 有日志吗？ - 安全吗？ - 能被别人接手吗？ 因此最后一年应该逐渐改变自己的工程习惯。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::22::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "求职",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- 本月申请了什么？ - 哪些岗位进入下一轮？ - 哪个环节失败最多？"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::23::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "技术",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- 当前最大技术短板是什么？ - 有没有真正影响面试的问题？"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::24::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "项目",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- 核心项目能否深入讲解？ - README 是否完整？"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::25::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "面试",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- 最近遇到什么不会的问题？ - 是否已经补上？"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::26::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "方向",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- 目标岗位是否越来越清晰？ ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::27::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "等毕业后再找工作",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "很多招聘流程在毕业前就已经开始。"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::28::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "同时申请完全不同的岗位",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "如果 Backend、AI、Data、Product 全部使用同一套材料，往往很难突出匹配度。"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::29::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "只关注投递数量",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "投递多不代表求职流程健康。"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::30::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "项目越来越多，但都讲不深",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "最后一年应该优先强化深度。"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::31::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "没有 Plan B",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "求职具有不确定性，需要提前准备替代路径。 ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::32::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "大四结束 Checklist",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "- [ ] 目标岗位已经明确 - [ ] CV 有稳定版本 - [ ] LinkedIn / GitHub 已整理 - [ ] 有 2–4 个核心项目 - [ ] 可以深入讲解项目架构和 Trade-off - [ ] Coding Interview 有稳定准备体系 - [ ] CS Fundamentals 已系统复习 - [ ] Behavioral 故事库完整 - [ ] Job Tracker 持续维护 - [ ] 会根据求职漏斗定位问题 - [ ] 有 Plan A 和 Plan B ---"
+  },
+  {
+    "id": "/study/roadmap/fourth-year-guide::33::0",
+    "route": "/study/roadmap/fourth-year-guide",
+    "title": "大四应该做什么",
+    "section": "从学生到工程师",
+    "description": "海外 CS 最后一年行动指南：Graduate、Full-time、项目深挖、求职漏斗、Plan B 与从学生到工程师的转换。",
+    "keywords": [
+      "CS 大四",
+      "Graduate Program",
+      "Full-time",
+      "Software Engineer",
+      "求职",
+      "毕业"
+    ],
+    "content": "大学四年最终应该完成的，并不是把所有技术都学完。 没有人能够在毕业前学完计算机科学。 真正重要的是形成一套可以持续工作的能力系统： 当你拥有这套能力以后，毕业并不是学习结束。 而只是从： CS Student 走向： Software Engineer 的下一阶段。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::0::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "Honours 值不值得做",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "Honours 本身不是自动加分项。真正重要的是它是否服务于你的长期目标。 面对 Honours，很多学生会问： 做了是不是一定比不做好？ 答案取决于你希望从这一年得到什么。 Honours 通常意味着你会投入大量时间完成： - Research - Literature Review - Experiment - Technical Implementation - Thesis - Presentation - Supervisor Meeting 因此它应该被当成一个重要职业和学术选择，而不是“多上一年课”。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::1::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "你想继续 Research / PhD",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "Honours 可以帮助你理解真正的研究过程。 你会开始经历： 这和普通 Coursework 项目差别很大。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::2::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "你希望加强研究型申请",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "如果未来申请 Research Master、PhD 或偏研究项目，Honours Thesis、Supervisor 和 Research Output 都可能成为重要材料。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::3::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "你对某个技术问题真的感兴趣",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "例如： - AI - Security - Software Engineering - Systems - HCI - Data 一个好的课题可以让你在某个问题上深入一年。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::4::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "你只是觉得“不做会吃亏”",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "如果没有明确目标，很容易在中途发现自己并不喜欢 Research。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::5::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "你主要目标是尽快进入 Industry",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "这时应该比较： 两者并不存在绝对答案。 需要根据你的目标岗位和机会判断。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::6::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "你不喜欢长期不确定问题",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "Research 的特点之一就是： 你可能做几周甚至几个月，最后发现假设不成立。 如果你非常不喜欢这种不确定性，需要提前考虑。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::7::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "Supervisor 比很多人想象中更重要",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "同一个研究方向，不同 Supervisor 带来的体验可能完全不同。 选择前可以关注： - Research Area - Meeting Frequency - Feedback Style - Expectations - Project Scope - Publication Expectation - Student Support 一个好的题目配上不匹配的指导方式，仍然可能非常痛苦。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::8::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "题目应该怎么选",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "不要只看题目名字“听起来高级”。 更重要的是确认："
+  },
+  {
+    "id": "/study/roadmap/honours-guide::9::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "问题是否清楚",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "你需要大致知道项目究竟研究什么。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::10::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "数据和工具是否可获得",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "没有数据、环境或者实验条件，会直接影响项目。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::11::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "Scope 是否合理",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "Honours 不是博士论文。 题目太大，往往意味着最后什么都做不深。"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::12::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "是否匹配你的技能",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "有挑战是好事，但如果项目要求完全陌生的技术体系，也需要考虑学习成本。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::13::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "Honours 对求职有没有帮助",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "可以有，但重点在于你如何转化。 例如你可以把 Thesis 转化成： - CV Experience - Technical Project - GitHub Repository - Research Presentation - Interview Story 面试时可以讲： - Problem - Method - Experiment - Failure - Technical Challenge - Result 如果只是最后交了一篇 Thesis，却无法解释自己做了什么，那么价值会被削弱。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::14::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "Honours 与普通项目最大的不同",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "普通软件项目通常更关注： 我能不能把这个系统做出来？ Research 更常见的问题是： 这个方法是否真的有效？为什么？ 因此你需要学习： - Evidence - Baseline - Evaluation - Reproducibility - Limitation 这也是 Honours 最有价值的训练之一。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::15::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "做之前问自己七个问题",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "1. 我未来是否可能继续 Research？ 2. 我是否真的对课题感兴趣？ 3. Supervisor 是否匹配？ 4. 我愿不愿意花大量时间阅读和实验？ 5. 它会不会严重挤压我的求职准备？ 6. 我希望这一年最终留下什么成果？ 7. 如果不做 Honours，我会用这一年做什么？ 最后一个问题尤其重要。 因为真正的比较不是： Honours vs 什么都不做 而是： Honours vs 你的最佳替代方案 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::16::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "如果决定做，尽量留下可复用成果",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "- [ ] 清楚的问题定义 - [ ] 完整实验记录 - [ ] 可复现代码 - [ ] 技术 README - [ ] Thesis - [ ] Presentation - [ ] CV 描述 - [ ] Interview Story 这样 Honours 才不只是一个成绩。 ---"
+  },
+  {
+    "id": "/study/roadmap/honours-guide::17::0",
+    "route": "/study/roadmap/honours-guide",
+    "title": "Honours 值不值得做",
+    "section": "最终判断",
+    "description": "CS 学生选择 Honours 前应该考虑什么：Research、就业、导师、课题、时间成本与未来申请。",
+    "keywords": [
+      "Honours",
+      "Thesis",
+      "Research",
+      "CS",
+      "Master",
+      "PhD"
+    ],
+    "content": "Honours 更适合： - 对 Research 有兴趣的人 - 想继续研究型深造的人 - 想深入一个技术问题的人 - 能找到合适 Supervisor 和课题的人 如果你的目标主要是 Industry，也不代表 Honours 没价值。 只是需要确保： 它不会让你的求职、项目和面试准备完全停止。"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::0::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "什么时候开始找实习",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "真正需要提前的，不只是“投递时间”，而是让自己在岗位开放时已经具备可以投递的状态。 很多学生第一次关注 Internship 时，会先问： 我应该什么时候开始投？ 但更重要的问题其实是： 当岗位开放时，我是否已经准备好了？ 因为 Internship 的准备并不是从点击 Apply 开始。 它通常更早。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::1::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "最简单的答案",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "如果你未来一年可能想找实习，那么现在就可以开始准备。 这不代表现在就要每天海投。 而是应该尽早建立： - 一版可以持续修改的 CV - 至少一个可以讲清楚的项目 - 基础 LeetCode 能力 - GitHub - 对招聘流程的基本认识 真正开始投递的时间，则要根据目标国家、公司和当年的招聘安排判断。 招聘开放时间、Deadline、Eligibility 和 Visa 要求具有时效性，实际申请时应以公司官方 Career Page 为准。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::2::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "大一：了解，而不是焦虑",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "大一阶段通常不需要把全部精力投入 Internship。 更重要的是： - 学会编程 - 建立 CS 基础 - 学 Git - 做第一个项目 - 初步了解行业方向 如果遇到适合低年级学生的项目、Summer Program 或 Internship，可以尝试。 但没有拿到实习并不意味着大一失败。 大一最重要的是让自己到下一年拥有更强的申请材料。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::3::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "大二：正式进入 Internship 准备期",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "大二开始后，建议逐渐把 Internship 纳入长期计划。 此时至少应该推进四件事。"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::4::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "1. 建立第一版 CV",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "哪怕还没有正式工作经历，也可以用： - Education - Projects - Technical Skills - University Experience 先形成结构。 CV 越早写，你越早能看到自己的缺口。"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::5::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "2. 做一个能讲的项目",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "项目不只是为了填一行简历。 你至少要能回答： - 项目解决什么问题？ - 为什么选择这个技术？ - 你具体负责什么？ - 最大困难是什么？ - 最后结果怎么样？"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::6::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "3. 开始基础 LeetCode",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "优先理解常见 Pattern： - Array - String - HashMap - Two Pointers - Stack - Queue - Linked List - Binary Search"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::7::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "4. 开始观察招聘市场",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "不要等想投的时候才第一次找公司。 可以逐渐建立自己的目标公司列表和 Job Tracker。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::8::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "大三：进入主要申请阶段",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "对于很多学生来说，大三是 Internship 求职最关键的阶段之一。 这时你的准备应该从“学习知识”变成完整流程。 你还需要开始记录求职漏斗。 例如： | Company | Role | Applied | Status | Next Step | | --- | --- | --- | --- | --- | | Example | SWE Intern | 2026-xx-xx | OA | Coding Test | ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::9::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "不要把“准备好了”理解成完美",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "很多学生迟迟不投，是因为一直觉得： - 项目还不够强 - LeetCode 还没刷完 - CV 还能再改 - 技术还没学够 问题在于，求职永远不会有一个“全部准备完成”的时刻。 更有效的方法通常是： 真实 OA 和 Interview 本身就是训练。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::10::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "如果现在什么都没有，先做什么",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "如果你已经到了大二或大三，但还没有 CV、项目和刷题记录，不需要慌着全部补。 按照这个顺序更实际： 不要花三个月“准备找实习”，却一份都没有申请。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::11::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "判断自己是否已经可以开始投",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "如果下面多数问题的答案是 Yes，就已经可以开始尝试： - [ ] 我有一版完整 CV - [ ] 我知道自己主要申请什么岗位 - [ ] 我至少有一个项目可以讲 - [ ] 我会基本数据结构与算法 - [ ] 我可以完成简单 Coding Question - [ ] 我知道常见 OA / Interview 流程 - [ ] 我有地方记录投递状态 不是全部打勾以后才能投。 这些项目应该在申请过程中继续完善。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::12::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "岗位开放后才开始写 CV",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "你会同时面对项目、刷题、文书和 Deadline。"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::13::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "只准备，不投递",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "求职需要真实反馈。"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::14::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "只投，不复盘",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "如果几十份申请完全没有后续，需要检查问题，而不是机械增加数量。"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::15::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "忽视时效性",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "招聘窗口每年都可能变化。 不要把上一年的 Reddit、论坛或经验贴当成今年的官方 Deadline。 ---"
+  },
+  {
+    "id": "/study/roadmap/internship-timing::16::0",
+    "route": "/study/roadmap/internship-timing",
+    "title": "什么时候开始找实习",
+    "section": "一条更合理的 Internship 时间线",
+    "description": "海外 CS 学生 Internship 准备时间线：什么时候开始准备 CV、项目、LeetCode、投递和面试。",
+    "keywords": [
+      "Internship",
+      "CS 实习",
+      "实习时间线",
+      "CV",
+      "LeetCode",
+      "海外求职"
+    ],
+    "content": "这不是固定规则。 真正需要记住的是： 岗位开放之前，准备工作最好已经开始。"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::0::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "大二应该做什么",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "大二最重要的变化，是从“会写代码”进入“会构建软件”。 如果说大一主要是在打基础，那么大二应该开始形成自己的技术主线。 这一年通常是很多学生差距真正开始拉开的阶段。 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::1::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "大二结束时，你应该达到什么状态",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "比较理想的状态是： - 有一个主要技术方向 - 有 1–2 个能够认真讲解的项目 - GitHub 不再只有课程作业 - 已经有第一版 CV - 开始系统做 LeetCode - 开始关注 Internship 招聘 - 能够解释自己项目中的技术选择 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::2::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "第一件事：开始形成主技术方向",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "你不需要永远绑定一个方向。 但从大二开始，最好不要每个月换一次技术栈。"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::3::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "Frontend 路线示例",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "选择方向时可以问自己： 1. 我愿不愿意长期学这个？ 2. 我有没有相关课程或项目？ 3. 我能不能在未来半年做出作品？ 4. 这个方向和我的求职目标是否一致？ ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::4::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "第二件事：开始补 CS 核心基础",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "这一阶段常见的重要基础包括： - Data Structures & Algorithms - Database - Operating Systems - Computer Networks - Software Engineering - Object-Oriented Design 不要把这些课理解成“考试结束就没用了”。 这些内容以后会不断出现在： - Technical Interview - System Design - Backend - Debugging - Performance Analysis 例如学习 Database 时，不只要知道 SQL 怎么写。 还应该逐渐理解： - Index 是什么 - Transaction 是什么 - Primary Key / Foreign Key - JOIN - Normalization - 为什么查询会慢 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::5::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "第三件事：项目开始工程化",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "大二项目和大一项目最大的区别，不是代码量。 而是项目开始出现工程结构。 例如一个 Backend 项目可以逐渐加入： - Authentication - REST API - Database - Validation - Error Handling - Logging - Testing - Docker - Deployment 你开始需要解释： 为什么这里需要数据库？ 为什么选择 Redis？ Authentication 怎么实现？ 如果服务出错怎么处理？ 这才是从 Tutorial Project 走向 Engineering Project。 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::6::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "第四件事：做第一版真正的 CV",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "大二就应该写 CV。 即使你还没有实习，也可以先建立结构。 常见模块： 项目描述不要只写技术名词。 弱表达： Used Java, MySQL and Redis. 更好的方向是： Built a REST API for ... using Java and Spring Boot, with MySQL for persistent storage and Redis for ... 重点是说明： - 做了什么 - 为什么 - 用了什么 - 产生什么结果 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::7::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "第五件事：开始认真准备 Internship",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "不同国家、公司和年份的 Internship 招聘时间不同。 具体 Deadline 应以公司官方 Career Page 为准。 但能力准备最好不要等岗位开放以后才开始。 你应该提前知道典型流程："
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::8::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "建立 Job Tracker",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "最简单可以记录： | Company | Role | Date | Status | Next Step | | --- | --- | --- | --- | --- | | Example | Software Intern | 2026-xx-xx | Applied | OA | 不要只依赖浏览器收藏夹。 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::9::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "第六件事：LeetCode 进入系统阶段",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "大二可以逐渐覆盖： - Array - String - HashMap - Two Pointers - Sliding Window - Stack - Queue - Linked List - Binary Search - Tree - Heap - DFS / BFS 基础 建议开始建立自己的题型笔记。 每道代表题至少记录： - Pattern - 核心思路 - 时间复杂度 - 容易犯的错 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::10::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "第七件事：开始练习讲项目",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "很多学生项目写得不错，但不会讲。 可以先用这个结构： 如果一个项目只能说： “这是我们课程要求做的。” 那么它还没有真正转化成你的求职资产。 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::11::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "大二如何安排优先级",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "一个比较健康的顺序是： 不是所有事情每天都需要做。 但这些事情最好在一年内逐渐连起来。 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::12::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "一直停留在课程项目",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "课程项目可以使用，但最好逐渐增加个人独立决策。"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::13::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "技术栈频繁重启",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "今天 Java，明天 AI，后天 Web3，很容易导致每条路线都很浅。"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::14::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "CV 等到申请当天才写",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "CV 本身需要不断迭代。"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::15::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "觉得没有实习就不能投 Internship",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "第一份实习本来就意味着你可能没有之前的实习经历。 项目和基础能力同样重要。"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::16::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "只学框架不学基础",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "知道 Spring Boot 怎么启动，不等于理解 HTTP、Database 和 Backend。 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::17::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "大二结束 Checklist",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "- [ ] 已形成主要技术方向 - [ ] 有至少一个工程化项目 - [ ] 项目有完整 README - [ ] GitHub 有持续维护记录 - [ ] CV 已经可以投递 - [ ] LeetCode 已系统覆盖基础题型 - [ ] 能讲清一个核心项目 - [ ] 已开始关注或申请 Internship - [ ] 对常见招聘流程有基本了解 ---"
+  },
+  {
+    "id": "/study/roadmap/second-year-guide::18::0",
+    "route": "/study/roadmap/second-year-guide",
+    "title": "大二应该做什么",
+    "section": "下一步",
+    "description": "海外 CS 大二成长指南：确定技术方向、工程化项目、CS 基础、第一版 CV 与 Internship 准备。",
+    "keywords": [
+      "CS 大二",
+      "Internship",
+      "Backend",
+      "AI",
+      "CV",
+      "工程项目"
+    ],
+    "content": "进入大三后，重点不再只是“继续学习”。 而是要开始把已有能力转换成真实招聘结果。 下一篇：大三应该做什么。"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::0::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "大三应该做什么",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "大三最重要的事情，是开始把过去两年的积累转换成真实的求职结果。 很多学生到了这一阶段才发现： - CV 需要时间修改 - LeetCode 不能一周突击 - 项目需要能讲，而不是只存在 GitHub - Behavioral Interview 也需要准备 - 招聘开放时间可能比想象中早 因此，大三的关键词是： 系统化求职。 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::1::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "大三结束时，你应该达到什么状态",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- CV 可以随时投递 - 有 2–4 个能够深入讲解的项目 - LeetCode 常见模式基本覆盖 - 能完成 Technical Interview - 有 Behavioral 故事库 - 有自己的 Job Tracker - 经历过真实 OA / Interview - 对 Graduate / Internship 招聘流程比较熟悉 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::2::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第一件事：把求职当成项目管理",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "不要只靠记忆。 建议建立一个长期 Job Tracker。 至少记录： | 字段 | 示例 | | --- | --- | | Company | Example Tech | | Role | Software Engineer Intern | | Location | Sydney | | Applied | 2026-xx-xx | | Status | OA | | Deadline | Official career page | | Next Step | Prepare coding test | 每周固定检查一次。 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::3::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第二件事：把 CV 变成招聘工具",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "大三的 CV 不应该只是“个人经历汇总”。 它需要帮助 Recruiter 快速判断： 你是否值得进入下一轮？ 每条经历尽量体现： 例如项目中可以说明： - 构建了什么 - 使用什么技术 - 你负责哪部分 - 解决什么问题 - 性能或结果有什么变化 同时要避免： - 一整段没有重点 - 只列技术栈 - 每个项目描述完全一样 - 写大量无法验证的夸张结果 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::4::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第三件事：LeetCode 从题目变成 Pattern",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "大三不能再只随机刷题。 需要形成题型体系。 建议至少覆盖： 每做一道题都可以问： 1. 这是哪个 Pattern？ 2. 为什么这个方法成立？ 3. Complexity 是多少？ 4. 有没有更好的方法？ 5. 面试时我能不能边说边写？ ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::5::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第四件事：系统准备 Technical Interview",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "算法只是技术面试的一部分。 常见基础范围可能包括： - OOP - Database - Operating Systems - Networking - HTTP - REST - Authentication - Cache - Concurrency - Testing - Git 如果你走 Backend，还应该逐渐理解： - Session vs JWT - Index - Transaction - Redis - API Design - Load Balancing 基础 - Message Queue 基础 - System Design 基础 如果你走 AI，则需要进一步准备： - Model Evaluation - Overfitting - Training Pipeline - Feature / Data Processing - Deployment - 推理性能 - 项目中的模型选择 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::6::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第五件事：项目必须讲深",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "面试官通常不会满足于： “这个项目用了 Spring Boot。” 他们可能继续问： - 为什么使用 Spring Boot？ - Authentication 怎么做？ - Database Schema 怎么设计？ - 出现过什么 Bug？ - 最大瓶颈是什么？ - 如果用户量增加十倍怎么办？ 因此，每一个核心项目都建议准备一份自己的 Project Deep Dive。 结构可以是： ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::7::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第六件事：建立 Behavioral 故事库",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "Behavioral 不适合完全临场发挥。 建议至少准备这些主题： - Leadership - Conflict - Failure - Tight Deadline - Difficult Technical Problem - Team Collaboration - Learning Something Quickly - Receiving Feedback 每个故事按照 STAR 整理： 真正重要的是 Action。 因为面试官想知道的是你具体做了什么。 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::8::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第七件事：真实面试本身也是训练",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "第一次 OA 或面试表现不理想很正常。 每次结束后都应该复盘。 例如记录： - 哪些问题没答好 - 哪个知识点不会 - 哪道算法题卡住 - 项目哪个部分讲不清 - Behavioral 哪个故事不够好 然后把这些反馈加入下一轮准备。 这会形成： ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::9::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "第八件事：Networking 开始发挥作用",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "Networking 不等于到处找陌生人要 Referral。 更自然的方式包括： - Career Fair - Tech Event - University Society - Alumni - LinkedIn - Hackathon - Open-source Community 目标是逐渐理解行业、岗位和团队。 而不是把每一次交流都变成“可以内推我吗”。 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::10::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "大三如何判断自己的求职问题",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "可以看你的招聘漏斗。"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::11::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "大量投递，但没有 OA",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "优先检查： - CV - 岗位匹配度 - Eligibility - Timing"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::12::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "有 OA，但没有 Interview",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "优先检查： - Coding - Algorithm - Online Assessment"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::13::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "有 Interview，但没有 Offer",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "优先检查： - Technical Depth - Communication - Project - Behavioral 不要所有问题都用“继续海投”解决。 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::14::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "求职准备和投递完全分开",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "最有效的状态通常是边准备、边申请、边复盘。"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::15::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "只刷 LeetCode",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "项目、基础和 Behavioral 同样会决定面试结果。"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::16::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "每个岗位用完全相同的 CV",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "至少应该关注岗位对 Skill 和 Experience 的重点。"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::17::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "面试失败后不复盘",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "如果每次都不知道为什么失败，很容易重复同样的问题。"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::18::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "无限增加项目数量",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "大三后项目深度通常比单纯数量更重要。 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::19::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "大三结束 Checklist",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] CV 已达到正式投递状态 - [ ] 有 2–4 个核心项目 - [ ] 每个核心项目都能 Deep Dive - [ ] LeetCode 常见 Pattern 已覆盖 - [ ] 能解释常见 CS 基础问题 - [ ] 有 Behavioral STAR 故事库 - [ ] 有长期 Job Tracker - [ ] 经历过真实 OA 或面试 - [ ] 每次面试后会复盘 - [ ] 对目标岗位越来越明确 ---"
+  },
+  {
+    "id": "/study/roadmap/third-year-guide::20::0",
+    "route": "/study/roadmap/third-year-guide",
+    "title": "大三应该做什么",
+    "section": "下一步",
+    "description": "海外 CS 大三求职行动指南：Internship、Graduate、CV、LeetCode、Technical Interview、Behavioral Interview 与项目深挖。",
+    "keywords": [
+      "CS 大三",
+      "Internship",
+      "Graduate",
+      "LeetCode",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "进入最后一年后，你的核心问题会变成： 如何真正完成从学生到工程师的转换？ 下一篇：大四应该做什么。"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::0::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "WAM 与求职怎么平衡",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "成绩重要，但求职竞争力不是由成绩单单独决定的。 很多海外 CS 学生会经历同一个问题： 我应该继续冲 WAM，还是把时间拿去做项目、刷题和找实习？ 这不是一个简单的二选一问题。 更合理的思考方式是： ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::1::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "WAM 为什么重要",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "成绩能够体现一些很重要的能力： - 学习能力 - 基础知识掌握程度 - 长期稳定性 - Academic Discipline 在某些场景下，成绩还可能直接影响： - Honours - Scholarship - Master / PhD - 部分 Graduate Program - 某些竞争性项目 因此，完全忽视成绩通常不是好策略。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::2::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "为什么只追求成绩也不够",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "Software Engineering 和很多技术岗位最终仍然会关注： - 你能不能写代码 - 能不能做项目 - 能不能解决问题 - 是否有工程能力 - 是否理解基础 - 能不能通过面试 如果一个学生拥有非常高的 WAM，但没有： - GitHub - Project - Internship - Coding Interview 准备 那么求职时仍然可能遇到明显短板。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::3::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "真正需要考虑的是边际收益",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "假设你已经有一个不错的成绩。 为了再提高少量 WAM，你可能需要投入大量额外时间。 这时应该问： 这些时间如果用来完成一个核心项目、申请 Internship 或准备面试，会不会产生更高收益？ 这就是机会成本。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::4::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "如果目标是 Software Engineering",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "通常需要同时保证： - 成绩不成为明显短板 - 项目有内容 - Coding 能力足够 - 有实习或工程经历更好 - 面试准备完整"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::5::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "如果目标是 Research / PhD",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "Academic Performance、Research Experience、Honours / Thesis 的权重通常会明显提高。"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::6::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "如果目标是 Master",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "需要关注目标项目具体的 Academic Requirement，同时兼顾能够支撑申请材料的项目、Research 或实习。 因此不存在所有人通用的完美比例。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::7::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "一个实用判断框架",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "每学期可以检查四个维度。"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::8::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "课程",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "- 有没有挂科风险？ - 核心课程是否真正理解？"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::9::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "技术",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "- 主技术方向有没有继续增长？"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::10::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "项目",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "- 有没有一个能用于 CV 和面试的项目？"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::11::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "求职",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "- 如果今天看到一个合适岗位，我能不能投？ 如果某一个维度长期接近零，就应该调整。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::12::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "推荐的优先级思路",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "第一层：避免明显学术风险。 第二层：保证核心课程真正学会。 第三层：把剩余时间投入长期职业资产。 所谓职业资产包括： - 项目 - Internship - GitHub - LeetCode - Interview - Networking 它们的特点是可以跨学期积累。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::13::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "一个典型错误：为了 1–2 分牺牲所有项目时间",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "这不是说 1–2 分没有价值。 而是要看你目前最缺什么。 如果你的情况是： 那么继续把全部额外时间压在成绩上，很可能让能力结构越来越失衡。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::14::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "另一个极端：完全不管课程",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "“公司只看能力”也不应该被理解成可以无视大学课程。 因为很多课程本身就是之后技术能力的基础。 例如： - Data Structures - Algorithms - Database - Operating Systems - Computer Networks 这些内容以后仍然会回来。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::15::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "每周怎么分配",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "不建议死记一个固定百分比。 更实际的方法是先锁定不可避免的课程任务，然后给长期能力固定时间。 例如： 即使每周只有几个小时，也比考试结束后再重新开始更稳定。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::16::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "考试周和招聘季发生冲突怎么办",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "优先提前准备。 真正的问题往往不是那一周时间不够，而是前几个月什么都没有准备。 如果： - CV 提前写好 - 项目提前完成 - LeetCode 持续进行 - Job Tracker 已经建立 招聘季的压力会明显下降。 ---"
+  },
+  {
+    "id": "/study/roadmap/wam-vs-career::17::0",
+    "route": "/study/roadmap/wam-vs-career",
+    "title": "WAM 与求职怎么平衡",
+    "section": "最后的判断标准",
+    "description": "海外 CS 学生如何在 WAM、课程、项目、实习和面试准备之间做长期取舍。",
+    "keywords": [
+      "WAM",
+      "GPA",
+      "CS 求职",
+      "项目",
+      "实习",
+      "时间管理"
+    ],
+    "content": "每学期结束可以问自己： 1. 我的成绩是否足以支撑下一阶段目标？ 2. 我的技术能力有没有实际增长？ 3. 我有没有新的项目或经历可以写进 CV？ 4. 我离目标岗位更近了吗？ 如果只有第一个问题越来越好，其他三个长期没有变化，就值得重新分配时间。 WAM 是竞争力的一部分，而不是竞争力的全部。"
+  },
+  {
+    "id": "/sydney/::0::0",
+    "route": "/sydney/",
+    "title": "index",
+    "section": "index",
+    "description": "",
+    "keywords": [],
+    "content": "GRADBRIDGE · SYDNEY 在悉尼， 生活本身也是留学的一部分。 从刚落地、租房和通勤，到 CS 求职、日常生活和周末路线。这里关注的不是“游客怎么玩悉尼”，而是学生怎么真正生活在悉尼。 开始探索 周末去哪 → LIVING IN SYDNEY 先解决真正影响生活质量的问题 刚来悉尼时，最重要的通常不是景点，而是住哪里、怎么通勤、生活成本是多少，以及怎么快速建立稳定的日常节奏。 01 RENT 租房 理解 Inspection、Bond、Lease、Bills，以及不同区域之间的通勤和生活差异。 Redfern Waterloo Zetland Mascot 02 NEWCOMER 新生落地 手机卡、银行卡、交通、超市、校园周边和刚到悉尼最容易遗漏的基础事项。 Opal Bank SIM Checklist 03 LIFE 日常生活 生活成本、Grocery、看医生、健身房、咖啡、学习地点和悉尼本地生活方式。 Cost Grocery Health Study 04 CAREER 悉尼 CS 求职 了解本地技术岗位、Graduate、Internship、Networking 以及悉尼主要就业区域。 Graduate Internship Networking RENT GUIDE 住哪里，可能比房子本身更重要 对学生来说，租房从来不只是“每周多少钱”。通勤、交通、超市、学校距离和日常便利都会影响真实体验。 01 Redfern 离 USYD 很近，通勤优势明显。 02 Waterloo / Zetland 公寓较多，生活便利，学生群体常见。 03 Mascot 交通方便，适合经常往 CBD 或机场方向移动的人。 04 Burwood / Rhodes 亚洲生活便利度高，但需要权衡通勤时间。 05 Chatswood 商业成熟，适合北区生活与通勤需求。 STUDENT LIFE 悉尼生活，不应该只靠“来了再说” 01 生活成本 房租、交通、吃饭、购物和娱乐构成学生最大的日常支出。 02 交通 Train、Metro、Bus 和 Light Rail 会直接影响租房区域的选择。 03 Grocery Coles、Woolworths、Aldi 与亚洲超市适合不同购物场景。 04 学习空间 学校 Library、公共图书馆和咖啡店可以形成不同的学习环境。 WEEKEND ESCAPE 周末不用很长，也可以离开日常 旅行内容只服务同一批学生用户：0.5 天、1 天、2 天，按照时间和交通成本选择。 0.5 DAY 城市与海边散步 适合课程周里只想短暂离开校园的时候。 Coastal Walk · Sunset · City Walk 1 DAY 当天往返路线 适合不住宿、当天返回悉尼的周末。"
+  },
+  {
+    "id": "/sydney/::0::1",
+    "route": "/sydney/",
+    "title": "index",
+    "section": "index",
+    "description": "",
+    "keywords": [],
+    "content": "成不同的学习环境。 WEEKEND ESCAPE 周末不用很长，也可以离开日常 旅行内容只服务同一批学生用户：0.5 天、1 天、2 天，按照时间和交通成本选择。 0.5 DAY 城市与海边散步 适合课程周里只想短暂离开校园的时候。 Coastal Walk · Sunset · City Walk 1 DAY 当天往返路线 适合不住宿、当天返回悉尼的周末。 Palm Beach · Kiama · Wollongong 1 DAY+ 自然路线 适合 Hiking、Photography 和 Study Break。 Royal National Park · Blue Mountains 2 DAYS 短途逃离悉尼 适合真正腾出一个周末的时候。 Jervis Bay · Newcastle · Port Stephens COMING GUIDES 接下来会逐步完成的悉尼专题 RENT 悉尼大学生租房完整指南 从 Inspection 到签 Lease，逐步理解完整租房流程。 AREA Redfern / Waterloo / Zetland 从 USYD 通勤、生活便利和居住体验进行对比。 COST 悉尼一个月生活费 把房租、交通、饮食和日常支出拆开来看。 NEWCOMER 新生落地 Checklist 刚到悉尼的前几天，需要优先处理哪些事情。 TRAVEL 不开车也能去的路线 更适合学生使用公共交通完成的周末路线。 WEEKEND 悉尼留学生周末去哪 按照半天、一天和两天时间重新整理目的地。 MAKE SYDNEY YOUR CITY 不是来悉尼“待几年”，而是真正生活几年。 学习和求职之外，城市本身也是留学经历的重要组成部分。 开始探索 ↑"
+  },
+  {
+    "id": "/sydney/life/::0::0",
+    "route": "/sydney/life/",
+    "title": "悉尼生活",
+    "section": "悉尼生活",
+    "description": "",
+    "keywords": [],
+    "content": "生活成本、Grocery、交通、医疗、健身、学习地点与日常文化。 目标是帮助学生更快建立稳定的悉尼生活节奏。"
+  },
+  {
+    "id": "/sydney/newcomer/::0::0",
+    "route": "/sydney/newcomer/",
+    "title": "悉尼新生落地",
+    "section": "悉尼新生落地",
+    "description": "",
+    "keywords": [],
+    "content": "刚到悉尼需要处理的交通、银行卡、手机卡、生活用品与基础事务。 这里会逐渐整理成可以直接使用的新生 Checklist。"
+  },
+  {
+    "id": "/sydney/rent/::0::0",
+    "route": "/sydney/rent/",
+    "title": "悉尼租房",
+    "section": "悉尼租房",
+    "description": "",
+    "keywords": [],
+    "content": "从 Inspection、Bond 和 Lease，到区域选择与通勤。 重点服务 USYD、UNSW 及其他悉尼高校学生。"
+  },
+  {
+    "id": "/sydney/travel/::0::0",
+    "route": "/sydney/travel/",
+    "title": "悉尼周末旅行",
+    "section": "悉尼周末旅行",
+    "description": "",
+    "keywords": [],
+    "content": "给留学生的 0.5 天、1 天与 2 天周末路线。 不会做普通旅游门户，而是重点考虑时间、预算、公共交通与学生场景。"
+  },
+  {
+    "id": "/tech/ai/::0::0",
+    "route": "/tech/ai/",
+    "title": "AI Engineering",
+    "section": "AI Engineering",
+    "description": "",
+    "keywords": [],
+    "content": "LLM、Embedding、RAG、Agent、LangChain、LangGraph、MCP 与 Evaluation。 重点放在 AI Engineering，而不是只介绍模型名词。"
+  },
+  {
+    "id": "/tech/backend/::0::0",
+    "route": "/tech/backend/",
+    "title": "Backend",
+    "section": "Backend",
+    "description": "",
+    "keywords": [],
+    "content": "从 HTTP、REST API 和 Authentication，到 Redis、Database、Docker 与系统设计。 这是 GradBridge 技术知识库的核心方向之一。"
+  },
+  {
+    "id": "/tech/computer-vision/::0::0",
+    "route": "/tech/computer-vision/",
+    "title": "Computer Vision",
+    "section": "Computer Vision",
+    "description": "",
+    "keywords": [],
+    "content": "CNN、Detection、Segmentation 与常见 Evaluation Metrics。 后续会逐渐加入 YOLO、Segmentation 和真实工程案例。"
+  },
+  {
+    "id": "/tech/cs-basics/::0::0",
+    "route": "/tech/cs-basics/",
+    "title": "CS Basics",
+    "section": "CS Basics",
+    "description": "",
+    "keywords": [],
+    "content": "数据结构、算法、操作系统和计算机网络。 这些内容构成很多 Backend、System Design 和技术面试问题的底层基础。"
+  },
+  {
+    "id": "/tech/database/::0::0",
+    "route": "/tech/database/",
+    "title": "Database",
+    "section": "Database",
+    "description": "",
+    "keywords": [],
+    "content": "SQL、索引、事务、数据库设计与性能。 重点不仅是记概念，还会逐渐连接到真实后端系统。"
+  },
+  {
+    "id": "/tech/::0::0",
+    "route": "/tech/",
+    "title": "index",
+    "section": "index",
+    "description": "",
+    "keywords": [],
+    "content": "GRADBRIDGE · TECH 不只知道一个技术是什么， 还要知道什么时候真正用它。 从 CS Fundamentals 到 Backend、Java、AI、Security 和 System Design。这里不仅整理知识，也会逐步告诉你项目里怎么用、面试时怎么回答。 浏览技术方向 查看学习方式 → TECH TRACKS 选择一个方向，系统建立能力 不建议同时追十几个框架。先建立基础，再围绕一个主方向逐渐形成深度。 01 CORE Backend HTTP、REST API、Authentication、Redis、Database、Docker，以及真实后端系统需要解决的问题。 HTTP Redis MySQL Docker 02 LANGUAGE Java 从语言基础到 Collections、JVM、Concurrency，再连接 Spring 和 Backend。 OOP JVM Collections Concurrency 03 AI AI Engineering LLM、Embedding、RAG、Agent、LangGraph、MCP，以及真实 AI 系统如何落地。 LLM RAG Agent MCP 04 FOUNDATION CS Basics 数据结构、算法、操作系统和计算机网络，是很多技术问题真正的底层基础。 DSA OS Network 05 DATA Database SQL、索引、事务、数据库设计，以及系统性能中最常见的数据问题。 SQL Index Transaction 06 SECURITY Security Authentication、XSS、CSRF、SQL Injection，以及安全问题为什么真正发生。 Auth XSS CSRF CodeQL 07 SYSTEM System Design 从 Cache、Database、Queue 到 Scalability，理解系统为什么需要这些设计。 Cache Queue Scale 08 VISION Computer Vision CNN、Detection、Segmentation 与 Evaluation，逐渐理解计算机视觉工程流程。 CNN YOLO Segmentation HOW WE EXPLAIN TECH 每一个知识点，都回答四个问题 01 它是什么？ 先用简单语言建立正确直觉，而不是直接堆定义。 02 为什么需要它？ 理解这个技术真正解决的问题，以及没有它会发生什么。 03 项目中怎么用？ 把知识连接到真实 API、Database、AI System 和工程场景。 04 面试怎么回答？ 把理解转化成清晰、结构化、能够继续被追问的表达。"
+  },
+  {
+    "id": "/tech/::0::1",
+    "route": "/tech/",
+    "title": "index",
+    "section": "index",
+    "description": "",
+    "keywords": [],
+    "content": "PLAIN TECH 每一个知识点，都回答四个问题 01 它是什么？ 先用简单语言建立正确直觉，而不是直接堆定义。 02 为什么需要它？ 理解这个技术真正解决的问题，以及没有它会发生什么。 03 项目中怎么用？ 把知识连接到真实 API、Database、AI System 和工程场景。 04 面试怎么回答？ 把理解转化成清晰、结构化、能够继续被追问的表达。 POPULAR TOPICS 第一批重点技术专题 BACKEND Session vs JWT 两种认证思路到底有什么区别，以及为什么 JWT 很难主动撤销。 SECURITY XSS vs CSRF 两个常见 Web Security 问题分别利用了什么信任关系。 DATABASE Redis 持久化 RDB、AOF 为什么存在，以及性能与可靠性如何权衡。 NETWORK DNS 如何找到 IP 从输入域名到真正建立连接，中间到底发生了什么。 AI Embedding 与 RAG 向量、检索和上下文增强是怎样连接到 LLM 的。 AGENT LangChain · LangGraph · MCP 这些 Agent 生态概念分别负责什么，不应该混在一起理解。 LEARNING ROADMAP 技术学习不是不断增加关键词 更合理的方式，是从基础出发，逐渐建立能够解决真实问题的能力。 01 Concept 先建立正确概念 02 Practice 通过代码验证理解 03 Project 放进真实项目使用 04 Explain 能够向别人讲清楚 05 Interview 应对进一步追问 BUILD DEPTH 先建立一条主线，再逐渐扩展技术栈。 会很多关键词并不等于具备工程能力。真正重要的是理解、使用和解释。 选择方向 ↑"
+  },
+  {
+    "id": "/tech/java/::0::0",
+    "route": "/tech/java/",
+    "title": "Java",
+    "section": "Java",
+    "description": "",
+    "keywords": [],
+    "content": "从 Java 基础、OOP、Collections，到 JVM 与 Concurrency。 后续会逐渐连接到 Spring Boot 与真实 Backend 场景。"
+  },
+  {
+    "id": "/tech/security/::0::0",
+    "route": "/tech/security/",
+    "title": "Security",
+    "section": "Security",
+    "description": "",
+    "keywords": [],
+    "content": "XSS、CSRF、SQL Injection、Authentication 与 CodeQL。 从漏洞概念逐渐走向为什么漏洞真正发生。"
+  },
+  {
+    "id": "/tech/system-design/::0::0",
+    "route": "/tech/system-design/",
+    "title": "System Design",
+    "section": "System Design",
+    "description": "",
+    "keywords": [],
+    "content": "Cache、Database、Queue、Scalability 与 Distributed Systems。 目标是理解设计背后的原因，而不是背架构图。"
+  },
+  {
+    "id": "/tools/::0::0",
+    "route": "/tools/",
+    "title": "🛠️ 工具",
+    "section": "🛠️ 工具",
+    "description": "",
+    "keywords": [],
+    "content": "把重复、耗时的求职工作变得更简单。 GradBridge 后续会逐步开发一系列面向海外 CS 学生的实用工具。 第一阶段仍然以内容为主，工具会随着真实需求逐步加入。 --- 计划中的工具： - Australia CS Job Tracker - CV Checker - JD / CV Matcher - AI Mock Interview - Career Roadmap Generator"
+  }
+]

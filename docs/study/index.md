@@ -25,26 +25,26 @@
 <strong>开始大一路线 →</strong>
 </a>
 
-<a class="gb-study-stage-card" href="/study/roadmap/internship-timing">
+<a class="gb-study-stage-card" href="/study/roadmap/second-year-guide">
 <span>YEAR 02</span>
 <h3>大二 · 开始职业化</h3>
 <p>完善项目、准备第一版 CV、开始 LeetCode，并进入 Internship 市场。</p>
-<strong>了解实习准备 →</strong>
+<strong>进入大二路线 →</strong>
 </a>
 
-<div class="gb-study-stage-card">
+<a class="gb-study-stage-card" href="/study/roadmap/third-year-guide">
 <span>YEAR 03</span>
 <h3>大三 · 求职主战场</h3>
 <p>Internship、Graduate、Coding Interview 与技术方向深化逐渐成为重点。</p>
-<strong>内容持续更新中</strong>
-</div>
+<strong>进入大三路线 →</strong>
+</a>
 
-<div class="gb-study-stage-card">
+<a class="gb-study-stage-card" href="/study/roadmap/fourth-year-guide">
 <span>YEAR 04</span>
 <h3>大四 · 完成转化</h3>
 <p>平衡毕业课程、求职、面试与最终 Offer，完成从学生到工程师的过渡。</p>
-<strong>内容持续更新中</strong>
-</div>
+<strong>进入大四路线 →</strong>
+</a>
 </div>
 </section>
 
@@ -87,6 +87,12 @@
 <p>从大一到毕业，每个阶段应该把时间花在哪里。</p>
 </a>
 
+<a href="/study/roadmap/internship-timing">
+<span>实习准备</span>
+<h3>什么时候开始找实习</h3>
+<p>从 CV、项目、LeetCode 到真正投递，什么时候开始准备最合适。</p>
+</a>
+
 <a href="/study/roadmap/wam-vs-career">
 <span>时间分配</span>
 <h3>WAM 和求职怎么平衡</h3>
@@ -119,6 +125,49 @@
 </div>
 </section>
 
+<section class="gb-study-section gb-study-questions">
+<div class="gb-section-label">FIND YOUR NEXT STEP</div>
+<h2>你现在遇到什么问题？</h2>
+<p>不用先知道应该看哪篇文章。直接从你现在真正遇到的问题开始。</p>
+
+<div class="gb-study-guide-grid">
+<a href="/study/roadmap/first-year-guide">
+<span>刚入学</span>
+<h3>我刚入学，不知道从哪里开始</h3>
+<p>先把课程、编程基础、Git 和第一个项目安排清楚。</p>
+</a>
+
+<a href="/study/roadmap/internship-timing">
+<span>第一份实习</span>
+<h3>我想开始准备第一份实习</h3>
+<p>从 CV、项目、LeetCode 到投递，找到正确的准备顺序。</p>
+</a>
+
+<a href="/study/roadmap/wam-vs-career">
+<span>时间分配</span>
+<h3>成绩和项目时间到底怎么平衡？</h3>
+<p>判断现在更应该投入 WAM、技术、项目还是求职。</p>
+</a>
+
+<a href="/study/method/course-project-leetcode">
+<span>学习节奏</span>
+<h3>课程、项目和 LeetCode 怎么一起做？</h3>
+<p>建立可以持续一个学期，而不是坚持一周的学习节奏。</p>
+</a>
+
+<a href="/study/method/group-project-guide">
+<span>团队协作</span>
+<h3>Group Project 怎么避免最后一周崩掉？</h3>
+<p>从任务拆分、Git、Meeting 到贡献记录，把团队协作真正管起来。</p>
+</a>
+
+<a href="/study/roadmap/honours-guide">
+<span>未来选择</span>
+<h3>我到底该不该做 Honours？</h3>
+<p>从 Research、就业、导师和机会成本判断它是否适合你。</p>
+</a>
+</div>
+</section>
 <section class="gb-study-bottom">
 <div>
 <div class="gb-section-label">START SMALL</div>

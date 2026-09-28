@@ -15,6 +15,9 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       items: [
         { text: '海外 CS 四年成长路线', link: '/study/roadmap/four-year-roadmap' },
         { text: '大一应该做什么', link: '/study/roadmap/first-year-guide' },
+        { text: '大二应该做什么', link: '/study/roadmap/second-year-guide' },
+        { text: '大三应该做什么', link: '/study/roadmap/third-year-guide' },
+        { text: '大四应该做什么', link: '/study/roadmap/fourth-year-guide' },
         { text: '什么时候开始找实习', link: '/study/roadmap/internship-timing' },
         { text: 'WAM 与求职怎么平衡', link: '/study/roadmap/wam-vs-career' },
         { text: 'Honours 值不值得做', link: '/study/roadmap/honours-guide' }

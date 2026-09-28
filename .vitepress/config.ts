@@ -30,9 +30,6 @@ export default defineConfig({
 
     sidebar,
 
-    search: {
-      provider: 'local'
-    },
 
     outline: {
       level: [2, 3],
