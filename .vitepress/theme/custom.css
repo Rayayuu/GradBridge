@@ -4,11 +4,13 @@
 
 :root {
   /* Theme-aware surfaces shared by the homepage and document landing pages. */
-  --gb-page-start: #f7f8ff;
-  --gb-page-end: #ffffff;
+  --gb-page-start: #f8fafc;
+  --gb-page-end: #f8fafc;
+  --gb-page-glow-left: rgba(109, 124, 255, 0.025);
+  --gb-page-glow-right: rgba(73, 196, 255, 0.02);
   --gb-nav-bg: rgba(255, 255, 255, 0.92);
-  --gb-panel-bg: #f0f3ff;
-  --gb-doc-bg: rgba(255, 255, 255, 0.92);
+  --gb-panel-bg: #f5f7fb;
+  --gb-doc-bg: #ffffff;
   --gb-border-rgb: 32, 46, 76;
   --gb-text-muted: #526077;
   --gb-accent-text: #4656bd;
@@ -28,6 +30,8 @@
 .dark {
   --gb-page-start: #0b1020;
   --gb-page-end: #0d1222;
+  --gb-page-glow-left: rgba(109, 124, 255, 0.12);
+  --gb-page-glow-right: rgba(73, 196, 255, 0.10);
   --gb-nav-bg: rgba(11, 16, 32, 0.72);
   --gb-panel-bg: #11172a;
   --gb-doc-bg: linear-gradient(180deg, rgba(255,255,255,0.045), rgba(255,255,255,0.028));
@@ -45,8 +49,8 @@
 /* 页面整体背景 */
 .Layout {
   background:
-    radial-gradient(circle at top left, rgba(109,124,255,0.12), transparent 28%),
-    radial-gradient(circle at top right, rgba(73,196,255,0.10), transparent 22%),
+    radial-gradient(circle at top left, var(--gb-page-glow-left), transparent 28%),
+    radial-gradient(circle at top right, var(--gb-page-glow-right), transparent 22%),
     linear-gradient(180deg, var(--gb-page-start) 0%, var(--gb-page-end) 100%);
 }
 
@@ -1965,4 +1969,40 @@ a.gb-study-stage-card:hover {
   .Layout.gb-outline-collapsed:has(.VPDocAsideOutline.has-outline) .gb-outline-toggle {
     right: 0;
   }
+}
+
+/* Quiet light surfaces: subtle depth instead of dark halos between sections. */
+:root:not(.dark) {
+  --vp-home-hero-image-background-image: radial-gradient(circle at 30% 30%, rgba(109,124,255,0.08), rgba(73,196,255,0.04));
+}
+
+:root:not(.dark) .VPFeature {
+  background: var(--gb-doc-bg);
+  border-color: rgba(var(--gb-border-rgb), 0.07);
+  box-shadow: 0 4px 16px rgba(32, 46, 76, 0.04);
+}
+
+:root:not(.dark) .VPFeature:hover {
+  border-color: rgba(109, 124, 255, 0.24);
+  box-shadow: 0 8px 24px rgba(32, 46, 76, 0.07);
+}
+
+:root:not(.dark) .VPHero .action .VPButton {
+  box-shadow: 0 4px 12px rgba(32, 46, 76, 0.07);
+}
+
+:root:not(.dark) .VPHero .image img {
+  box-shadow: 0 12px 32px rgba(32, 46, 76, 0.10);
+}
+
+:root:not(.dark) .vp-doc > div:first-child,
+:root:not(.dark) .vp-doc .content-body {
+  box-shadow: 0 4px 20px rgba(32, 46, 76, 0.04);
+}
+
+/* The long homepage flows into the same canvas as the hero and feature grid. */
+:root:not(.dark) .VPHome .vp-doc > div:first-child {
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
 }
