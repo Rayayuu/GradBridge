@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # 学习
 
 <div class="gb-study-home">
