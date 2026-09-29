@@ -31,13 +31,50 @@ async function getExtractor() {
 
     extractorPromise = import("@huggingface/transformers")
       .then(async module => {
-        const extractor = await module.pipeline(
-          "feature-extraction",
-          "Xenova/bge-small-zh-v1.5",
-          { dtype: "q8" }
-        )
+        module.env.useBrowserCache = true
+        module.env.backends.onnx.wasm.numThreads = 1
+        module.env.backends.onnx.wasm.proxy = false
 
-        modelState.value = "语义模型已就绪"
+        let extractor = null
+        let backend = "WASM"
+
+        if (typeof navigator !== "undefined" && "gpu" in navigator) {
+          try {
+            modelState.value = "正在使用 GPU 准备语义模型..."
+
+            extractor = await module.pipeline(
+              "feature-extraction",
+              "Xenova/bge-small-zh-v1.5",
+              {
+                dtype: "q8",
+                device: "webgpu"
+              }
+            )
+
+            backend = "WebGPU"
+          } catch (webgpuError) {
+            console.warn("WebGPU unavailable, falling back to WASM:", webgpuError)
+          }
+        }
+
+        if (!extractor) {
+          modelState.value = "正在使用兼容模式准备语义模型..."
+
+          extractor = await module.pipeline(
+            "feature-extraction",
+            "Xenova/bge-small-zh-v1.5",
+            { dtype: "q8" }
+          )
+        }
+
+        modelState.value = "正在预热语义模型..."
+
+        await extractor("测试", {
+          pooling: "cls",
+          normalize: true
+        })
+
+        modelState.value = "语义模型已就绪 · " + backend
         return extractor
       })
       .catch(error => {
