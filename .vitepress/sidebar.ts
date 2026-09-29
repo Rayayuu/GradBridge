@@ -173,6 +173,42 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     }
   ],
+  '/free/': [
+    {
+      text: '免费资源',
+      items: [
+        { text: '资源首页', link: '/free/' }
+      ]
+    },
+    {
+      text: '学习资源',
+      collapsed: false,
+      items: [
+        { text: 'CS 四年 Checklist', link: '/free/study/four-year-checklist' },
+        { text: '学期规划模板', link: '/free/study/semester-planner' },
+        { text: 'Project 选择 Checklist', link: '/free/study/project-selection-checklist' }
+      ]
+    },
+    {
+      text: '求职资源',
+      collapsed: false,
+      items: [
+        { text: 'CS CV Checklist', link: '/free/career/cv-checklist' },
+        { text: 'Project Bullet 模板', link: '/free/career/project-bullet-template' },
+        { text: 'Application Tracker', link: '/free/career/internship-application-tracker' },
+        { text: 'Interview Checklist', link: '/free/career/interview-prep-checklist' }
+      ]
+    },
+    {
+      text: '技术速查',
+      collapsed: false,
+      items: [
+        { text: 'Backend Cheat Sheet', link: '/free/tech/backend-interview-cheatsheet' },
+        { text: 'Git Cheat Sheet', link: '/free/tech/git-cheatsheet' },
+        { text: 'AI · RAG · Agent', link: '/free/tech/ai-rag-agent-cheatsheet' }
+      ]
+    }
+  ],
   '/sydney/': [
     {
       text: '悉尼',

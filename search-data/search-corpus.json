@@ -2448,13 +2448,1184 @@
     "content": "悉尼 CS 求职不是一场毕业时突然开始的考试。 最好从还在学校的时候，就开始进入真实市场。"
   },
   {
+    "id": "/free/career/cv-checklist::0::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "CS CV Checklist",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "在投递之前，用这份 Checklist 做最后检查。"
+  },
+  {
+    "id": "/free/career/cv-checklist::1::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Header",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 姓名明显 - [ ] Email 正常且专业 - [ ] Phone 正确 - [ ] LinkedIn 可访问 - [ ] GitHub 可访问 - [ ] 不放无必要的私人信息"
+  },
+  {
+    "id": "/free/career/cv-checklist::2::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Education",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] University 和 Degree 写清楚 - [ ] Graduation Date 正确 - [ ] WAM / GPA 只有在有价值时展示 - [ ] Relevant Coursework 不要堆太多"
+  },
+  {
+    "id": "/free/career/cv-checklist::3::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Experience",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 每条 Bullet 以 Action 开始 - [ ] 说明做了什么 - [ ] 说明用了什么技术 - [ ] 尽量说明结果或影响 - [ ] 不只是 Job Description"
+  },
+  {
+    "id": "/free/career/cv-checklist::4::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Projects",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 至少有一个能深入讲的项目 - [ ] 技术栈和贡献明确 - [ ] 不写“Responsible for”式空话 - [ ] GitHub / Demo 可访问时提供链接"
+  },
+  {
+    "id": "/free/career/cv-checklist::5::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Skills",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 只写真的能够讨论的技术 - [ ] Language / Framework / Tool 分类合理 - [ ] 不使用百分比或进度条表示熟练度"
+  },
+  {
+    "id": "/free/career/cv-checklist::6::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "ATS",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 使用标准 Section Name - [ ] 不依赖复杂双栏或图形元素 - [ ] PDF 文本可以正常复制 - [ ] Job Description 中的重要技术词有合理匹配"
+  },
+  {
+    "id": "/free/career/cv-checklist::7::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "最终检查",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 一页优先，除非经历确实很多 - [ ] 没有拼写错误 - [ ] 时间格式统一 - [ ] Bullet 标点格式统一 - [ ] 文件名专业 例如："
+  },
+  {
+    "id": "/free/career/cv-checklist::8::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "推荐继续阅读",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- CS CV 完整指南 - ATS 指南 - Project Bullet 怎么写"
+  },
+  {
+    "id": "/free/career/cv-checklist::9::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "最后",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "CV 的目标不是记录你做过的所有事情，而是让招聘者快速看到与你申请岗位最相关的证据。"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::0::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "Internship Application Tracker",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "当投递数量超过十几个以后，仅靠记忆很快就会混乱。 建议每一个申请至少记录： | Field | 作用 | | --- | --- | | Company | 公司 | | Role | 岗位名称 | | Location | 地点 | | Applied Date | 投递日期 | | Source | LinkedIn / Seek / 官网等 | | Status | 当前状态 | | Next Step | OA / Interview / Follow-up | | Deadline | 下一步截止日期 | | Contact | Recruiter / Referral | | Notes | 特殊要求或反馈 |"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::1::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "推荐 Status",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "保持状态统一："
+  },
+  {
+    "id": "/free/career/internship-application-tracker::2::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "每周 Review",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "每周检查： - 本周投递多少？ - 哪些 Application 没有下一步？ - 哪些 OA 快到期？ - 哪些公司需要 Follow-up？ - 哪种岗位 Response Rate 更高？"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::3::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "为什么记录 Source",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "一段时间以后，你可以判断： - 官网申请效果如何 - Referral 是否更有效 - LinkedIn / Seek 哪个渠道更适合 - 哪类岗位 Response 更高"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::4::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "可下载模板",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "下载 Internship Application Tracker CSV → 下载后可以直接使用 Excel、Numbers 或 Google Sheets 打开。"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::5::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "最后",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "Job Search 本身也是一个 Pipeline。只要开始大规模投递，就应该把它当成系统管理，而不是靠记忆。"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::0::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Software Interview Preparation Checklist",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "面试准备不要只刷 LeetCode。 一个完整 Software Interview 通常可能覆盖四类内容。"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::1::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Coding",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] Array / String - [ ] Hash Map / Set - [ ] Two Pointers - [ ] Sliding Window - [ ] Stack / Queue - [ ] Linked List - [ ] Binary Search - [ ] Tree / BFS / DFS - [ ] Heap - [ ] 基础 Dynamic Programming - [ ] 能解释 Time / Space Complexity"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::2::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Technical Fundamentals",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] OOP - [ ] HTTP / REST - [ ] Database / SQL / Index - [ ] Session / JWT - [ ] Redis / Cache - [ ] DNS / TCP - [ ] Git - [ ] 基础 Security"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::3::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Project Deep Dive",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] 项目解决什么问题 - [ ] Architecture - [ ] 为什么选择这些技术 - [ ] 最困难的问题 - [ ] 一个 Bug - [ ] 一个 Trade-off - [ ] 如果重新做会改什么"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::4::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Behavioral",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "至少准备： - [ ] Team Conflict - [ ] Leadership - [ ] Failure - [ ] Difficult Problem - [ ] Tight Deadline - [ ] Feedback - [ ] Learning Something Quickly"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::5::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "公司准备",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] Why this company - [ ] Why this role - [ ] Job Description 关键技术 - [ ] 2–3 个准备问面试官的问题"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::6::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "面试前一天",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] Camera / Microphone - [ ] IDE / Browser - [ ] Resume - [ ] Job Description - [ ] Interview Timezone - [ ] 安静环境"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::7::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "推荐继续阅读",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- Coding Interview - Technical Interview - Behavioral Interview"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::8::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "最后",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "面试准备的目标不是预测所有问题，而是保证常见问题出现时，你有稳定的思考框架。"
+  },
+  {
+    "id": "/free/career/project-bullet-template::0::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "Project Bullet 模板",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "很多 CS 简历的问题不是项目差，而是写出来以后完全看不出技术含量。"
+  },
+  {
+    "id": "/free/career/project-bullet-template::1::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "基础公式",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "可以先从这个结构开始："
+  },
+  {
+    "id": "/free/career/project-bullet-template::2::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "写完后检查",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "- [ ] 是否看得出你具体做了什么？ - [ ] 是否有技术细节？ - [ ] 是否能看出项目目的？ - [ ] 是否存在可以量化的结果？ - [ ] 面试官追问时你能解释吗？"
+  },
+  {
+    "id": "/free/career/project-bullet-template::3::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "不要强行造数字",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "如果没有真实 Benchmark，不要为了“量化”凭空写： 没有可信数字时，可以描述真实范围、规模或功能结果。"
+  },
+  {
+    "id": "/free/career/project-bullet-template::4::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "最后",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "好的 Bullet 不是更华丽，而是让陌生人快速理解你的技术贡献。"
+  },
+  {
     "id": "/free/::0::0",
     "route": "/free/",
-    "title": "🎁 免费资源",
-    "section": "🎁 免费资源",
-    "description": "",
-    "keywords": [],
-    "content": "真正能够直接使用，而不是故意做残缺的免费资源。 这里会持续整理 GradBridge 的 Roadmap、Checklist、Template 和 Tracker。 免费内容本身就应该能够解决一个具体问题。 --- 计划提供： - CS 求职 Roadmap - CV Checklist - Interview Checklist - Backend Roadmap - AI Roadmap - Sydney Newcomer Checklist - Renting Checklist - Job Tracker"
+    "title": "免费资源",
+    "section": "免费资源",
+    "description": "GradBridge 免费资源中心：CS 学习 Checklist、CV 模板、求职 Tracker、面试清单与技术速查。",
+    "keywords": [
+      "Free Resources",
+      "CS",
+      "CV",
+      "Checklist",
+      "Templates"
+    ],
+    "content": "GRADBRIDGE · FREE RESOURCES 真正可以直接拿走使用的 CS 学习与求职资源。 不是故意做残缺的免费样品。Checklist、Template、Tracker 和 Cheat Sheet 都应该独立解决一个具体问题。 浏览全部资源 语义搜索资源 → STUDY 学习与大学规划 把“大学四年应该做什么”变成可以逐项执行的行动清单。 ROADMAP 海外 CS 四年 Checklist 从大一到毕业，检查课程、技术、项目、实习与求职准备。 打开资源 → PLANNER CS 学期规划模板 把课程、技术、项目和求职放进同一个 Semester Plan。 包含 CSV 模板 → PROJECT Project 选择 Checklist 判断一个项目是否值得投入，并能否真正形成 Portfolio 资产。 打开资源 → CAREER 求职模板与 Checklist 从一份 CV 到完整 Application Pipeline，减少重复整理和遗漏。 CV CS CV Checklist 投递 Software、Backend、AI 和 Graduate Role 前做最后检查。 打开资源 → WRITING Project Bullet 模板 把普通项目描述变成更有技术信息量的 Resume Bullet。 打开资源 → TRACKER Internship Application Tracker 统一管理 Company、Role、Status、OA、Interview 和 Deadline。 包含 CSV 模板 → INTERVIEW Interview Preparation Checklist Coding、Technical、Project Deep Dive 和 Behavioral 一次检查。 打开资源 → TECH CHEAT SHEETS 面试前快速恢复知识结构 Cheat Sheet 不是替代学习，而是帮助你在短时间内重新建立知识地图。 BACKEND Backend Interview Cheat Sheet HTTP、Auth、Database、Redis、Queue 与 System Design。 打开速查 → GIT Git Cheat Sheet 学生项目和真实团队协作最常用 Git 命令与 Workflow。 打开速查 → AI AI · RAG · Agent 概念速查 Embedding、Vector Search、RAG、Agent、LangGraph 和 MCP。 打开速查 → FREE FIRST 免费内容本身就应该有完整价值。 GradBridge 会继续把高频、通用、适合大多数海外 CS 学生的资料开放出来。未来的高级产品可以提供更深的工具与服务，但不会故意把基础资源切碎。"
+  },
+  {
+    "id": "/free/::0::1",
+    "route": "/free/",
+    "title": "免费资源",
+    "section": "免费资源",
+    "description": "GradBridge 免费资源中心：CS 学习 Checklist、CV 模板、求职 Tracker、面试清单与技术速查。",
+    "keywords": [
+      "Free Resources",
+      "CS",
+      "CV",
+      "Checklist",
+      "Templates"
+    ],
+    "content": "· RAG · Agent 概念速查 Embedding、Vector Search、RAG、Agent、LangGraph 和 MCP。 打开速查 → FREE FIRST 免费内容本身就应该有完整价值。 GradBridge 会继续把高频、通用、适合大多数海外 CS 学生的资料开放出来。未来的高级产品可以提供更深的工具与服务，但不会故意把基础资源切碎。 了解 GradBridge →"
+  },
+  {
+    "id": "/free/study/four-year-checklist::0::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "海外 CS 四年 Checklist",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "这份 Checklist 的目标不是让你四年把所有东西都做完。 它的作用是帮助你判断：现在最值得做的事情是什么。"
+  },
+  {
+    "id": "/free/study/four-year-checklist::1::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大一：建立基础",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 熟悉至少一门主语言 - [ ] 掌握 Git 基础操作 - [ ] 能独立完成课程 Programming Assignment - [ ] 理解 Array、Linked List、Stack、Queue、Hash Map - [ ] 开始维护 GitHub - [ ] 做至少一个可以展示的小项目 - [ ] 学会阅读 Documentation - [ ] 保持基本成绩，不因为求职完全放弃课程"
+  },
+  {
+    "id": "/free/study/four-year-checklist::2::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大二：从课程走向工程",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 掌握 OOP - [ ] 学会 SQL 和基础 Database - [ ] 理解 HTTP / REST API - [ ] 完成一个多人 Group Project - [ ] 学会 Pull Request 和 Code Review - [ ] 开始准备 LeetCode 高频题型 - [ ] 把课程项目整理成 CV Bullet - [ ] 开始关注 Internship Timeline"
+  },
+  {
+    "id": "/free/study/four-year-checklist::3::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大三：进入求职主战场",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 完成一版正式 CS CV - [ ] LinkedIn 信息完整 - [ ] GitHub 有 2–3 个能够讲清楚的项目 - [ ] 建立 Internship Application Tracker - [ ] 系统准备 Coding Interview - [ ] 系统准备 Technical Interview - [ ] 准备 Behavioral Stories - [ ] 大规模投递 Internship / Graduate Program - [ ] 主动参加 Networking / Career Event"
+  },
+  {
+    "id": "/free/study/four-year-checklist::4::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大四：完成转换",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 明确 Graduate / Full-time 求职方向 - [ ] 根据岗位重新调整项目展示 - [ ] 能完整讲清一段 Internship / Project Experience - [ ] 能进行 45–60 分钟 Technical Interview - [ ] 能回答 Why this company / Why this role - [ ] 持续记录所有申请状态 - [ ] 准备毕业后的 Work Rights / Location Plan"
+  },
+  {
+    "id": "/free/study/four-year-checklist::5::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "每学期都检查",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 这学期最重要的能力是什么？ - [ ] 有没有一个可以留下来的项目产物？ - [ ] 有没有一个可以写进 CV 的结果？ - [ ] 有没有认识新的同学、工程师或导师？ - [ ] 有没有在为下一阶段提前准备？"
+  },
+  {
+    "id": "/free/study/four-year-checklist::6::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "不需要同时做到的事",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "你不需要同时： - 刷 500 道 LeetCode - 学 8 个 Framework - 做 10 个项目 - 保持极端高 WAM - 每周参加 Hackathon 更重要的是建立一条连贯主线。"
+  },
+  {
+    "id": "/free/study/four-year-checklist::7::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "推荐搭配阅读",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- 海外 CS 四年成长路线 - 什么时候开始找实习 - WAM 与求职怎么平衡"
+  },
+  {
+    "id": "/free/study/four-year-checklist::8::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "最后",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "每一个学期只要比上一个学期多留下一个真正的能力资产，四年以后差距就会非常大。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::0::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "CS Project 选择 Checklist",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "项目不是越大越好。 真正值得投入的项目，应该同时满足： 能学到东西、能完成、能展示、能讲清楚。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::1::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "开始前先问",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- [ ] 这个项目解决什么具体问题？ - [ ] 谁会使用它？ - [ ] 最核心的 Feature 是什么？ - [ ] 两到六周内能不能做出 MVP？ - [ ] 是否需要真正的 Database / API / Model？ - [ ] 有没有可以量化的结果？ - [ ] 最后能不能部署或 Demo？"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::2::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "技术深度检查",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- [ ] 有没有 Authentication / Authorization？ - [ ] 有没有 Database Design？ - [ ] 有没有 Error Handling？ - [ ] 有没有 Testing？ - [ ] 有没有性能或可靠性问题？ - [ ] 有没有真正做过技术取舍？ 不需要全部满足。 但如果一个项目只是把 UI 页面拼出来，Technical Interview 可讲的内容通常有限。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::3::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "求职价值检查",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- [ ] 可以写成 2–3 条有信息量的 CV Bullet - [ ] 可以解释 Architecture - [ ] 可以解释一个困难 Bug - [ ] 可以解释一个 Trade-off - [ ] 可以解释你个人具体贡献 - [ ] GitHub README 能让陌生人快速理解"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::4::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "不太推荐的项目",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- 完全照教程复制 - 只有静态 UI - Scope 大到永远做不完 - 使用几十个技术但每个都只碰一点 - 无法解释自己做了什么"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::5::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "一个更好的项目描述",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "不要说： 做了一个电商网站。 而应该能说： 设计并实现一个带 JWT Authentication、PostgreSQL、Redis Cache 和 Docker Deployment 的电商 Backend，并针对商品查询路径减少重复数据库访问。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::6::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "推荐搭配",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- Project Bullet 怎么写 - Git 与真实工程协作"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::7::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "最后",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "项目的目标不是证明你知道很多技术名词，而是证明你能够把技术用于解决一个完整问题。"
+  },
+  {
+    "id": "/free/study/semester-planner::0::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "CS 学期规划模板",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "大学规划最容易出现的问题，是每个方向都单独规划： - 课程一个计划 - LeetCode 一个计划 - 项目一个计划 - 求职又一个计划 最后时间完全冲突。 更合理的是把所有事情放进同一张 Semester Plan。"
+  },
+  {
+    "id": "/free/study/semester-planner::1::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "第一步：只定 3 个核心目标",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "建议一个学期最多三个核心目标。 例如："
+  },
+  {
+    "id": "/free/study/semester-planner::2::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "第二步：规划能力资产",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "| Area | 本学期目标 | 最终产物 | | --- | --- | --- | | Study | 完成核心课程 | 成绩 + 知识笔记 | | Tech | 学 Backend | 一个可运行 API | | Project | 完成团队项目 | GitHub Repo + Demo | | Career | 准备 Internship | CV + Tracker | | Interview | DSA 高频题 | 题型总结 |"
+  },
+  {
+    "id": "/free/study/semester-planner::3::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "Week 1–4",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "- 建立课程节奏 - 确定项目 - 补基础"
+  },
+  {
+    "id": "/free/study/semester-planner::4::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "Week 5–8",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "- 项目进入主要开发 - Mid-semester Assessment - 开始整理 CV"
+  },
+  {
+    "id": "/free/study/semester-planner::5::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "Week 9–12",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "- 完成项目 - 准备 Final - 开始下一阶段申请"
+  },
+  {
+    "id": "/free/study/semester-planner::6::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "第四步：每周 Review",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "每周只问四个问题： 1. 本周真正完成了什么？ 2. 哪件事花了很多时间但价值很低？ 3. 下周最重要的一件事是什么？ 4. 有没有 Deadline 正在靠近？"
+  },
+  {
+    "id": "/free/study/semester-planner::7::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "可下载模板",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "下载 Semester Planner CSV → 也可以直接复制本页表格到 Notion、Excel 或 Google Sheets。"
+  },
+  {
+    "id": "/free/study/semester-planner::8::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "最后",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "学期规划不是把每天排满，而是保证最重要的能力资产真的能在学期结束前留下来。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::0::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Embedding",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "把文本或其他对象转换成高维 Vector Representation。 用途： - Semantic Search - Retrieval - Similarity - Clustering"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::1::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Vector Search",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "把 Query 也转换成 Vector，然后找到最相似的 Top-K Candidate。 常见 Similarity： - Cosine Similarity - Dot Product"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::2::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "RAG",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "RAG 最大风险之一：Retrieval 本身找错内容。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::3::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Chunking",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "Chunk 太大：Noise 多。 Chunk 太小：Context 断裂。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::4::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Agent",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "Agent 不只是输出文字，还可能： - Decide - Choose Tool - Execute - Observe - Continue"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::5::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Tool Calling",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "LLM 决定调用什么工具，但真正的工具操作由系统执行。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::6::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "LangChain",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "广泛的 LLM Application Toolkit。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::7::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "LangGraph",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "更适合： - State - Branch - Loop - Retry - Multi-step Workflow"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::8::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "MCP",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "用于 AI Application 与外部 Tool / Resource 之间的标准化连接。 MCP 不是 Model，也不是 Web Framework。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::9::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "推荐继续阅读",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "- Embedding 与 Vector Search - RAG - Agent · LangChain · LangGraph · MCP"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::10::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "最后",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "先理解每一个概念解决的问题，再决定需要使用什么框架。"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::0::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Backend Interview Cheat Sheet",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "这页适合面试前快速复习，不替代完整学习。"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::1::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "HTTP",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "- GET：读取 - POST：创建或执行操作 - PUT：通常整体更新 - PATCH：通常部分更新 - DELETE：删除 - 401：Authentication 问题 - 403：Authorization 问题 - 404：Resource 不存在 - 500：Server Error"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::2::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "REST",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "关键词： - Resource-oriented - HTTP Method - Status Code - Stateless - Idempotency"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::3::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Session vs JWT",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "Session： - State 主要在 Server - 容易主动撤销 - 多实例需要共享 Session JWT： - Token 自带 Claims - 服务端可验证签名 - 未过期 Token 天然较难主动撤销"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::4::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Database",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "Index： - 减少扫描范围 - 提高 Read - 增加 Storage 和 Write Cost Transaction： - Atomicity - Consistency - Isolation - Durability"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::5::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Redis",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "常见用途： - Cache - Session - Counter - Rate Limiting RDB：Snapshot。 AOF：记录写操作。"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::6::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Cache",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "常见问题： - Cache Miss - TTL - Invalidation - Stampede - Hot Key"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::7::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Message Queue",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "主要价值： - Async - Decoupling - Buffer 新问题： - Retry - Duplicate - Ordering - Delivery Guarantee"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::8::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "推荐继续阅读",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "- HTTP 与 REST API - Session vs JWT - Redis 持久化 - System Design"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::9::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "最后",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "Cheat Sheet 是为了帮你快速恢复知识结构，而不是代替真正理解。"
+  },
+  {
+    "id": "/free/tech/git-cheatsheet::0::0",
+    "route": "/free/tech/git-cheatsheet",
+    "title": "Git Cheat Sheet",
+    "section": "Rebase",
+    "description": "学生项目和团队开发最常见 Git 命令与协作流程速查。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Cheat Sheet",
+      "Pull Request"
+    ],
+    "content": "注意：不要随意 Rebase 已经被多人共享的历史。"
+  },
+  {
+    "id": "/free/tech/git-cheatsheet::1::0",
+    "route": "/free/tech/git-cheatsheet",
+    "title": "Git Cheat Sheet",
+    "section": "Commit Prefix 示例",
+    "description": "学生项目和团队开发最常见 Git 命令与协作流程速查。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Cheat Sheet",
+      "Pull Request"
+    ],
+    "content": "- feat: 新功能 - fix: Bug Fix - docs: 文档 - refactor: 重构 - test: 测试 - chore: 工程维护"
+  },
+  {
+    "id": "/free/tech/git-cheatsheet::2::0",
+    "route": "/free/tech/git-cheatsheet",
+    "title": "Git Cheat Sheet",
+    "section": "最后",
+    "description": "学生项目和团队开发最常见 Git 命令与协作流程速查。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Cheat Sheet",
+      "Pull Request"
+    ],
+    "content": "Git 最重要的能力不是记住命令，而是知道当前代码状态，以及每一步会怎样改变历史。"
   },
   {
     "id": "/::0::0",
