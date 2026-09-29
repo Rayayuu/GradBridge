@@ -143,12 +143,33 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     },
     {
-      text: '进阶方向',
+      text: 'AI Engineering',
       collapsed: false,
       items: [
-        { text: 'AI Engineering', link: '/tech/ai/' },
-        { text: 'Computer Vision', link: '/tech/computer-vision/' },
-        { text: 'System Design', link: '/tech/system-design/' }
+        { text: 'AI Engineering 首页', link: '/tech/ai/' },
+        { text: 'Embedding 与 Vector Search', link: '/tech/ai/embedding-vector-search' },
+        { text: 'RAG', link: '/tech/ai/rag' },
+        { text: 'Agent · LangGraph · MCP', link: '/tech/ai/agent-langchain-langgraph-mcp' }
+      ]
+    },
+    {
+      text: 'System Design',
+      collapsed: false,
+      items: [
+        { text: 'System Design 首页', link: '/tech/system-design/' },
+        { text: 'Cache 与 Load Balancer', link: '/tech/system-design/cache-load-balancer' },
+        { text: 'Message Queue', link: '/tech/system-design/message-queue' },
+        { text: 'Rate Limit 与 DB Scaling', link: '/tech/system-design/rate-limit-database-scaling' }
+      ]
+    },
+    {
+      text: 'Computer Vision',
+      collapsed: false,
+      items: [
+        { text: 'Computer Vision 首页', link: '/tech/computer-vision/' },
+        { text: 'CNN · Detection · Segmentation', link: '/tech/computer-vision/cnn-detection-segmentation' },
+        { text: 'YOLO', link: '/tech/computer-vision/yolo-object-detection' },
+        { text: 'IoU · mIoU', link: '/tech/computer-vision/iou-miou' }
       ]
     }
   ],
