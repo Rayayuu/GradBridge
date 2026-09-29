@@ -128,19 +128,25 @@
 
 <div class="gb-career-au-grid">
 <div>
+<a href="/career/australia/" aria-label="澳洲求职" style="display:block;color:inherit;text-decoration:none;height:100%">
 <span>AU</span>
 <h3>澳洲求职</h3>
 <p>Graduate Program、Work Rights、Seek、LinkedIn、Assessment Centre 和 Networking。</p>
+</a>
 </div>
 <div>
+<a href="/career/sydney/" aria-label="悉尼 CS 求职" style="display:block;color:inherit;text-decoration:none;height:100%">
 <span>SYD</span>
 <h3>悉尼 CS 求职</h3>
 <p>围绕悉尼本地 Software、Backend、AI、Graduate 和 Internship 市场。</p>
+</a>
 </div>
 <div>
+<a href="/career/china/" aria-label="国内秋招" style="display:block;color:inherit;text-decoration:none;height:100%">
 <span>CN</span>
 <h3>国内秋招</h3>
 <p>暑期实习、提前批、秋招、补录以及海外学生回国求职节奏。</p>
+</a>
 </div>
 <div>
 <span>GLOBAL</span>

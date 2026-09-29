@@ -9,22 +9,727 @@
     "content": "From CS Student to Software Engineer. GradBridge 是一个面向海外 CS 学生的： Learning + Career + Technology + Local Life Platform 我们希望把一个学生从进入大学到找到第一份技术工作的过程中，真正需要的信息整理到同一个地方。 GradBridge 是独立学生项目，与 University of Sydney 以及网站中提到的其他高校不存在官方隶属或背书关系。"
   },
   {
+    "id": "/career/australia/graduate-program::0::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "澳洲 Graduate Program 完整入门",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "Graduate Program 是澳洲应届生进入大型企业、银行、咨询、科技、政府和工程组织的重要入口之一。 它和普通 Entry-level Job 最大的区别之一，是招聘通常更结构化，也往往更早开始。"
+  },
+  {
+    "id": "/career/australia/graduate-program::1::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "不要等毕业以后才搜索 Graduate",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "更稳妥的做法是提前建立自己的目标公司表。 | Company | Program | Opening | Closing | Stage | Notes | | --- | --- | --- | --- | --- | --- | | Company A | Technology Graduate | TBD | TBD | Tracking | Work rights | | Company B | Software Graduate | TBD | TBD | Tracking | OA | 具体日期每年都可能变化，所以真正申请时应该以公司 Careers 页面为准。"
+  },
+  {
+    "id": "/career/australia/graduate-program::2::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "常见招聘流程",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "不同公司差异很大，但常见阶段包括： 1. Online Application 2. Resume / Profile Screening 3. Online Assessment 4. Video Interview 5. Technical Interview 6. Assessment Centre 7. Behavioral Interview 8. Offer 不是每家公司都会包含所有阶段。"
+  },
+  {
+    "id": "/career/australia/graduate-program::3::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "Graduate 不只看算法",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "通常还需要综合准备： - CV - Academic Background - Project - Internship - Coding - Technical Fundamentals - Behavioral - Communication - Teamwork - Motivation 所以单纯刷 LeetCode 并不能覆盖整个 Graduate Pipeline。"
+  },
+  {
+    "id": "/career/australia/graduate-program::4::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "Assessment Centre 是什么",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "部分大型 Graduate Program 会使用 Assessment Centre。 形式可能包括 Group Exercise、Case、Presentation、Interview 或其他协作任务。 重点通常不是抢着说最多，而是能否理解问题、推动讨论、倾听别人、清晰表达并帮助团队完成任务。"
+  },
+  {
+    "id": "/career/australia/graduate-program::5::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "为什么要提前准备 Behavioral",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "建议提前建立自己的 Story Bank： - Leadership - Conflict - Failure - Teamwork - Ownership - Learning - Difficult Technical Problem - Tight Deadline 真正面试时再临时想故事，通常很难稳定。"
+  },
+  {
+    "id": "/career/australia/graduate-program::6::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "没有实习还能申请吗",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "可以申请，但需要通过项目、课程、Research、Hackathon、Society、Volunteer 或其他真实经历证明技术能力和协作能力。 没有 Internship 不代表没有经历。 关键是能否说明自己具体做过什么。"
+  },
+  {
+    "id": "/career/australia/graduate-program::7::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "Master CV",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "保存所有经历和 Bullet。"
+  },
+  {
+    "id": "/career/australia/graduate-program::8::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "Application CV",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "针对 Software、Backend、Data 或其他方向重新排序。"
+  },
+  {
+    "id": "/career/australia/graduate-program::9::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "Story Bank",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "把项目、实习和团队经历整理成可以用于 Behavioral Interview 的故事。"
+  },
+  {
+    "id": "/career/australia/graduate-program::10::0",
+    "route": "/career/australia/graduate-program",
+    "title": "澳洲 Graduate Program 完整入门",
+    "section": "最后",
+    "description": "面向海外 CS 学生，解释澳洲 Graduate Program 的招聘节奏、申请材料、常见流程和准备方式。",
+    "keywords": [
+      "Australia Graduate Program",
+      "Graduate Software Engineer",
+      "澳洲求职",
+      "Graduate",
+      "Software Engineer"
+    ],
+    "content": "Graduate Program 最容易出现的问题不是“不会”，而是发现岗位时已经太晚。 把招聘时间线本身当成求职能力的一部分。"
+  },
+  {
     "id": "/career/australia/::0::0",
     "route": "/career/australia/",
-    "title": "澳洲求职",
-    "section": "澳洲求职",
-    "description": "",
+    "title": "澳洲 CS 求职",
+    "section": "澳洲 CS 求职",
+    "description": "GradBridge 澳洲 CS 求职专区，覆盖 Graduate Program、Job Platforms、Networking 和 Work Rights。",
     "keywords": [],
-    "content": "了解 Internship、Graduate Program、招聘季、Visa Requirement、Networking 与本地求职渠道。 这里会重点整理澳洲技术岗位的真实申请流程。"
+    "content": "CAREER · AUSTRALIA 技术能力之外， 还要理解澳洲招聘规则。 Graduate Program、岗位平台、Networking 和 Work Rights 都会影响你的实际求职路径。 AUSTRALIA PATH 四个需要单独理解的模块 01 Graduate Program 招聘节奏、OA、Assessment Centre、Behavioral 和提前准备。 查看 Graduate 指南 → 02 Job Platforms 公司官网、LinkedIn、SEEK、大学 Career Portal 与 Job Alert。 建立岗位发现系统 → 03 Networking Career Fair、Alumni、LinkedIn 和 Tech Event 的自然连接方式。 学习 Networking → 04 Work Rights 把 Eligibility、Visa 和 Sponsorship 当成求职筛选条件单独核实。 理解 Work Rights →"
+  },
+  {
+    "id": "/career/australia/job-platforms::0::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "澳洲 CS 求职平台怎么用",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "求职平台的作用不是让你每天无目的刷新。 真正有效的方式是建立一个稳定的岗位发现系统。"
+  },
+  {
+    "id": "/career/australia/job-platforms::1::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "第一层：公司官网",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "对于明确想去的公司，优先关注官方 Careers 页面。 特别是： - Graduate Program - Internship Program - Early Careers - Technology Program - Software Engineering 大型项目的开放时间有时比你开始主动找工作更早。"
+  },
+  {
+    "id": "/career/australia/job-platforms::2::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "第二层：LinkedIn Jobs",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "适合： - 搜索 Software Engineer - Backend Engineer - Graduate Software Engineer - Data Engineer - Machine Learning Engineer - Internship 不要只依赖 Easy Apply。 看到合适岗位后，可以进一步查看公司官网是否存在官方申请入口。"
+  },
+  {
+    "id": "/career/australia/job-platforms::3::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "第三层：SEEK",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "SEEK 是澳洲常见招聘平台之一。 建议使用多个关键词组合，而不是只有 Software Engineer。 例如： - Junior Software Engineer - Graduate Developer - Backend Developer - Full Stack Developer - Software Developer - Data Analyst - Data Engineer - QA Automation 不同公司对相似岗位可能使用不同名称。"
+  },
+  {
+    "id": "/career/australia/job-platforms::4::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "第四层：大学 Career Portal",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "University Career Portal 经常会出现： - Campus-specific Opportunity - Internship - Graduate Program - Career Fair - Employer Event 学生身份本身就是一个可以利用的求职渠道。"
+  },
+  {
+    "id": "/career/australia/job-platforms::5::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "第五层：Networking",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "很多机会不是“隐藏岗位”，而是你通过活动更早知道团队、招聘时间或真实岗位需求。 来源可以包括： - Career Fair - Tech Meetup - Alumni Event - Hackathon - University Society - LinkedIn"
+  },
+  {
+    "id": "/career/australia/job-platforms::6::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "Job Alert 应该怎么设置",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "至少按 Role + Location 建立多个 Alert。 例如 Sydney + Software Engineer、Sydney + Graduate Developer、Sydney + Backend。"
+  },
+  {
+    "id": "/career/australia/job-platforms::7::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "不要只投职位名称完全匹配的岗位",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "Software Engineer、Developer、Application Developer、Backend Engineer 和 Graduate Technology 在不同公司可能存在大量能力重叠。 应该阅读 Responsibilities 和 Requirements，而不是只看 Title。"
+  },
+  {
+    "id": "/career/australia/job-platforms::8::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "建立 Job Tracker",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "| Company | Role | Source | Date | Stage | Next Action | | --- | --- | --- | --- | --- | --- | | A | SWE Graduate | Careers | 10 Mar | Applied | Wait | | B | Backend Intern | LinkedIn | 12 Mar | OA | Prepare | 真正重要的是知道自己的申请卡在哪个阶段。"
+  },
+  {
+    "id": "/career/australia/job-platforms::9::0",
+    "route": "/career/australia/job-platforms",
+    "title": "澳洲 CS 求职平台怎么用",
+    "section": "最后",
+    "description": "整理海外 CS 学生在澳洲寻找 Software、Backend、Data、AI、Internship 和 Graduate 岗位时的岗位发现方法。",
+    "keywords": [
+      "澳洲求职平台",
+      "SEEK",
+      "LinkedIn Jobs",
+      "Graduate",
+      "Internship"
+    ],
+    "content": "不要把求职平台当成一个网站。 把它们组合成自己的岗位发现系统。"
+  },
+  {
+    "id": "/career/australia/networking::0::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "澳洲 CS Networking 指南",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "很多学生听到 Networking，会理解成“找陌生人要 Referral”。 其实更健康的 Networking 是： 建立真实的职业连接，并更早获得行业和岗位信息。"
+  },
+  {
+    "id": "/career/australia/networking::1::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "Networking 可以从哪里开始",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "- Career Fair - University Society - Alumni Event - Tech Meetup - Hackathon - LinkedIn - Internship - Group Project"
+  },
+  {
+    "id": "/career/australia/networking::2::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "Career Fair 不要只拿周边",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "可以提前准备三个问题： 1. 你们团队主要做什么？ 2. Graduate / Internship 通常什么时候开放？ 3. 对学生候选人最看重什么？ 如果聊得不错，再自然连接 LinkedIn。"
+  },
+  {
+    "id": "/career/australia/networking::3::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "LinkedIn 怎么开场",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "不要一上来： Hi, can you refer me? 更自然的是说明自己的背景、为什么联系对方，以及一个具体问题。 例如你看到了对方从 University Graduate 进入 Backend Team，就可以询问当时准备过程中什么最有帮助。"
+  },
+  {
+    "id": "/career/australia/networking::4::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "Alumni 为什么有价值",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "同校 Alumni 往往更容易理解： - 课程背景 - 学校项目 - 本地求职环境 - Graduate Timeline - 从学生到行业的转换 但 Alumni 并不天然欠你 Referral。"
+  },
+  {
+    "id": "/career/australia/networking::5::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "Referral 是结果，不是开场白",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "如果双方已经建立基本信任，而且岗位确实匹配，再讨论 Referral 会自然很多。"
+  },
+  {
+    "id": "/career/australia/networking::6::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "Networking 后怎么跟进",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "简单记录： - Name - Company - Role - Where you met - What you discussed - Follow-up 不是为了把人当 CRM，而是避免自己完全忘记之前聊过什么。"
+  },
+  {
+    "id": "/career/australia/networking::7::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "内向的人怎么办",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "Networking 不要求你成为社交达人。 你可以把目标从“认识十个人”改成“进行两次真正有内容的交流”。 技术人尤其适合从具体技术、项目和职业路径开始聊。"
+  },
+  {
+    "id": "/career/australia/networking::8::0",
+    "route": "/career/australia/networking",
+    "title": "澳洲 CS Networking 指南",
+    "section": "最后",
+    "description": "面向不喜欢硬社交的 CS 学生，解释 Career Fair、LinkedIn、Alumni 和 Tech Event 中更自然的 Networking 方法。",
+    "keywords": [
+      "Networking",
+      "Australia Career",
+      "LinkedIn",
+      "Career Fair",
+      "Referral"
+    ],
+    "content": "最好的 Networking 通常不是求人。 是让别人逐渐知道你是谁、在做什么、对什么方向认真。"
+  },
+  {
+    "id": "/career/australia/work-rights::0::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "澳洲求职中的 Work Rights 怎么看",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "对于国际学生，Work Rights 是求职中必须单独确认的一项条件。 它不是技术能力问题，也不能通过“多投一些”自动解决。"
+  },
+  {
+    "id": "/career/australia/work-rights::1::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "每个岗位都要看 Eligibility",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "招聘页面可能会说明： - Citizenship Requirement - Permanent Residency Requirement - Current Work Rights - Future Sponsorship - Graduate Eligibility 不同公司、不同项目、不同年份可能完全不同。"
+  },
+  {
+    "id": "/career/australia/work-rights::2::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "不要用别人的经历替代官方要求",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "网上有人成功申请，并不代表当前岗位的 Eligibility 一定相同。 真正申请时应该优先核对： 1. 当前 Job Description 2. 公司 Early Careers / Graduate FAQ 3. 官方招聘团队说明 4. 与签证和工作权限有关的官方政府信息"
+  },
+  {
+    "id": "/career/australia/work-rights::3::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "Job Tracker 单独加一列",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "| Company | Role | Work Rights | Sponsorship | Status | | --- | --- | --- | --- | --- | | A | Graduate SWE | Check | Check | Research | | B | Backend | Eligible | Unknown | Applied | 不要投完几十个岗位以后才发现其中大量岗位从一开始就不符合条件。"
+  },
+  {
+    "id": "/career/australia/work-rights::4::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "Sponsorship 不等于当前 Work Rights",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "这是两个不同问题。 一个岗位可能要求申请时已经具备某种工作权限，而未来是否提供 Sponsorship 又是另外一个政策。 不要自动把两者视为同一件事。"
+  },
+  {
+    "id": "/career/australia/work-rights::5::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "Graduate Program 尤其要提前看",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "Graduate Program 经常有独立 Eligibility 条件。 因此建立目标公司表时就应该加入 Work Rights / Eligibility，而不是只记录 Opening Date。"
+  },
+  {
+    "id": "/career/australia/work-rights::6::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "信息过期怎么办",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "签证、移民和招聘政策可能发生变化。 GradBridge 可以帮助你建立检查框架，但不能替代官方信息。 涉及具体签证和工作权限时，以澳大利亚政府和雇主当前官方说明为准。"
+  },
+  {
+    "id": "/career/australia/work-rights::7::0",
+    "route": "/career/australia/work-rights",
+    "title": "澳洲求职中的 Work Rights 怎么看",
+    "section": "最后",
+    "description": "帮助海外学生理解求职页面中的 Work Rights、Visa、Sponsorship 和 Eligibility 信息应该如何阅读与核实。",
+    "keywords": [
+      "Work Rights",
+      "Australia Visa",
+      "Sponsorship",
+      "Graduate Program",
+      "International Student"
+    ],
+    "content": "把 Work Rights 当成求职筛选条件之一，越早确认，越能减少无效申请。"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::0::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "海外 CS 学生国内秋招时间线",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "海外学生回国求职最容易踩的坑之一，是按照毕业时间才开始准备。 国内校园招聘往往存在自己独立的招聘节奏。"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::1::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "先理解几个阶段",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "常见概念包括： - 日常实习 - 暑期实习 - 实习转正 - 提前批 - 秋招 - 秋招补录 - 春招 具体开放时间因公司和年份而异，真正申请时应以公司官方招聘页面为准。"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::2::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "为什么暑期实习重要",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "对于很多学生，暑期实习不只是获得一段经历。 它还可能帮助你： - 提前适应国内面试 - 获得真实工程经历 - 建立转正机会 - 为秋招增加项目和业务经验"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::3::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "海外学生需要特别注意时间差",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "海外 Semester、考试周、毕业时间和国内招聘周期可能并不完全一致。 所以需要提前规划： - 什么时候能线下面试 - 什么时候可以开始实习 - 是否需要远程面试 - 毕业证和正式毕业时间 - 回国时间"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::4::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "国内技术面可能更集中",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "对于 Software / Backend 岗位，常见准备方向包括： - 数据结构与算法 - Java / C++ / Python 基础 - Operating Systems - Computer Networks - Database - Redis - Backend Framework - Project - System / Engineering Fundamentals 不同岗位会有明显差异。"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::5::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "项目不能只会背简历",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "如果写了一个 Backend 项目，就应该准备： - Architecture - Database Schema - Authentication - Cache - Concurrency - Testing - Deployment - Bug - Trade-off"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::6::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "建立国内版 Job Tracker",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "| Company | Role | Batch | Apply Date | Stage | | --- | --- | --- | --- | --- | | A | Backend | 提前批 | TBD | Tracking | | B | SWE | 秋招 | TBD | Tracking |"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::7::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "海外学历不是自动优势",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "最终仍然需要通过真实技术能力、项目、实习和面试表现证明自己。 海外经历可以成为差异化背景，但不能替代岗位能力。"
+  },
+  {
+    "id": "/career/china/china-recruitment-timeline::8::0",
+    "route": "/career/china/china-recruitment-timeline",
+    "title": "海外 CS 学生国内秋招时间线",
+    "section": "最后",
+    "description": "面向海外高校 CS 学生，整理回国求职时暑期实习、提前批、秋招和补录的准备逻辑。",
+    "keywords": [
+      "国内秋招",
+      "校招",
+      "暑期实习",
+      "提前批",
+      "海归求职"
+    ],
+    "content": "如果计划回国求职，最重要的第一步不是刷题。 是先把国内招聘时间线和自己的海外学期时间线对齐。"
   },
   {
     "id": "/career/china/::0::0",
     "route": "/career/china/",
     "title": "国内秋招",
     "section": "国内秋招",
-    "description": "",
+    "description": "海外 CS 学生回国求职入口，覆盖暑期实习、提前批、秋招、技术面和时间线规划。",
     "keywords": [],
-    "content": "面向计划回国求职的海外 CS 学生。 这里会整理暑期实习、提前批、秋招、补录与国内技术面试准备。"
+    "content": "CAREER · CHINA 海外学期时间， 要提前对齐国内招聘周期。 回国求职不是毕业以后再开始。暑期实习、提前批、秋招和补录都有独立节奏。 CHINA RECRUITMENT 先把时间线搞清楚 01 海外学生国内秋招时间线 暑期实习、提前批、秋招、技术准备以及海外学生最容易忽略的时间差。 查看国内求职路线 → 02 Coding Interview 算法和数据结构仍然是大量技术岗位的重要基础。 准备 Coding → 03 Technical Fundamentals Database、Network、OS、Backend 和 Project Deep Dive。 准备技术面 →"
   },
   {
     "id": "/career/cv/ats-guide::0::0",
@@ -1573,9 +2278,174 @@
     "route": "/career/sydney/",
     "title": "悉尼 CS 求职",
     "section": "悉尼 CS 求职",
-    "description": "",
+    "description": "面向悉尼高校 CS 学生的本地 Software、Backend、Data、AI、Internship 和 Graduate 求职入口。",
     "keywords": [],
-    "content": "围绕悉尼本地的软件工程、AI、Graduate 和 Internship 岗位展开。 后续会逐步加入公司分类、招聘流程与岗位 Tracker。"
+    "content": "CAREER · SYDNEY 把悉尼这座城市， 变成你的求职资源。 University、Career Fair、Tech Meetup、Alumni、Startup 和本地 Internship 都是学生阶段可以利用的真实入口。 SYDNEY START 先从本地求职地图开始 01 悉尼 CS 求职完整入门 岗位类型、第一份经历、公司池、每周节奏和学生阶段可以利用的本地资源。 开始悉尼求职路线 → 02 岗位发现系统 不要只靠一个招聘网站，组合 Careers、LinkedIn、SEEK 和校园渠道。 查看求职平台 → 03 线下 Networking 把在悉尼本地读书的地理优势转化成真实职业连接。 查看 Networking →"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::0::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "悉尼 CS 求职完整入门",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "在悉尼读 CS，一个常见误区是：等课程全部学完以后再开始找工作。 现实中更有效的路线通常是边学习、边做项目、边了解市场、边申请。"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::1::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "可以搜索哪些岗位",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "不要只搜索 Software Engineer。 还可以关注： - Software Developer - Backend Engineer - Full Stack Developer - Frontend Engineer - Graduate Developer - Technology Graduate - Data Engineer - Data Analyst - Machine Learning Engineer - QA Automation - Cloud / DevOps"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::2::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "悉尼学生的优势",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "本地就读意味着你可以利用： - University Career Fair - Employer Event - Hackathon - Tech Meetup - Alumni - Student Society - In-person Interview - Local Internship 这些机会不应该等毕业前一个学期才开始使用。"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::3::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "第一份经历从哪里来",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "第一份经历不一定来自大型科技公司。 Startup、Small Company、Research Project、Automation、QA、Data、University Project 和 Open Source 都可能成为下一次申请的证据。"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::4::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "Tier A：非常想去",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "提前研究公司、团队、招聘时间和面试形式。"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::5::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "Tier B：高度匹配",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "主要投递池。"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::6::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "Tier C：探索机会",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "帮助获得真实市场反馈。 目的不是给公司贴高低标签，而是管理自己的申请时间。"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::7::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "每周执行节奏",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "- 固定搜索岗位 - 更新 Job Tracker - 进行 Coding Practice - 复习 Technical Fundamentals - 深挖一个 Project - 参加一个 Career / Tech Activity"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::8::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "不要只盯大厂",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "第一份工作最重要的价值之一，是进入真实 Engineering Environment。 你会开始接触： - Existing Codebase - Git Workflow - Code Review - Ticket - Testing - Deployment - Team Communication"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::9::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "本地项目要能解释",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "如果你有 University Capstone、Honours、Hackathon 或 Personal Project，应该能够把它们转化成工程证据。 面试官通常更关心你到底负责什么，而不是项目名字有多高级。"
+  },
+  {
+    "id": "/career/sydney/sydney-cs-job-guide::10::0",
+    "route": "/career/sydney/sydney-cs-job-guide",
+    "title": "悉尼 CS 求职完整入门",
+    "section": "最后",
+    "description": "面向悉尼高校 CS 学生，整理 Software、Backend、Data、AI、Graduate 和 Internship 的本地求职路线。",
+    "keywords": [
+      "Sydney CS Jobs",
+      "悉尼求职",
+      "Software Engineer",
+      "Internship",
+      "Graduate"
+    ],
+    "content": "悉尼 CS 求职不是一场毕业时突然开始的考试。 最好从还在学校的时候，就开始进入真实市场。"
   },
   {
     "id": "/free/::0::0",

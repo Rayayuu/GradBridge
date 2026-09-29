@@ -65,12 +65,30 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     },
     {
-      text: '地区求职',
+      text: '澳洲求职',
       collapsed: false,
       items: [
-        { text: '澳洲求职', link: '/career/australia/' },
-        { text: '悉尼 CS 求职', link: '/career/sydney/' },
-        { text: '国内秋招', link: '/career/china/' }
+        { text: '澳洲求职首页', link: '/career/australia/' },
+        { text: 'Graduate Program', link: '/career/australia/graduate-program' },
+        { text: '求职平台', link: '/career/australia/job-platforms' },
+        { text: 'Networking', link: '/career/australia/networking' },
+        { text: 'Work Rights', link: '/career/australia/work-rights' }
+      ]
+    },
+    {
+      text: '悉尼求职',
+      collapsed: false,
+      items: [
+        { text: '悉尼 CS 求职首页', link: '/career/sydney/' },
+        { text: '悉尼 CS 求职指南', link: '/career/sydney/sydney-cs-job-guide' }
+      ]
+    },
+    {
+      text: '国内求职',
+      collapsed: false,
+      items: [
+        { text: '国内秋招首页', link: '/career/china/' },
+        { text: '国内秋招时间线', link: '/career/china/china-recruitment-timeline' }
       ]
     }
   ],
