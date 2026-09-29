@@ -1847,3 +1847,35 @@ a.gb-study-stage-card:hover {
     align-items: flex-start;
   }
 }
+
+/* Sydney Phase 2 Repair: Clickable Cards */
+.gb-sydney-guide-grid > a {
+  display: block;
+  min-height: 210px;
+  padding: 26px;
+  border: 1px solid rgba(var(--gb-border-rgb), .07);
+  border-radius: 20px;
+  color: inherit !important;
+  background: rgba(255,255,255,.025);
+  text-decoration: none !important;
+  transition: transform .2s ease, background .2s ease, border-color .2s ease;
+}
+
+.gb-sydney-guide-grid > a:hover {
+  transform: translateY(-4px);
+  border-color: rgba(var(--gb-border-rgb), .18);
+  background: rgba(68,174,226,.055);
+}
+
+.gb-weekend-grid > a.gb-weekend-card {
+  display: block;
+  color: inherit !important;
+  text-decoration: none !important;
+  transition: transform .2s ease, background .2s ease, border-color .2s ease;
+}
+
+.gb-weekend-grid > a.gb-weekend-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(var(--gb-border-rgb), .18);
+  background: rgba(68,174,226,.055);
+}

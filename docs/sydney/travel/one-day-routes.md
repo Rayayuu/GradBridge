@@ -1,13 +1,15 @@
-title: 悉尼留学生一日游路线
-description: Blue Mountains、Kiama、Palm Beach、Wollongong 等适合从悉尼出发的一日路线选择框架。
+---
+title: '悉尼留学生一日游路线'
+description: 'Blue Mountains、Kiama、Palm Beach、Wollongong 等适合从悉尼出发的一日路线选择框架。'
 keywords:
+  - 'Sydney Day Trip'
+  - 'Blue Mountains'
+  - 'Kiama'
+  - 'Palm Beach'
+  - 'Wollongong'
+---
 
-Sydney Day Trip
-Blue Mountains
-Kiama
-Palm Beach
-Wollongong
-悉尼留学生一日游路线
+# 悉尼留学生一日游路线
 
 一日游的关键不是目的地够不够远。
 

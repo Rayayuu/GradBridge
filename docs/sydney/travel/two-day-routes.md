@@ -1,13 +1,15 @@
-title: 悉尼留学生两天一夜周末路线
-description: 当一个周末真正空出来时，如何规划 Newcastle、Blue Mountains 等两天一夜路线。
+---
+title: '悉尼留学生两天一夜周末路线'
+description: '当一个周末真正空出来时，如何规划 Newcastle、Blue Mountains 等两天一夜路线。'
 keywords:
+  - 'Sydney Weekend Trip'
+  - 'Two Day Trip'
+  - 'Newcastle'
+  - 'Blue Mountains'
+  - 'Student Travel'
+---
 
-Sydney Weekend Trip
-Two Day Trip
-Newcastle
-Blue Mountains
-Student Travel
-悉尼留学生两天一夜周末路线
+# 悉尼留学生两天一夜周末路线
 
 有些目的地一天也能去。
 

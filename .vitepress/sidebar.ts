@@ -240,8 +240,22 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       text: '悉尼生活',
       collapsed: false,
       items: [
-        { text: '日常生活', link: '/sydney/life/' },
-        { text: '周末旅行', link: '/sydney/travel/' }
+        { text: '日常生活首页', link: '/sydney/life/' },
+        { text: '生活成本与预算', link: '/sydney/life/living-cost-budget' },
+        { text: 'Grocery 指南', link: '/sydney/life/grocery-guide' },
+        { text: 'OSHC · GP · Pharmacy', link: '/sydney/life/healthcare-oshc-gp' },
+        { text: '学习地点与日常节奏', link: '/sydney/life/study-spaces-routine' }
+      ]
+    },
+    {
+      text: '周末旅行',
+      collapsed: false,
+      items: [
+        { text: '周末旅行首页', link: '/sydney/travel/' },
+        { text: '不开车周末怎么玩', link: '/sydney/travel/no-car-weekend-guide' },
+        { text: '0.5 天周末路线', link: '/sydney/travel/half-day-routes' },
+        { text: '一日游路线', link: '/sydney/travel/one-day-routes' },
+        { text: '两天一夜路线', link: '/sydney/travel/two-day-routes' }
       ]
     }
   ]

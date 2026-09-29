@@ -1,12 +1,14 @@
-title: 悉尼留学生 0.5 天周末路线
-description: 不需要腾出完整一天的 Sydney 半日路线，适合课程周、Assignment Week 和临时想出去走走的时候。
+---
+title: '悉尼留学生 0.5 天周末路线'
+description: '不需要腾出完整一天的 Sydney 半日路线，适合课程周、Assignment Week 和临时想出去走走的时候。'
 keywords:
+  - 'Sydney Half Day'
+  - 'Coastal Walk'
+  - 'Sunset'
+  - 'Student Travel'
+---
 
-Sydney Half Day
-Coastal Walk
-Sunset
-Student Travel
-悉尼留学生 0.5 天周末路线
+# 悉尼留学生 0.5 天周末路线
 
 不是每个周末都需要安排一整天旅行。
 

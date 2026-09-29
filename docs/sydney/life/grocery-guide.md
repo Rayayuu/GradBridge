@@ -1,13 +1,15 @@
-title: 悉尼学生 Grocery 指南
-description: Coles、Woolworths、Aldi、亚洲超市与日常采购应该怎样组合，而不是只寻找一个所谓最便宜的超市。
+---
+title: '悉尼学生 Grocery 指南'
+description: 'Coles、Woolworths、Aldi、亚洲超市与日常采购应该怎样组合，而不是只寻找一个所谓最便宜的超市。'
 keywords:
+  - 'Sydney Grocery'
+  - 'Coles'
+  - 'Woolworths'
+  - 'Aldi'
+  - 'Asian Grocery'
+---
 
-Sydney Grocery
-Coles
-Woolworths
-Aldi
-Asian Grocery
-悉尼学生 Grocery 指南
+# 悉尼学生 Grocery 指南
 
 在悉尼买菜不需要寻找一个“永远最便宜”的超市。
 

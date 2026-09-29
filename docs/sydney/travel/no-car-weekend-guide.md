@@ -1,13 +1,15 @@
-title: 悉尼留学生不开车周末怎么玩
-description: 按公共交通难度判断悉尼周末目的地，帮助没有车的留学生选择真正适合自己的路线。
+---
+title: '悉尼留学生不开车周末怎么玩'
+description: '按公共交通难度判断悉尼周末目的地，帮助没有车的留学生选择真正适合自己的路线。'
 keywords:
+  - 'Sydney Weekend'
+  - 'No Car'
+  - 'Public Transport'
+  - 'International Student'
+  - 'Travel'
+---
 
-Sydney Weekend
-No Car
-Public Transport
-International Student
-Travel
-悉尼留学生不开车周末怎么玩
+# 悉尼留学生不开车周末怎么玩
 
 没有车，不代表悉尼周末只能待在 CBD。
 

@@ -1,13 +1,15 @@
-title: 悉尼学生学习地点与日常节奏
-description: Campus Library、公共图书馆、咖啡店和家里应该怎样组合，建立适合自己的悉尼学习节奏。
+---
+title: '悉尼学生学习地点与日常节奏'
+description: 'Campus Library、公共图书馆、咖啡店和家里应该怎样组合，建立适合自己的悉尼学习节奏。'
 keywords:
+  - 'Sydney Study'
+  - 'Library'
+  - 'Student Life'
+  - 'Productivity'
+  - 'Routine'
+---
 
-Sydney Study
-Library
-Student Life
-Productivity
-Routine
-悉尼学生学习地点与日常节奏
+# 悉尼学生学习地点与日常节奏
 
 悉尼有很多“适合学习的地方”。
 

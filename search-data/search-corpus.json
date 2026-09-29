@@ -7149,56 +7149,47 @@
   {
     "id": "/sydney/life/grocery-guide::0::0",
     "route": "/sydney/life/grocery-guide",
-    "title": "grocery-guide",
-    "section": "grocery-guide",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼学生 Grocery 指南 description: Coles、Woolworths、Aldi、亚洲超市与日常采购应该怎样组合，而不是只寻找一个所谓最便宜的超市。 keywords: Sydney Grocery Coles Woolworths Aldi Asian Grocery 悉尼学生 Grocery 指南 在悉尼买菜不需要寻找一个“永远最便宜”的超市。 更实用的做法是： 不同类型的商品，用不同采购渠道。 Coles / Woolworths 适合： 日常基础食品 牛奶 面包 鸡蛋 冷冻食品 Household Items 临时补货 优势通常是门店多、采购方便。 Aldi 适合： 基础 Grocery 部分日用品 对品牌要求不高的采购 具体商品范围和门店位置不同，不一定每一次都能买齐。 亚洲超市 如果你经常自己做中餐或亚洲料理，亚洲超市会非常重要。 常见用途： 调味料 亚洲蔬菜 火锅 / 冷冻食品 米面 亚洲零食 特定食材 不要每次都“随便逛” 最容易增加 Grocery Cost 的方式之一，就是没有 Shopping List。 建议： 先看冰箱 → 写 Shopping List → 买真正需要的东西 → 最后再决定是否买零食 建立基础库存 例如： Protein Eggs Chicken Beef / Pork Tofu Carb Rice Pasta Bread Oats Emergency Food 可以准备少量： Frozen Food Instant Meal Noodles 尤其适合 Assignment / Exam Week。 看 Unit Price 比较商品时，不要只看包装价格。 可以比较： price per 100g price per kg price per litre 大包装不一定永远更划算。 食品浪费也是成本 如果为了“便宜”一次买大量食材，最后吃不完，其实并没有省钱。 真正应该优化的是： Purchase → Storage → Meal Plan → Finish Grocery 和租房 看房时也可以检查： 最近超市多远 是否需要坐车买菜 是否有亚洲 Grocery 晚上购物是否方便 搬大量 Grocery 回家是否困难 这些都会影响真实生活体验。 最后 最好的 Grocery Strategy 通常不是只去一家店，而是建立一个低摩擦、能够长期坚持的采购习惯。"
+    "title": "悉尼学生 Grocery 指南",
+    "section": "悉尼学生 Grocery 指南",
+    "description": "Coles、Woolworths、Aldi、亚洲超市与日常采购应该怎样组合，而不是只寻找一个所谓最便宜的超市。",
+    "keywords": [
+      "Sydney Grocery",
+      "Coles",
+      "Woolworths",
+      "Aldi",
+      "Asian Grocery"
+    ],
+    "content": "在悉尼买菜不需要寻找一个“永远最便宜”的超市。 更实用的做法是： 不同类型的商品，用不同采购渠道。 Coles / Woolworths 适合： 日常基础食品 牛奶 面包 鸡蛋 冷冻食品 Household Items 临时补货 优势通常是门店多、采购方便。 Aldi 适合： 基础 Grocery 部分日用品 对品牌要求不高的采购 具体商品范围和门店位置不同，不一定每一次都能买齐。 亚洲超市 如果你经常自己做中餐或亚洲料理，亚洲超市会非常重要。 常见用途： 调味料 亚洲蔬菜 火锅 / 冷冻食品 米面 亚洲零食 特定食材 不要每次都“随便逛” 最容易增加 Grocery Cost 的方式之一，就是没有 Shopping List。 建议： 先看冰箱 → 写 Shopping List → 买真正需要的东西 → 最后再决定是否买零食 建立基础库存 例如： Protein Eggs Chicken Beef / Pork Tofu Carb Rice Pasta Bread Oats Emergency Food 可以准备少量： Frozen Food Instant Meal Noodles 尤其适合 Assignment / Exam Week。 看 Unit Price 比较商品时，不要只看包装价格。 可以比较： price per 100g price per kg price per litre 大包装不一定永远更划算。 食品浪费也是成本 如果为了“便宜”一次买大量食材，最后吃不完，其实并没有省钱。 真正应该优化的是： Purchase → Storage → Meal Plan → Finish Grocery 和租房 看房时也可以检查： 最近超市多远 是否需要坐车买菜 是否有亚洲 Grocery 晚上购物是否方便 搬大量 Grocery 回家是否困难 这些都会影响真实生活体验。 最后 最好的 Grocery Strategy 通常不是只去一家店，而是建立一个低摩擦、能够长期坚持的采购习惯。"
   },
   {
     "id": "/sydney/life/healthcare-oshc-gp::0::0",
     "route": "/sydney/life/healthcare-oshc-gp",
-    "title": "healthcare-oshc-gp",
-    "section": "healthcare-oshc-gp",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency description: 留学生在悉尼如何理解 OSHC、GP、Pharmacy、Urgent Care 和 Emergency 的基本就医路径。 keywords: Sydney Healthcare OSHC GP Pharmacy International Student 悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency 第一次在澳洲生病时，很多留学生最困惑的不是病本身，而是不知道应该去哪。 这篇只建立基本路径。 具体保险资格、报销范围和费用，应以你的保险公司和澳洲官方最新信息为准。 OSHC 国际学生通常会接触 Overseas Student Health Cover。 不同： Provider Policy Treatment Provider Network Personal Eligibility 可能对应不同的实际支付和 Claim 方式。 所以最重要的不是背统一规则，而是知道自己的 Policy。 提前保存这些信息 建议手机里保存： Insurance Provider Member Number Insurance App Claim Website Help Line Policy Details 不要等生病以后第一次找。 GP GP 是日常医疗的重要入口之一。 许多非紧急健康问题可以先咨询 GP，例如： 普通身体不适 持续症状 常规检查 Prescription Referral Pharmacy Pharmacy 不等于 GP。 通常可以用于： 购买常见 OTC Products 领取 Prescription Medication 咨询部分药品问题 如果症状严重或持续，不应该只依靠自己买药。 Urgent Care 部分需要较快处理、但不一定属于立即危及生命的情况，可能有其他 Urgent Care Pathway。 具体应该去哪，应根据当时 NSW Health / Healthdirect 等官方信息判断。 Emergency 真正紧急情况： 000 Emergency Department 应优先用于真正需要紧急医疗处理的情况。 看 GP 前可以先确认 预约时可以问： 是否接受你的保险 Provider？ 是否支持 Direct Billing？ 是否可能存在 Gap / Out-of-pocket Cost？ Medicare 不要靠猜 不同签证、国籍和个人情况可能不同。 不要因为朋友有 Medicare，就默认自己一定有。 应该查看自己的实际 Eligibility。 Dental / Optical / Physio 不要默认基础保险会完整覆盖所有项目。"
-  },
-  {
-    "id": "/sydney/life/healthcare-oshc-gp::0::1",
-    "route": "/sydney/life/healthcare-oshc-gp",
-    "title": "healthcare-oshc-gp",
-    "section": "healthcare-oshc-gp",
-    "description": "",
-    "keywords": [],
-    "content": "是否支持 Direct Billing？ 是否可能存在 Gap / Out-of-pocket Cost？ Medicare 不要靠猜 不同签证、国籍和个人情况可能不同。 不要因为朋友有 Medicare，就默认自己一定有。 应该查看自己的实际 Eligibility。 Dental / Optical / Physio 不要默认基础保险会完整覆盖所有项目。 Dental、Optical、Physio 等 Coverage 需要查看自己的 Policy。 建立 Health Folder Health/ ├── Insurance/ ├── Claims/ ├── Prescriptions/ ├── Medical Certificates/ └── Receipts/ 最后 最重要的不是记住所有医疗规则，而是提前知道自己的保险是谁、普通问题去哪、紧急情况怎么办。"
+    "title": "悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency",
+    "section": "悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency",
+    "description": "留学生在悉尼如何理解 OSHC、GP、Pharmacy、Urgent Care 和 Emergency 的基本就医路径。",
+    "keywords": [
+      "Sydney Healthcare",
+      "OSHC",
+      "GP",
+      "Pharmacy",
+      "International Student"
+    ],
+    "content": "第一次在澳洲生病时，很多留学生最困惑的不是病本身，而是不知道应该去哪。 这篇只建立基本路径。 具体保险资格、报销范围和费用，应以你的保险公司和澳洲官方最新信息为准。 OSHC 国际学生通常会接触 Overseas Student Health Cover。 不同： Provider Policy Treatment Provider Network Personal Eligibility 可能对应不同的实际支付和 Claim 方式。 所以最重要的不是背统一规则，而是知道自己的 Policy。 提前保存这些信息 建议手机里保存： Insurance Provider Member Number Insurance App Claim Website Help Line Policy Details 不要等生病以后第一次找。 GP GP 是日常医疗的重要入口之一。 许多非紧急健康问题可以先咨询 GP，例如： 普通身体不适 持续症状 常规检查 Prescription Referral Pharmacy Pharmacy 不等于 GP。 通常可以用于： 购买常见 OTC Products 领取 Prescription Medication 咨询部分药品问题 如果症状严重或持续，不应该只依靠自己买药。 Urgent Care 部分需要较快处理、但不一定属于立即危及生命的情况，可能有其他 Urgent Care Pathway。 具体应该去哪，应根据当时 NSW Health / Healthdirect 等官方信息判断。 Emergency 真正紧急情况： 000 Emergency Department 应优先用于真正需要紧急医疗处理的情况。 看 GP 前可以先确认 预约时可以问： 是否接受你的保险 Provider？ 是否支持 Direct Billing？ 是否可能存在 Gap / Out-of-pocket Cost？ Medicare 不要靠猜 不同签证、国籍和个人情况可能不同。 不要因为朋友有 Medicare，就默认自己一定有。 应该查看自己的实际 Eligibility。 Dental / Optical / Physio 不要默认基础保险会完整覆盖所有项目。 Dental、Optical、Physio 等 Coverage 需要查看自己的 Policy。 建立 Health Folder Health/ ├── Insurance/ ├── Claims/ ├── Prescriptions/ ├── Medical Certificates/ └── Receipts/ 最后 最重要的不是记住所有医疗规则，而是提前知道自己的保险是谁、普通问题去哪、紧急情况怎么办。"
   },
   {
     "id": "/sydney/life/::0::0",
     "route": "/sydney/life/",
-    "title": "------------------------------------------------------------",
-    "section": "------------------------------------------------------------",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼学生生活 description: GradBridge 悉尼学生生活指南，覆盖生活成本、Grocery、医疗、学习地点和日常节奏。 keywords: Sydney Student Life Cost of Living Grocery Healthcare Study SYDNEY · STUDENT LIFE 真正适应悉尼， 不是知道多少景点，而是建立自己的日常。 预算、买菜、看病、学习、运动和休息。生活稳定以后，课程和求职才更容易长期保持。 DAILY LIFE 先把每天都会遇到的问题解决 这些不是最刺激的留学内容，却最直接决定未来几年生活质量。 BUDGET 生活成本与预算 不写一个很快失真的固定数字，而是建立自己的 Sydney Budget Model。 GROCERY 学生 Grocery 指南 Coles、Woolworths、Aldi 和亚洲超市如何搭配使用。 HEALTH OSHC · GP · Pharmacy 建立留学生最基本的就医路径和保险使用意识。 STUDY 学习地点与日常节奏 Library、Cafe、Home 和 Campus 应该分别承担什么任务。 BUILD A ROUTINE 降低每天重新做决定的成本。 固定 Grocery、固定学习地点、固定运动方式和固定通勤，可以让生活从“不断处理事情”逐渐变成稳定系统。 01 Budget 知道钱花在哪里。 02 Food 建立稳定采购习惯。 03 Health 知道生病时怎么办。 04 Study 找到固定学习环境。 05 Rest 留出真正休息时间。 '@"
-  },
-  {
-    "id": "/sydney/life/::1::0",
-    "route": "/sydney/life/",
-    "title": "------------------------------------------------------------",
-    "section": "------------------------------------------------------------",
-    "description": "",
-    "keywords": [],
-    "content": "Write-Output \"\" Write-Output \"=== B10. UPGRADE TRAVEL LANDING ===\" Write-GbText \"docs\\sydney\\travel\\index.md\" @' title: 悉尼留学生周末旅行 description: 为留学生设计的悉尼 0.5 天、1 天和 2 天周末路线，重点考虑公共交通、时间成本和学生场景。 keywords: Sydney Travel Weekend Day Trip International Student SYDNEY · WEEKEND 周末不需要跑很远， 但值得偶尔离开校园。 不是普通旅游门户。GradBridge 更关注学生能不能实际执行：需要多久、交通麻不麻烦、是否需要开车，以及一天真正能玩多久。 NO CAR FIRST 先判断交通摩擦，再决定去哪 START HERE 不开车周末怎么玩 先判断一个目的地到底适不适合纯公共交通学生。 0.5 DAY 半日路线 课程周也能执行的 Harbour、Coast、Sunset 与 City Walk。 1 DAY 一日游路线 Blue Mountains、Kiama、Palm Beach、Wollongong 等路线框架。 2 DAYS 两天一夜 真正腾出一个周末时，再考虑更长交通和住宿。 CHOOSE BY TIME 有多少时间，就选多大的路线。 不要为了“周末必须出去玩”把自己搞得比上课还累。 0.5 DAY 城市和海边 适合忙碌课程周。 Walk · Harbour · Sunset 1 DAY 当天往返 适合完整空出一个白天。 Nature · Coast · Town 2 DAYS 短途离开悉尼 减少赶路，真正换一个环境。 Stay · Walk · Slow Travel NO CAR 公共交通优先 从学生实际执行成本判断目的地。 Train · Bus · Ferry '@"
-  },
-  {
-    "id": "/sydney/life/::2::0",
-    "route": "/sydney/life/",
-    "title": "------------------------------------------------------------",
-    "section": "------------------------------------------------------------",
-    "description": "",
-    "keywords": [],
-    "content": "Write-Output \"\" Write-Output \"=== B11. ADD CLICKABLE CARD CSS ===\" $cssPath = \"D:\\GradBridge\\.vitepress\\theme\\custom.css\" $cssText = [System.IO.File]::ReadAllText( $cssPath, [System.Text.Encoding]::UTF8 ) if ($cssText.Contains(\"/ Sydney Phase 2 Clickable Cards /\")) { Write-Output \"SYDNEYPHASE2CSSALREADYPRESENT\" } else { $cssPatch = @' / Sydney Phase 2 Clickable Cards / .gb-sydney-guide-grid > a { display: block; min-height: 210px; padding: 26px; border: 1px solid rgba(255,255,255,.07); border-radius: 20px; color: inherit !important; background: rgba(255,255,255,.025); text-decoration: none !important; transition: transform .2s ease, background .2s ease, border-color .2s ease; } .gb-sydney-guide-grid > a:hover { transform: translateY(-4px); border-color: rgba(127,174,234,.28); background: rgba(68,174,226,.055); } .gb-weekend-grid > a.gb-weekend-card { display: block; color: inherit !important; text-decoration: none !important; transition: transform .2s ease, background .2s ease, border-color .2s ease; } .gb-weekend-grid > a.gb-weekend-card:hover { transform: translateY(-4px); border-color: rgba(127,174,234,.28); background: rgba(68,174,226,.055); }"
+    "title": "悉尼学生生活",
+    "section": "悉尼学生生活",
+    "description": "GradBridge 悉尼学生生活指南，覆盖生活成本、Grocery、医疗、学习地点和日常节奏。",
+    "keywords": [
+      "Sydney Student Life",
+      "Cost of Living",
+      "Grocery",
+      "Healthcare",
+      "Study"
+    ],
+    "content": "SYDNEY · STUDENT LIFE 真正适应悉尼， 不是知道多少景点，而是建立自己的日常。 预算、买菜、看病、学习、运动和休息。生活稳定以后，课程和求职才更容易长期保持。 DAILY LIFE 先把每天都会遇到的问题解决 这些不是最刺激的留学内容，却最直接决定未来几年生活质量。 BUDGET 生活成本与预算 不写一个很快失真的固定数字，而是建立自己的 Sydney Budget Model。 GROCERY 学生 Grocery 指南 Coles、Woolworths、Aldi 和亚洲超市如何搭配使用。 HEALTH OSHC · GP · Pharmacy 建立留学生最基本的就医路径和保险使用意识。 STUDY 学习地点与日常节奏 Library、Cafe、Home 和 Campus 应该分别承担什么任务。 BUILD A ROUTINE 降低每天重新做决定的成本。 固定 Grocery、固定学习地点、固定运动方式和固定通勤，可以让生活从“不断处理事情”逐渐变成稳定系统。 01 Budget 知道钱花在哪里。 02 Food 建立稳定采购习惯。 03 Health 知道生病时怎么办。 04 Study 找到固定学习环境。 05 Rest 留出真正休息时间。"
   },
   {
     "id": "/sydney/life/living-cost-budget::0::0",
@@ -7259,11 +7250,17 @@
   {
     "id": "/sydney/life/study-spaces-routine::0::0",
     "route": "/sydney/life/study-spaces-routine",
-    "title": "study-spaces-routine",
-    "section": "study-spaces-routine",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼学生学习地点与日常节奏 description: Campus Library、公共图书馆、咖啡店和家里应该怎样组合，建立适合自己的悉尼学习节奏。 keywords: Sydney Study Library Student Life Productivity Routine 悉尼学生学习地点与日常节奏 悉尼有很多“适合学习的地方”。 但真正重要的不是收藏几十个地点，而是知道： 什么任务适合在什么环境完成。 Campus Library 适合： 长时间学习 Assignment Exam Preparation Group Meeting 需要学校资源的任务 优势是进入学习状态的摩擦很低。 Public Library 适合： 想暂时离开校园 长时间阅读 写作 安静工作 不同 Library 的开放时间和使用规则可能不同，出发前确认即可。 Cafe 适合： 轻度阅读 Planning Writing 一两个小时的小任务 不太适合： 长时间占座 大型 Group Meeting 需要多屏幕 Setup 的开发任务 Home 家里通常适合： Coding 深夜工作 需要固定 Equipment Online Interview 前提是避免“回家以后完全进入休息模式”。 Environment Mapping TaskEnvironment Lecture ReviewLibrary Coding ProjectHome / Library Group ProjectCampus CV EditingCafe / Library InterviewQuiet Room ReadingLibrary / Cafe 不需要每天换地方 真正稳定的学生生活通常只有几个固定 Anchor： 固定学习地点 + 固定 Grocery + 固定 Exercise + 固定通勤方式 这样可以减少每天重新做决定。 Assignment Week 压力大时，不建议通过完全取消： 睡眠 吃饭 运动 社交 来换短期效率。 更实际的是提前降低非必要任务。 Exercise 不一定需要复杂健身计划。 可以选择： Walking Gym Running Swimming Sport Club 关键是容易长期坚持。 给自己留真正的休息时间 如果整个留学生活只剩： Lecture → Assignment → LeetCode → Job Application 长期很难保持。 Sydney 本身也应该是留学经历的一部分。 最后 好的学习地点不是网红地点，而是能够让你反复回去、稳定进入状态的地方。"
+    "title": "悉尼学生学习地点与日常节奏",
+    "section": "悉尼学生学习地点与日常节奏",
+    "description": "Campus Library、公共图书馆、咖啡店和家里应该怎样组合，建立适合自己的悉尼学习节奏。",
+    "keywords": [
+      "Sydney Study",
+      "Library",
+      "Student Life",
+      "Productivity",
+      "Routine"
+    ],
+    "content": "悉尼有很多“适合学习的地方”。 但真正重要的不是收藏几十个地点，而是知道： 什么任务适合在什么环境完成。 Campus Library 适合： 长时间学习 Assignment Exam Preparation Group Meeting 需要学校资源的任务 优势是进入学习状态的摩擦很低。 Public Library 适合： 想暂时离开校园 长时间阅读 写作 安静工作 不同 Library 的开放时间和使用规则可能不同，出发前确认即可。 Cafe 适合： 轻度阅读 Planning Writing 一两个小时的小任务 不太适合： 长时间占座 大型 Group Meeting 需要多屏幕 Setup 的开发任务 Home 家里通常适合： Coding 深夜工作 需要固定 Equipment Online Interview 前提是避免“回家以后完全进入休息模式”。 Environment Mapping TaskEnvironment Lecture ReviewLibrary Coding ProjectHome / Library Group ProjectCampus CV EditingCafe / Library InterviewQuiet Room ReadingLibrary / Cafe 不需要每天换地方 真正稳定的学生生活通常只有几个固定 Anchor： 固定学习地点 + 固定 Grocery + 固定 Exercise + 固定通勤方式 这样可以减少每天重新做决定。 Assignment Week 压力大时，不建议通过完全取消： 睡眠 吃饭 运动 社交 来换短期效率。 更实际的是提前降低非必要任务。 Exercise 不一定需要复杂健身计划。 可以选择： Walking Gym Running Swimming Sport Club 关键是容易长期坚持。 给自己留真正的休息时间 如果整个留学生活只剩： Lecture → Assignment → LeetCode → Job Application 长期很难保持。 Sydney 本身也应该是留学经历的一部分。 最后 好的学习地点不是网红地点，而是能够让你反复回去、稳定进入状态的地方。"
   },
   {
     "id": "/sydney/newcomer/essential-setup::0::0",
@@ -8336,47 +8333,75 @@
   {
     "id": "/sydney/travel/half-day-routes::0::0",
     "route": "/sydney/travel/half-day-routes",
-    "title": "half-day-routes",
-    "section": "half-day-routes",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼留学生 0.5 天周末路线 description: 不需要腾出完整一天的 Sydney 半日路线，适合课程周、Assignment Week 和临时想出去走走的时候。 keywords: Sydney Half Day Coastal Walk Sunset Student Travel 悉尼留学生 0.5 天周末路线 不是每个周末都需要安排一整天旅行。 课程忙的时候，半天路线反而更容易长期执行。 路线 A：Circular Quay → The Rocks → Barangaroo 适合： City Walk 第一次认识 Sydney Harbour 下午到晚上 可以重点体验： Harbour Old Sydney Street Waterfront Sunset / Night View 路线 B：Bondi → Coastal Walk 适合： Walking 海边 Study Break 好天气 不要为了完成“整条路线”勉强自己。 根据体力和天气决定折返点。 路线 C：Manly 公共交通本身就可以成为路线的一部分。 适合： Ferry Experience Beach Cafe Sunset 路线 D：Newtown → Enmore 适合： Food Cafe Street Walk 和朋友轻松见面 如果你住在 USYD 周边，这种路线几乎不需要额外旅行准备。 路线 E：Darling Harbour → Barangaroo 适合： 傍晚散步 Dinner Night Walk 怎么选 如果只剩 3–5 小时： 不要追求“去很远” 而是降低交通时间 增加真正停留时间 天气 Coastal Walk 和 Sunset 类路线受天气影响较明显。 出发前看： Weather Sunset Time Return Transport 最后 半日路线的价值，就是让“出去走走”不再需要提前一周计划。"
+    "title": "悉尼留学生 0.5 天周末路线",
+    "section": "悉尼留学生 0.5 天周末路线",
+    "description": "不需要腾出完整一天的 Sydney 半日路线，适合课程周、Assignment Week 和临时想出去走走的时候。",
+    "keywords": [
+      "Sydney Half Day",
+      "Coastal Walk",
+      "Sunset",
+      "Student Travel"
+    ],
+    "content": "不是每个周末都需要安排一整天旅行。 课程忙的时候，半天路线反而更容易长期执行。 路线 A：Circular Quay → The Rocks → Barangaroo 适合： City Walk 第一次认识 Sydney Harbour 下午到晚上 可以重点体验： Harbour Old Sydney Street Waterfront Sunset / Night View 路线 B：Bondi → Coastal Walk 适合： Walking 海边 Study Break 好天气 不要为了完成“整条路线”勉强自己。 根据体力和天气决定折返点。 路线 C：Manly 公共交通本身就可以成为路线的一部分。 适合： Ferry Experience Beach Cafe Sunset 路线 D：Newtown → Enmore 适合： Food Cafe Street Walk 和朋友轻松见面 如果你住在 USYD 周边，这种路线几乎不需要额外旅行准备。 路线 E：Darling Harbour → Barangaroo 适合： 傍晚散步 Dinner Night Walk 怎么选 如果只剩 3–5 小时： 不要追求“去很远” 而是降低交通时间 增加真正停留时间 天气 Coastal Walk 和 Sunset 类路线受天气影响较明显。 出发前看： Weather Sunset Time Return Transport 最后 半日路线的价值，就是让“出去走走”不再需要提前一周计划。"
   },
   {
     "id": "/sydney/travel/::0::0",
     "route": "/sydney/travel/",
-    "title": "悉尼周末旅行",
-    "section": "悉尼周末旅行",
-    "description": "",
-    "keywords": [],
-    "content": "给留学生的 0.5 天、1 天与 2 天周末路线。 不会做普通旅游门户，而是重点考虑时间、预算、公共交通与学生场景。"
+    "title": "悉尼留学生周末旅行",
+    "section": "悉尼留学生周末旅行",
+    "description": "为留学生设计的悉尼 0.5 天、1 天和 2 天周末路线，重点考虑公共交通、时间成本和学生场景。",
+    "keywords": [
+      "Sydney Travel",
+      "Weekend",
+      "Day Trip",
+      "International Student"
+    ],
+    "content": "SYDNEY · WEEKEND 周末不需要跑很远， 但值得偶尔离开校园。 不是普通旅游门户。GradBridge 更关注学生能不能实际执行：需要多久、交通麻不麻烦、是否需要开车，以及一天真正能玩多久。 NO CAR FIRST 先判断交通摩擦，再决定去哪 START HERE 不开车周末怎么玩 先判断一个目的地到底适不适合纯公共交通学生。 0.5 DAY 半日路线 课程周也能执行的 Harbour、Coast、Sunset 与 City Walk。 1 DAY 一日游路线 Blue Mountains、Kiama、Palm Beach、Wollongong 等路线框架。 2 DAYS 两天一夜 真正腾出一个周末时，再考虑更长交通和住宿。 CHOOSE BY TIME 有多少时间，就选多大的路线。 不要为了“周末必须出去玩”把自己搞得比上课还累。 0.5 DAY 城市和海边 适合忙碌课程周。 Walk · Harbour · Sunset 1 DAY 当天往返 适合完整空出一个白天。 Nature · Coast · Town 2 DAYS 短途离开悉尼 减少赶路，真正换一个环境。 Stay · Walk · Slow Travel NO CAR 公共交通优先 从学生实际执行成本判断目的地。 Train · Bus · Ferry"
   },
   {
     "id": "/sydney/travel/no-car-weekend-guide::0::0",
     "route": "/sydney/travel/no-car-weekend-guide",
-    "title": "no-car-weekend-guide",
-    "section": "no-car-weekend-guide",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼留学生不开车周末怎么玩 description: 按公共交通难度判断悉尼周末目的地，帮助没有车的留学生选择真正适合自己的路线。 keywords: Sydney Weekend No Car Public Transport International Student Travel 悉尼留学生不开车周末怎么玩 没有车，不代表悉尼周末只能待在 CBD。 但也不是所有“悉尼周边景点”都适合纯公共交通。 真正要判断的是： 这个目的地的 Public Transport Friction 有多高？ Level 1：低摩擦 通常特点： 公共交通可以直接到主要区域 Transfer 少 回程简单 不依赖最后一段 Taxi 最适合第一次自己出去。 Level 2：需要规划 通常特点： Train + Bus Ferry + Bus 班次间隔较长 需要控制返程时间 适合提前规划。 Level 3：不开车明显不方便 通常可能有： 最后一段交通弱 景点之间距离远 周末班次少 Return Trip 不灵活 不是不能去，而是公共交通成本可能比较高。 出发前检查五件事 第一段交通 Return Service Transfer 次数 Walking Distance 最晚安全返程时间 另外，周末交通可能存在临时调整。 出发当天重新查看 Trip Planner 是更可靠的做法。 GradBridge 的时间分类 0.5 Day 适合： Coastal Walk Harbour Sunset City Walk 1 Day 可以考虑： Blue Mountains Kiama Palm Beach Wollongong 实际路线需要根据当天交通重新确认。 2 Days 可以考虑： Newcastle Blue Mountains 深度路线 其他交通时间较长的区域 为什么有些热门目的地没有优先推荐 一些非常漂亮的区域，对纯公共交通学生来说可能存在： 最后一公里困难 景点分散 时间利用率低 GradBridge 的目标不是列出最多景点，而是筛选真正适合学生周末执行的路线。 最后 不开车旅行的核心不是“能不能到”，而是整条 Door-to-door Journey 是否值得。"
+    "title": "悉尼留学生不开车周末怎么玩",
+    "section": "悉尼留学生不开车周末怎么玩",
+    "description": "按公共交通难度判断悉尼周末目的地，帮助没有车的留学生选择真正适合自己的路线。",
+    "keywords": [
+      "Sydney Weekend",
+      "No Car",
+      "Public Transport",
+      "International Student",
+      "Travel"
+    ],
+    "content": "没有车，不代表悉尼周末只能待在 CBD。 但也不是所有“悉尼周边景点”都适合纯公共交通。 真正要判断的是： 这个目的地的 Public Transport Friction 有多高？ Level 1：低摩擦 通常特点： 公共交通可以直接到主要区域 Transfer 少 回程简单 不依赖最后一段 Taxi 最适合第一次自己出去。 Level 2：需要规划 通常特点： Train + Bus Ferry + Bus 班次间隔较长 需要控制返程时间 适合提前规划。 Level 3：不开车明显不方便 通常可能有： 最后一段交通弱 景点之间距离远 周末班次少 Return Trip 不灵活 不是不能去，而是公共交通成本可能比较高。 出发前检查五件事 第一段交通 Return Service Transfer 次数 Walking Distance 最晚安全返程时间 另外，周末交通可能存在临时调整。 出发当天重新查看 Trip Planner 是更可靠的做法。 GradBridge 的时间分类 0.5 Day 适合： Coastal Walk Harbour Sunset City Walk 1 Day 可以考虑： Blue Mountains Kiama Palm Beach Wollongong 实际路线需要根据当天交通重新确认。 2 Days 可以考虑： Newcastle Blue Mountains 深度路线 其他交通时间较长的区域 为什么有些热门目的地没有优先推荐 一些非常漂亮的区域，对纯公共交通学生来说可能存在： 最后一公里困难 景点分散 时间利用率低 GradBridge 的目标不是列出最多景点，而是筛选真正适合学生周末执行的路线。 最后 不开车旅行的核心不是“能不能到”，而是整条 Door-to-door Journey 是否值得。"
   },
   {
     "id": "/sydney/travel/one-day-routes::0::0",
     "route": "/sydney/travel/one-day-routes",
-    "title": "one-day-routes",
-    "section": "one-day-routes",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼留学生一日游路线 description: Blue Mountains、Kiama、Palm Beach、Wollongong 等适合从悉尼出发的一日路线选择框架。 keywords: Sydney Day Trip Blue Mountains Kiama Palm Beach Wollongong 悉尼留学生一日游路线 一日游的关键不是目的地够不够远。 而是： 当天来回以后，你还剩多少真正体验目的地的时间？ Blue Mountains 适合： Nature Hiking Lookout Photography 第一次去不要试图一天覆盖所有区域。 选择一个明确 Focus 会更轻松。 例如： Lookout + Short Walk + Town Kiama 适合： 海边 小镇 一整天慢节奏 对于不开车的学生，重点是提前确认当天公共交通和返程安排。 Wollongong 适合： Coastal City Beach Cafe Slow Day Trip 比“必须完成很多景点”的旅行压力更低。 Palm Beach 适合： Beach Walk View Photography 由于交通结构和班次可能与市区不同，更需要提前看 Return Journey。 一日游不要安排太满 比较推荐： 1 个主目的 + 1 个 Walk + 1 顿饭 + 足够 Return Buffer 而不是： 8 个景点 + 不停赶车 + 晚上非常晚才回家 出发前 至少确认： Weather Public Transport Walking Requirement Food / Water Return Time 什么时候应该放弃当天去 如果出现： 极端天气 大面积交通调整 Return Journey 风险太高 体力状态差 换一天往往比硬去更好。 最后 好的一日游不是“打卡最多”，而是回到悉尼以后觉得这一天真的值得。"
+    "title": "悉尼留学生一日游路线",
+    "section": "悉尼留学生一日游路线",
+    "description": "Blue Mountains、Kiama、Palm Beach、Wollongong 等适合从悉尼出发的一日路线选择框架。",
+    "keywords": [
+      "Sydney Day Trip",
+      "Blue Mountains",
+      "Kiama",
+      "Palm Beach",
+      "Wollongong"
+    ],
+    "content": "一日游的关键不是目的地够不够远。 而是： 当天来回以后，你还剩多少真正体验目的地的时间？ Blue Mountains 适合： Nature Hiking Lookout Photography 第一次去不要试图一天覆盖所有区域。 选择一个明确 Focus 会更轻松。 例如： Lookout + Short Walk + Town Kiama 适合： 海边 小镇 一整天慢节奏 对于不开车的学生，重点是提前确认当天公共交通和返程安排。 Wollongong 适合： Coastal City Beach Cafe Slow Day Trip 比“必须完成很多景点”的旅行压力更低。 Palm Beach 适合： Beach Walk View Photography 由于交通结构和班次可能与市区不同，更需要提前看 Return Journey。 一日游不要安排太满 比较推荐： 1 个主目的 + 1 个 Walk + 1 顿饭 + 足够 Return Buffer 而不是： 8 个景点 + 不停赶车 + 晚上非常晚才回家 出发前 至少确认： Weather Public Transport Walking Requirement Food / Water Return Time 什么时候应该放弃当天去 如果出现： 极端天气 大面积交通调整 Return Journey 风险太高 体力状态差 换一天往往比硬去更好。 最后 好的一日游不是“打卡最多”，而是回到悉尼以后觉得这一天真的值得。"
   },
   {
     "id": "/sydney/travel/two-day-routes::0::0",
     "route": "/sydney/travel/two-day-routes",
-    "title": "two-day-routes",
-    "section": "two-day-routes",
-    "description": "",
-    "keywords": [],
-    "content": "title: 悉尼留学生两天一夜周末路线 description: 当一个周末真正空出来时，如何规划 Newcastle、Blue Mountains 等两天一夜路线。 keywords: Sydney Weekend Trip Two Day Trip Newcastle Blue Mountains Student Travel 悉尼留学生两天一夜周末路线 有些目的地一天也能去。 但如果大部分时间都花在来回交通上，住一晚反而更合理。 为什么选择两天 两天路线更适合： 单程交通较长 想做多个 Walk 不想凌晨出发 不想赶最后一班返程 想真正换一个生活环境 Newcastle 适合： Coastal City Beach City Walk Relaxed Weekend 可以把第一天和第二天分成： Day 1 Arrival → City / Coast → Dinner Day 2 Walk / Beach → Lunch → Return Blue Mountains 如果一天只能快速看主要区域，两天可以把节奏放慢。 例如： Day 1 Town → Lookout → Short Walk Day 2 Longer Walk → Lunch → Return 实际 Walking Route 应根据天气、开放状态和个人体力决定。 Accommodation 学生旅行不一定追求最高规格住宿。 更重要的是： Location Check-in Transport Safety Cancellation Total Cost 两天路线真正增加的成本 不要只看住宿价格。 还包括： Extra Meals Local Transport Luggage Storage Booking Fee Entertainment 所以仍然应该比较 Total Trip Cost。 和朋友旅行 出发前最好确认： Budget Wake-up Time Walking Expectation Room Arrangement Return Time 很多旅行矛盾并不是景点造成的，而是大家默认的旅行方式不同。 不开车路线 如果完全依赖公共交通： 住宿位置尤其重要 不要住得离主要交通节点过远 第一天到达后不要再安排复杂转乘 第二天预留返程 Buffer 最后 两天旅行最大的价值不是多看几个景点，而是不用把整个周末变成赶路。"
+    "title": "悉尼留学生两天一夜周末路线",
+    "section": "悉尼留学生两天一夜周末路线",
+    "description": "当一个周末真正空出来时，如何规划 Newcastle、Blue Mountains 等两天一夜路线。",
+    "keywords": [
+      "Sydney Weekend Trip",
+      "Two Day Trip",
+      "Newcastle",
+      "Blue Mountains",
+      "Student Travel"
+    ],
+    "content": "有些目的地一天也能去。 但如果大部分时间都花在来回交通上，住一晚反而更合理。 为什么选择两天 两天路线更适合： 单程交通较长 想做多个 Walk 不想凌晨出发 不想赶最后一班返程 想真正换一个生活环境 Newcastle 适合： Coastal City Beach City Walk Relaxed Weekend 可以把第一天和第二天分成： Day 1 Arrival → City / Coast → Dinner Day 2 Walk / Beach → Lunch → Return Blue Mountains 如果一天只能快速看主要区域，两天可以把节奏放慢。 例如： Day 1 Town → Lookout → Short Walk Day 2 Longer Walk → Lunch → Return 实际 Walking Route 应根据天气、开放状态和个人体力决定。 Accommodation 学生旅行不一定追求最高规格住宿。 更重要的是： Location Check-in Transport Safety Cancellation Total Cost 两天路线真正增加的成本 不要只看住宿价格。 还包括： Extra Meals Local Transport Luggage Storage Booking Fee Entertainment 所以仍然应该比较 Total Trip Cost。 和朋友旅行 出发前最好确认： Budget Wake-up Time Walking Expectation Room Arrangement Return Time 很多旅行矛盾并不是景点造成的，而是大家默认的旅行方式不同。 不开车路线 如果完全依赖公共交通： 住宿位置尤其重要 不要住得离主要交通节点过远 第一天到达后不要再安排复杂转乘 第二天预留返程 Buffer 最后 两天旅行最大的价值不是多看几个景点，而是不用把整个周末变成赶路。"
   },
   {
     "id": "/tech/ai/agent-langchain-langgraph-mcp::0::0",

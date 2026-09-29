@@ -1,13 +1,15 @@
-title: 悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency
-description: 留学生在悉尼如何理解 OSHC、GP、Pharmacy、Urgent Care 和 Emergency 的基本就医路径。
+---
+title: '悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency'
+description: '留学生在悉尼如何理解 OSHC、GP、Pharmacy、Urgent Care 和 Emergency 的基本就医路径。'
 keywords:
+  - 'Sydney Healthcare'
+  - 'OSHC'
+  - 'GP'
+  - 'Pharmacy'
+  - 'International Student'
+---
 
-Sydney Healthcare
-OSHC
-GP
-Pharmacy
-International Student
-悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency
+# 悉尼留学生看病：OSHC、GP、Pharmacy 与 Emergency
 
 第一次在澳洲生病时，很多留学生最困惑的不是病本身，而是不知道应该去哪。
 
