@@ -6011,13 +6011,619 @@
     "content": "LLM、Embedding、RAG、Agent、LangChain、LangGraph、MCP 与 Evaluation。 重点放在 AI Engineering，而不是只介绍模型名词。"
   },
   {
+    "id": "/tech/backend/http-rest-api::0::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "HTTP 与 REST API",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "Backend 开发的核心之一，就是让不同系统通过网络交换数据。 HTTP 是 Web 中最常见的应用层协议。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::1::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "Request 包含什么",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "一个 HTTP Request 通常包含： - Method - URL - Headers - Body 例如："
+  },
+  {
+    "id": "/tech/backend/http-rest-api::2::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "GET",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "读取资源。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::3::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "POST",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "创建资源或执行某个操作。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::4::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "PUT",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "通常表示整体更新。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::5::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "PATCH",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "通常表示部分更新。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::6::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "DELETE",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "删除资源。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::7::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "Status Code",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "常见范围： - 2xx：成功 - 3xx：重定向 - 4xx：客户端请求问题 - 5xx：服务端问题 常见例子： - 200 OK - 201 Created - 204 No Content - 400 Bad Request - 401 Unauthorized - 403 Forbidden - 404 Not Found - 409 Conflict - 500 Internal Server Error"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::8::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "401 和 403 的区别",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "401 通常表示当前请求没有完成有效 Authentication。 403 通常表示身份可能已经确定，但没有足够 Authorization。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::9::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "REST 是什么",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "REST 更像一组设计原则，而不是一个协议。 常见 API 设计会围绕 Resource。 例如： 而不是："
+  },
+  {
+    "id": "/tech/backend/http-rest-api::10::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "Idempotency",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "Idempotent 表示同样的请求执行多次，与执行一次的最终效果一致。 GET、PUT、DELETE 通常被设计成 Idempotent。 POST 通常不保证。 这个概念在 Retry、Payment 和 Distributed System 中非常重要。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::11::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "Header 有什么用",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "常见 Header 包括： - Content-Type - Authorization - Accept - Cookie - Cache-Control - Origin"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::12::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "API 项目中应该注意什么",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "- Input Validation - Authentication - Authorization - Error Handling - Status Code - Pagination - Logging - Testing"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::13::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "面试怎么回答 REST",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "不要只说 REST 使用 GET、POST、PUT、DELETE。 更完整的是说明： REST 倾向围绕 Resource 设计接口，使用 HTTP Method 表达操作，并利用 HTTP 的状态码、Header 和无状态通信语义。"
+  },
+  {
+    "id": "/tech/backend/http-rest-api::14::0",
+    "route": "/tech/backend/http-rest-api",
+    "title": "HTTP 与 REST API",
+    "section": "最后",
+    "description": "从 HTTP Method、Status Code、Header 到 REST API 设计，建立 Backend 开发和面试中的核心 Web 基础。",
+    "keywords": [
+      "HTTP",
+      "REST",
+      "API",
+      "Backend",
+      "Status Code"
+    ],
+    "content": "API 设计的目标不是 URL 看起来漂亮，而是让客户端和服务端之间的契约清晰、稳定、可维护。"
+  },
+  {
     "id": "/tech/backend/::0::0",
     "route": "/tech/backend/",
     "title": "Backend",
     "section": "Backend",
-    "description": "",
-    "keywords": [],
-    "content": "从 HTTP、REST API 和 Authentication，到 Redis、Database、Docker 与系统设计。 这是 GradBridge 技术知识库的核心方向之一。"
+    "description": "GradBridge Backend 技术路线，从 HTTP、REST、Authentication、Redis 到 Database 和真实工程问题。",
+    "keywords": [
+      "Backend",
+      "HTTP",
+      "REST",
+      "JWT",
+      "Redis"
+    ],
+    "content": "TECH · BACKEND Backend 不只是写 API， 而是在管理状态、数据和边界。 从 Request 进入系统，到 Authentication、Business Logic、Database、Cache 和 Response，逐步理解一个后端服务真正发生了什么。 START HERE Backend 第一组核心知识 WEB HTTP 与 REST API 理解 Method、Status Code、Header、Resource、Idempotency 和 API Contract。 AUTH Session vs JWT 从状态保存、撤销、安全和分布式部署理解两种认证思路。 CACHE Redis 持久化 RDB、AOF、TTL 和 Cache 背后的性能与可靠性权衡。 MENTAL MODEL 一条 Request 如何经过 Backend 01 Receive HTTP Request 进入 Controller / Handler。 02 Validate 确认输入格式、参数和业务前置条件。 03 Authenticate 判断用户是谁，以及是否具备操作权限。 04 Execute 运行 Business Logic，并访问 Database / Cache。 COMING NEXT 下一阶段会继续补充 Spring Boot、Validation、Exception Handling、Testing、Docker、Logging、Message Queue、Deployment 与 Backend System Design。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::0::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "Redis 持久化：RDB 与 AOF",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "Redis 最常见的印象是： 数据放在内存，所以很快。 但如果进程退出或机器故障，内存中的数据怎么办？ 这就是 Persistence 要解决的问题。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::1::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "Redis 为什么需要持久化",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "不是所有 Redis 使用场景都要求数据永久保存。 例如纯 Cache 丢失以后可以从 Database 重建。 但 Redis 也可能用于： - Session - Queue - Counter - Leaderboard - Temporary State 是否允许数据丢失，取决于业务。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::2::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "RDB",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "RDB 会在某些时间点生成数据快照。 可以理解成： 周期性拍一张 Redis 当前状态的照片。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::3::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "优点",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "- 文件紧凑 - 适合备份 - 恢复通常比较快 - 对运行时写入影响相对可控"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::4::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "缺点",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "两次 Snapshot 之间的数据可能丢失。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::5::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "AOF",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "AOF 会记录修改数据的写操作。 恢复时可以重新执行这些操作。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::6::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "优点",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "通常可以提供更细粒度的数据持久保障。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::7::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "缺点",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "- 文件可能更大 - 写入存在额外开销 - 需要 Rewrite 控制文件增长"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::8::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "fsync",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "AOF 并不意味着每条命令一定立刻安全落盘。 fsync 策略会影响： - 性能 - 数据丢失窗口 这是典型的 Durability / Performance Trade-off。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::9::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "RDB 和 AOF 可以一起用吗",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "可以。 具体如何组合取决于 Redis 配置和业务要求。 核心问题应该是： 系统最多能接受丢多少数据，以及恢复速度要求是什么？"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::10::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "Redis 为什么不能直接代替 Database",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "Redis 很强，但数据模型、持久性、一致性、查询能力和成本与关系数据库不同。 选择 Redis 应该来自具体需求，而不是“Redis 快”。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::11::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "Cache 常见问题",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "- Cache Miss - Cache Invalidation - TTL - Eviction - Cache Stampede - Hot Key 这些问题通常比“如何 set/get”更重要。"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::12::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "面试怎么回答 RDB vs AOF",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "推荐结构： 1. RDB 是 Snapshot 2. AOF 记录写操作 3. RDB 恢复快、可能有较大数据丢失窗口 4. AOF 通常更细粒度，但带来额外写入和文件管理成本 5. 选择取决于 Durability 和 Performance 要求"
+  },
+  {
+    "id": "/tech/backend/redis-persistence::13::0",
+    "route": "/tech/backend/redis-persistence",
+    "title": "Redis 持久化：RDB 与 AOF",
+    "section": "最后",
+    "description": "理解 Redis 为什么需要持久化，以及 RDB、AOF 在性能、恢复速度和数据安全之间的权衡。",
+    "keywords": [
+      "Redis",
+      "RDB",
+      "AOF",
+      "Persistence",
+      "Cache"
+    ],
+    "content": "Redis 持久化本质上是在性能、恢复速度和允许的数据丢失之间做工程权衡。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::0::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "Session vs JWT",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "Session 和 JWT 经常被简单理解成： Session 旧，JWT 新。 这种理解是不准确的。 它们更重要的区别是：认证状态放在哪里，以及服务端如何控制它。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::1::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "Session 的基本流程",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "用户登录成功后： 1. 服务端创建 Session 2. Session 数据保存在服务端 3. 客户端收到 Session ID 4. 浏览器通常通过 Cookie 发送 Session ID 5. 服务端根据 ID 找到 Session 所以核心状态仍然由 Server 控制。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::2::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "JWT 的基本流程",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "用户登录成功后： 1. 服务端生成 Token 2. Token 包含 Claims 3. Token 被签名 4. 客户端保存 Token 5. 后续请求携带 Token 6. 服务端验证签名和有效期 JWT 的内容通常可以被读取，但不能在不知道签名密钥的情况下被合法篡改。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::3::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "为什么 JWT 难主动撤销",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "如果服务端只是验证： - Signature - Expiration 那么一个已经签发且尚未过期的 JWT，本身仍然有效。 服务端没有天然保存“这个 Token 已经被撤销”的状态。 所以 Logout、账号封禁、Token 泄漏等场景会变复杂。 解决方式可能包括： - Short-lived Access Token - Refresh Token - Token Blacklist - Token Version - Server-side Revocation State 但一旦加入这些状态，系统又开始重新引入服务端状态管理。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::4::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "Session 为什么更容易撤销",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "因为 Session 本身通常存在 Server。 删除 Session 后，对应 Session ID 就不能再恢复有效登录状态。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::5::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "Cookie 和 Session 不是同一个东西",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "Cookie 是浏览器存储和发送数据的一种机制。 Session 是服务端管理登录状态的一种方式。 Session ID 经常放在 Cookie 中，但两者不是同一个概念。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::6::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "JWT 放哪里",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "常见选择包括： - HttpOnly Cookie - Memory - Local Storage 不同方案会带来不同安全取舍。 例如 Local Storage 中的 Token 更容易受到 XSS 读取。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::7::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "Session 的扩展问题",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "如果有多个 Backend Instance，需要考虑 Session 如何共享。 常见方式包括： - Redis Session Store - Sticky Session - Shared Database"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::8::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "JWT 就一定更适合微服务吗",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "不一定。 JWT 可以减少部分中心 Session Lookup，但同时增加 Token 生命周期、撤销、权限更新和密钥管理复杂度。"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::9::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "面试怎么回答",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "可以从四个维度回答： 1. State 放在哪里 2. Server 如何撤销 3. Distributed Deployment 4. Security / Token Lifecycle"
+  },
+  {
+    "id": "/tech/backend/session-vs-jwt::10::0",
+    "route": "/tech/backend/session-vs-jwt",
+    "title": "Session vs JWT",
+    "section": "最后",
+    "description": "从状态保存、撤销、Cookie、安全与扩展性角度理解 Session 和 JWT 两种常见认证方案。",
+    "keywords": [
+      "Session",
+      "JWT",
+      "Authentication",
+      "Cookie",
+      "Backend"
+    ],
+    "content": "Session 和 JWT 没有绝对赢家。 认证方案应该根据系统规模、安全要求、撤销需求和架构复杂度选择。"
   },
   {
     "id": "/tech/computer-vision/::0::0",
@@ -6029,22 +6635,604 @@
     "content": "CNN、Detection、Segmentation 与常见 Evaluation Metrics。 后续会逐渐加入 YOLO、Segmentation 和真实工程案例。"
   },
   {
+    "id": "/tech/cs-basics/dns-tcp-http::0::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "输入 URL 后发生了什么",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "这是非常经典的 Network Interview Question。 真正价值不是背流程，而是把多个网络概念连接起来。 假设你输入："
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::1::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "1. 浏览器解析 URL",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "浏览器先确定： - Protocol - Host - Port - Path HTTPS 默认通常使用 443。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::2::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "2. DNS 查找 IP",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "计算机最终需要连接 IP，而不是直接连接域名字符串。 所以需要把： 解析成 IP Address。 可能涉及： - Browser Cache - OS Cache - Local Resolver - Recursive DNS Resolver - Root - TLD - Authoritative DNS 实际流程会受到 Cache 影响。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::3::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "3. 建立连接",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "对于传统 HTTP/1.1 或 HTTP/2 over TCP，客户端需要和 Server 建立 TCP Connection。 TCP 提供： - Reliable Delivery - Ordered Delivery - Retransmission - Flow Control"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::4::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "4. TCP Three-way Handshake",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "经典流程： 目的是让双方建立连接状态并确认通信能力。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::5::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "5. HTTPS 还需要 TLS",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "HTTPS 可以理解成 HTTP over secure transport。 TLS 负责： - Encryption - Integrity - Server Authentication 浏览器还会验证 Server Certificate。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::6::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "6. 发送 HTTP Request",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "例如： Server 收到以后开始处理请求。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::7::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "7. Server 返回 Response",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "包括： - Status Code - Headers - Body Body 可能是 HTML、JSON、Image 等。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::8::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "8. 浏览器继续加载资源",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "HTML 中可能还有： - CSS - JavaScript - Image - Font - API Request 所以一个网页往往对应很多网络请求。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::9::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "TCP 和 UDP",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "TCP 强调可靠、有序和连接状态。 UDP 更轻量，不保证可靠和顺序。 不同协议会根据需求选择不同传输方式。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::10::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "面试怎么回答",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "建议按层次回答： URL → DNS → Connection → TLS → HTTP → Server → Browser Rendering。 如果面试官继续追问，再深入 DNS Cache、TCP Handshake、TLS 或 HTTP。"
+  },
+  {
+    "id": "/tech/cs-basics/dns-tcp-http::11::0",
+    "route": "/tech/cs-basics/dns-tcp-http",
+    "title": "输入 URL 后发生了什么",
+    "section": "最后",
+    "description": "从 DNS、IP、TCP、TLS 到 HTTP，用一条完整链路理解浏览器访问网站时发生的事情。",
+    "keywords": [
+      "DNS",
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "Networking"
+    ],
+    "content": "一个 URL 背后其实连接了 DNS、Transport、Security、HTTP 和 Browser 五个不同层次的问题。"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::0::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Git 与真实工程协作",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "Git 不只是把代码上传到 GitHub。 在真实工程里，它承担的是： - Version History - Parallel Development - Review - Collaboration - Rollback - Release Traceability"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::1::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Commit",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "Commit 是一个有意义的代码状态记录。 好的 Commit 应该尽量表达一个清晰目的。 例如："
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::2::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Branch",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "Branch 允许不同工作并行开发。 例如："
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::3::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Pull Request",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "PR 的价值不是“告诉别人我写完了”。 它是一个 Review Unit。 一个好的 PR 应该让 Reviewer 快速理解： - 为什么改 - 改了什么 - 怎么测试 - 有没有风险"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::4::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Code Review",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "Review 可以检查： - Correctness - Readability - Maintainability - Security - Testing - Architecture 接受 Review 不是代码能力差，而是成熟工程流程的一部分。"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::5::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Merge",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "Merge 会把两个开发历史结合。 如果双方修改了同一部分内容，就可能出现 Conflict。 Conflict 不是 Git 坏了，而是 Git 无法自动判断哪个版本才符合业务意图。"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::6::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Rebase",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "Rebase 可以把一组 Commit 重新放到新的 Base 上。 它可以帮助保持更线性的历史，但会重写 Commit History。 所以对已经共享的历史要谨慎操作。"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::7::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "Merge vs Rebase",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "没有绝对统一答案。 关键是团队 Workflow 是否清晰和一致。"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::8::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": ".gitignore",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "常见不应该进入 Repo 的内容包括： - nodemodules - Build Output - Cache - Local Environment - Secret - API Key"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::9::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "不要把 Secret Commit 进去",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "即使后来删除文件，Secret 也可能已经存在 Git History。 所以应该从一开始就使用 Environment Variable 和 Secret Management。"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::10::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "面试怎么回答 Git",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "不要只说会 git add / commit / push。 应该能够解释： - 为什么需要 Branch - PR 如何工作 - Conflict 怎么处理 - Merge / Rebase 区别 - Code Review 的作用"
+  },
+  {
+    "id": "/tech/cs-basics/git-engineering-workflow::11::0",
+    "route": "/tech/cs-basics/git-engineering-workflow",
+    "title": "Git 与真实工程协作",
+    "section": "最后",
+    "description": "从 Commit、Branch、Merge、Rebase、Pull Request 到 Code Review，理解 Git 在真实软件团队里的作用。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Pull Request",
+      "Code Review",
+      "Software Engineering"
+    ],
+    "content": "Git 真正体现的不是命令记忆，而是你是否理解多人如何安全地修改同一个代码库。"
+  },
+  {
     "id": "/tech/cs-basics/::0::0",
     "route": "/tech/cs-basics/",
     "title": "CS Basics",
     "section": "CS Basics",
-    "description": "",
-    "keywords": [],
-    "content": "数据结构、算法、操作系统和计算机网络。 这些内容构成很多 Backend、System Design 和技术面试问题的底层基础。"
+    "description": "GradBridge CS Fundamentals，连接 Networking、Operating Systems、Git、Data Structures 和真实软件工程。",
+    "keywords": [
+      "CS Fundamentals",
+      "Networking",
+      "Operating Systems",
+      "Git",
+      "TCP"
+    ],
+    "content": "TECH · CS BASICS 框架会变， 基础决定你能理解多深。 Networking、Operating Systems、Data Structures 和 Engineering Workflow，是很多高级技术问题真正的底层连接点。 CURRENT GUIDES 从两条最实用的主线开始 NETWORK 输入 URL 后发生了什么 DNS、IP、TCP、TLS、HTTP 和浏览器之间如何连接。 ENGINEERING Git 与真实工程协作 Commit、Branch、PR、Review、Merge、Rebase 和多人协作。 FOUNDATIONS 接下来逐步覆盖 01 Data Structures 数据如何组织，以及复杂度从哪里产生。 02 Operating Systems Process、Thread、Memory 和 Concurrency。 03 Networking DNS、TCP、HTTP、TLS 和 Client / Server。 04 Engineering Git、Testing、Debugging 和团队 Workflow。"
   },
   {
     "id": "/tech/database/::0::0",
     "route": "/tech/database/",
     "title": "Database",
     "section": "Database",
-    "description": "",
-    "keywords": [],
-    "content": "SQL、索引、事务、数据库设计与性能。 重点不仅是记概念，还会逐渐连接到真实后端系统。"
+    "description": "从 SQL、Index、Transaction 到 Schema 和 Query Performance，建立 Backend 必需的数据库基础。",
+    "keywords": [
+      "Database",
+      "SQL",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "TECH · DATABASE 数据能存进去， 不代表数据库设计已经完成。 真正的问题是如何查询、如何保持一致、如何支持并发，以及数据规模增长以后系统为什么开始变慢。 START HERE 先理解三个最核心的概念 DATABASE CORE SQL · Index · Transaction 从查询、索引成本、ACID 到并发事务建立完整数据库直觉。 HOW TO THINK 数据库问题通常来自四个方向 01 Model 数据应该如何组织和建立关系。 02 Query 系统最常见的读取路径是什么。 03 Consistency 多个写操作如何保持正确状态。 04 Performance Index、Query Plan 和数据规模如何影响性能。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::0::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "SQL、Index 与 Transaction",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "数据库不是“把数据存进去”这么简单。 真实系统还要解决： - 如何快速找到数据 - 多个操作如何保持一致 - 并发修改会发生什么 - 查询为什么越来越慢"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::1::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "SQL 在做什么",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "SQL 是描述“我要什么数据”，而不是逐步告诉数据库“怎么找”。 例如： 真正的执行方式由 Database Optimizer 决定。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::2::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Index 是什么",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "Index 可以理解成帮助数据库更快定位数据的额外数据结构。 如果 users 有一百万行，而 email 没有合适索引，数据库可能需要扫描大量记录。 有索引以后，可以更快缩小查找范围。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::3::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "为什么不能给所有字段都加 Index",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "因为 Index 也有成本： - 占用额外存储 - INSERT 需要维护索引 - UPDATE 可能维护索引 - DELETE 需要维护索引 - 索引过多会增加写入成本 所以 Index 是典型的 Read / Write Trade-off。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::4::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Composite Index",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "多列索引的字段顺序很重要。 例如： 它是否有效取决于真实查询模式。 不要把 Composite Index 理解成多个单列索引简单相加。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::5::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Transaction",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "Transaction 用于把多个操作看成一个逻辑整体。 例如转账： 1. A 扣 100 2. B 加 100 如果第一步成功、第二步失败，系统就会出现错误状态。 Transaction 可以让这些操作一起成功或一起失败。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::6::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Atomicity",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "操作要么全部完成，要么全部回滚。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::7::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Consistency",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "事务前后都应该满足系统的数据约束。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::8::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Isolation",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "多个并发事务不应该随意看到彼此未完成的中间状态。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::9::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Durability",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "提交成功的数据应该能够持久保存。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::10::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "Isolation 为什么复杂",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "并发事务可能出现： - Dirty Read - Non-repeatable Read - Phantom Read 更强的 Isolation 通常意味着更严格的并发控制，也可能影响吞吐量。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::11::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "项目中怎么用",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "典型场景： - 下单 - 支付 - 库存修改 - Booking - Account Balance 只要一个业务操作涉及多个必须保持一致的写操作，就应该思考 Transaction。"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::12::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "面试怎么回答 Index 为什么快",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "不要只说： 因为 Index 使用 B+ Tree。 更完整的回答应该包含： 1. 减少需要扫描的数据 2. 数据结构支持高效查找 3. 代价是额外空间和写入维护成本 4. 是否有效取决于查询模式"
+  },
+  {
+    "id": "/tech/database/sql-index-transaction::13::0",
+    "route": "/tech/database/sql-index-transaction",
+    "title": "SQL、Index 与 Transaction",
+    "section": "最后",
+    "description": "从查询、索引、事务到 ACID，建立 Backend 和 Technical Interview 中最重要的数据库基础。",
+    "keywords": [
+      "SQL",
+      "Database",
+      "Index",
+      "Transaction",
+      "ACID"
+    ],
+    "content": "数据库优化从来不是“加一个索引”这么简单。 先理解访问模式，再选择数据结构、事务边界和一致性要求。"
   },
   {
     "id": "/tech/::0::0",
@@ -6069,18 +7257,375 @@
     "route": "/tech/java/",
     "title": "Java",
     "section": "Java",
-    "description": "",
-    "keywords": [],
-    "content": "从 Java 基础、OOP、Collections，到 JVM 与 Concurrency。 后续会逐渐连接到 Spring Boot 与真实 Backend 场景。"
+    "description": "从 OOP、Collections、JVM 到 Concurrency 和 Spring，建立面向 Backend Engineering 的 Java 技术路线。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "JVM",
+      "Collections",
+      "Concurrency"
+    ],
+    "content": "TECH · JAVA 不要只会 Java 语法， 要理解它如何支撑真实工程。 从 OOP 开始，逐渐进入 Collections、Exception、Generics、JVM、Concurrency，再连接到 Spring 和 Backend。 START HERE 第一篇：先建立 OOP 的正确直觉 JAVA CORE Java OOP：从概念到工程 Encapsulation、Abstraction、Inheritance、Polymorphism、Interface 和 Composition。 JAVA ROADMAP 推荐学习顺序 01 Language 类型、控制流、Class、Exception 和 Generics。 02 Collections List、Map、Set 以及底层数据结构。 03 JVM Memory、GC、Class Loading 与运行时模型。 04 Concurrency Thread、Lock、Synchronization 和并发问题。 DIRECTION Java 最终要连接到工程 真正用于 Backend 时，还需要理解 Spring、Database、HTTP、Testing、Redis 和 Distributed System。"
+  },
+  {
+    "id": "/tech/java/oop::0::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "Java OOP：从概念到工程",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "OOP 经常被背成“四大特性”，但真正重要的是理解： 为什么大型程序需要把数据、行为和变化隔离在清晰的边界里。"
+  },
+  {
+    "id": "/tech/java/oop::1::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "Encapsulation",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "Encapsulation 的核心不是 private 关键字本身。 它真正解决的是： - 谁可以修改内部状态 - 状态如何被修改 - 哪些实现细节不应该暴露 - 如何保证对象始终处于合法状态 例如 BankAccount 不应该允许外部代码随意修改 balance。 更合理的方式是通过 deposit、withdraw 等方法控制状态变化。"
+  },
+  {
+    "id": "/tech/java/oop::2::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "Abstraction",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "Abstraction 关注的是： 使用者需要知道什么，而不需要知道什么。 调用 paymentService.pay() 的代码通常不需要知道内部如何调用第三方支付 API。 这可以降低模块之间的耦合。"
+  },
+  {
+    "id": "/tech/java/oop::3::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "Inheritance",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "Inheritance 表达一种 is-a 关系。 例如 Dog extends Animal。 它可以复用行为，但也可能带来强耦合和层级复杂度。 因此真实工程中不能看到重复代码就立即使用继承。"
+  },
+  {
+    "id": "/tech/java/oop::4::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "Polymorphism",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "Polymorphism 允许相同接口对应不同实现。 例如： 调用者依赖 PaymentProcessor，而不是具体依赖 Stripe。 这使实现可以替换。"
+  },
+  {
+    "id": "/tech/java/oop::5::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "Interface",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "Interface 非常适合定义行为契约。 例如： 以后可以存在 EmailNotificationService、SmsNotificationService 等多个实现。"
+  },
+  {
+    "id": "/tech/java/oop::6::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "Composition vs Inheritance",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "Composition 表示 has-a。 例如 OrderService has a PaymentService。 它通常比深层继承结构更灵活，因为组件可以被替换、组合和单独测试。"
+  },
+  {
+    "id": "/tech/java/oop::7::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "项目里什么时候真正会用到",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "Backend 项目中常见： - Controller 依赖 Service - Service 依赖 Repository - Interface 定义能力 - Dependency Injection 提供具体实现 这些设计都和 OOP 的抽象与解耦有关。"
+  },
+  {
+    "id": "/tech/java/oop::8::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "面试怎么回答",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "不要只说： OOP 有封装、继承、多态、抽象。 更好的结构是： 1. 先说 OOP 是组织复杂程序的一种方式 2. 解释每个概念解决什么问题 3. 给出项目中的真实例子 4. 说明继承和组合之间的取舍"
+  },
+  {
+    "id": "/tech/java/oop::9::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "常见追问",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "- Interface 和 abstract class 有什么区别？ - Overloading 和 overriding 有什么区别？ - 为什么 prefer composition over inheritance？ - Dependency Injection 和 OOP 有什么关系？"
+  },
+  {
+    "id": "/tech/java/oop::10::0",
+    "route": "/tech/java/oop",
+    "title": "Java OOP：从概念到工程",
+    "section": "最后",
+    "description": "用工程和面试视角理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 与 Composition。",
+    "keywords": [
+      "Java",
+      "OOP",
+      "Encapsulation",
+      "Polymorphism",
+      "Interface"
+    ],
+    "content": "真正理解 OOP，不是能背出定义。 是看到一个系统时，知道应该把哪些变化隔离、哪些能力抽象，以及不同对象之间应该如何协作。"
   },
   {
     "id": "/tech/security/::0::0",
     "route": "/tech/security/",
     "title": "Security",
     "section": "Security",
-    "description": "",
-    "keywords": [],
-    "content": "XSS、CSRF、SQL Injection、Authentication 与 CodeQL。 从漏洞概念逐渐走向为什么漏洞真正发生。"
+    "description": "从 Authentication、XSS、CSRF、Injection 到 Access Control，用开发者视角建立 Web Security 基础。",
+    "keywords": [
+      "Security",
+      "XSS",
+      "CSRF",
+      "Authentication",
+      "Access Control"
+    ],
+    "content": "TECH · SECURITY 安全不是最后加上的功能， 而是系统设计的一部分。 真正理解 Security，需要知道数据从哪里进入、谁被信任、权限在哪里检查，以及攻击者能够控制什么。 START HERE 从浏览器最经典的两个问题开始 WEB SECURITY XSS vs CSRF 理解两类攻击分别利用什么信任关系，以及防御措施为什么有效。 AUTH Session vs JWT 认证状态、Cookie、Token 生命周期和撤销机制同样属于安全设计。 SECURITY MODEL 分析安全问题时先问四件事 01 Asset 系统真正需要保护的是什么。 02 Input 攻击者能够控制哪些输入和请求。 03 Trust 系统在哪些地方错误地相信了数据或身份。 04 Boundary Authentication、Authorization 和 Validation 在哪里发生。 COMING NEXT 继续进入真实漏洞 SQL Injection、Access Control、Password Storage、CORS、SSRF、Path Traversal，以及 CodeQL 如何静态分析安全问题。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::0::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "XSS vs CSRF",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "XSS 和 CSRF 经常一起出现，但它们利用的是完全不同的信任关系。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::1::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "XSS",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "XSS 的核心问题是： 攻击者让恶意脚本在受信任网站的上下文中执行。 如果应用把用户输入直接作为 HTML 注入页面，就可能产生风险。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::2::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "XSS 能做什么",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "取决于页面权限和浏览器环境，恶意脚本可能： - 读取页面内容 - 修改 DOM - 代表用户发请求 - 读取可访问的 Token - 窃取敏感信息"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::3::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "常见防御",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "- Output Encoding - HTML Sanitization - Avoid unsafe DOM APIs - Content Security Policy - HttpOnly Cookie HttpOnly 可以降低 JavaScript 直接读取 Cookie 的能力，但并不能“解决所有 XSS”。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::4::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "CSRF",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "CSRF 的核心问题是： 浏览器会自动携带某些认证凭证。 攻击者诱导已登录用户访问恶意页面，然后向目标网站发起请求。 如果目标网站只依赖自动携带的 Cookie 来识别用户，并且没有额外验证，就可能执行非用户真实意图的操作。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::5::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "为什么 Cookie 和 CSRF 有关系",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "因为浏览器可能自动为目标域名附带 Cookie。 攻击者不一定需要知道 Cookie 的具体值。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::6::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "常见防御",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "- CSRF Token - SameSite Cookie - Origin / Referer Validation - Re-authentication for sensitive actions"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::7::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "XSS",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "攻击代码进入并运行在目标网站上下文。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::8::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "CSRF",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "攻击者利用用户已经存在的登录状态诱导浏览器发送请求。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::9::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "JWT 能自动解决 CSRF 吗",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "不能简单这样说。 如果 JWT 存在 Cookie 中并自动发送，仍然需要考虑 CSRF。 如果 Token 由 JavaScript 从其他位置主动加入 Authorization Header，CSRF 风险模型会不同，但又需要考虑 XSS 对 Token 的影响。"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::10::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "面试怎么回答",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "可以从“谁信任谁”回答： - XSS：网站错误信任并执行了恶意内容 - CSRF：网站错误信任了浏览器自动带来的已认证请求"
+  },
+  {
+    "id": "/tech/security/xss-vs-csrf::11::0",
+    "route": "/tech/security/xss-vs-csrf",
+    "title": "XSS vs CSRF",
+    "section": "最后",
+    "description": "从浏览器信任模型理解 XSS 与 CSRF 分别利用了什么，以及常见防御方法为什么有效。",
+    "keywords": [
+      "XSS",
+      "CSRF",
+      "Web Security",
+      "Cookie",
+      "SameSite"
+    ],
+    "content": "Security 很少是单一技术的胜负，而是在浏览器、认证方式和数据流之间理解完整威胁模型。"
   },
   {
     "id": "/tech/system-design/::0::0",

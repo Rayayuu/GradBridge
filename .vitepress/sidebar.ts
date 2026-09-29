@@ -100,27 +100,58 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     },
     {
-      text: '基础',
+      text: 'CS Basics',
       collapsed: false,
       items: [
-        { text: 'CS Basics', link: '/tech/cs-basics/' },
-        { text: 'Java', link: '/tech/java/' },
-        { text: 'Database', link: '/tech/database/' }
+        { text: 'CS Basics 首页', link: '/tech/cs-basics/' },
+        { text: 'URL 背后发生了什么', link: '/tech/cs-basics/dns-tcp-http' },
+        { text: 'Git 与工程协作', link: '/tech/cs-basics/git-engineering-workflow' }
       ]
     },
     {
-      text: '工程方向',
+      text: 'Java',
       collapsed: false,
       items: [
-        { text: 'Backend', link: '/tech/backend/' },
+        { text: 'Java 首页', link: '/tech/java/' },
+        { text: 'Java OOP', link: '/tech/java/oop' }
+      ]
+    },
+    {
+      text: 'Database',
+      collapsed: false,
+      items: [
+        { text: 'Database 首页', link: '/tech/database/' },
+        { text: 'SQL · Index · Transaction', link: '/tech/database/sql-index-transaction' }
+      ]
+    },
+    {
+      text: 'Backend',
+      collapsed: false,
+      items: [
+        { text: 'Backend 首页', link: '/tech/backend/' },
+        { text: 'HTTP 与 REST API', link: '/tech/backend/http-rest-api' },
+        { text: 'Session vs JWT', link: '/tech/backend/session-vs-jwt' },
+        { text: 'Redis 持久化', link: '/tech/backend/redis-persistence' }
+      ]
+    },
+    {
+      text: 'Security',
+      collapsed: false,
+      items: [
+        { text: 'Security 首页', link: '/tech/security/' },
+        { text: 'XSS vs CSRF', link: '/tech/security/xss-vs-csrf' }
+      ]
+    },
+    {
+      text: '进阶方向',
+      collapsed: false,
+      items: [
         { text: 'AI Engineering', link: '/tech/ai/' },
         { text: 'Computer Vision', link: '/tech/computer-vision/' },
-        { text: 'Security', link: '/tech/security/' },
         { text: 'System Design', link: '/tech/system-design/' }
       ]
     }
   ],
-
   '/sydney/': [
     {
       text: '悉尼',
