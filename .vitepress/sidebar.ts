@@ -143,12 +143,69 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     },
     {
-      text: '进阶方向',
+      text: 'AI Engineering',
       collapsed: false,
       items: [
-        { text: 'AI Engineering', link: '/tech/ai/' },
-        { text: 'Computer Vision', link: '/tech/computer-vision/' },
-        { text: 'System Design', link: '/tech/system-design/' }
+        { text: 'AI Engineering 首页', link: '/tech/ai/' },
+        { text: 'Embedding 与 Vector Search', link: '/tech/ai/embedding-vector-search' },
+        { text: 'RAG', link: '/tech/ai/rag' },
+        { text: 'Agent · LangGraph · MCP', link: '/tech/ai/agent-langchain-langgraph-mcp' }
+      ]
+    },
+    {
+      text: 'System Design',
+      collapsed: false,
+      items: [
+        { text: 'System Design 首页', link: '/tech/system-design/' },
+        { text: 'Cache 与 Load Balancer', link: '/tech/system-design/cache-load-balancer' },
+        { text: 'Message Queue', link: '/tech/system-design/message-queue' },
+        { text: 'Rate Limit 与 DB Scaling', link: '/tech/system-design/rate-limit-database-scaling' }
+      ]
+    },
+    {
+      text: 'Computer Vision',
+      collapsed: false,
+      items: [
+        { text: 'Computer Vision 首页', link: '/tech/computer-vision/' },
+        { text: 'CNN · Detection · Segmentation', link: '/tech/computer-vision/cnn-detection-segmentation' },
+        { text: 'YOLO', link: '/tech/computer-vision/yolo-object-detection' },
+        { text: 'IoU · mIoU', link: '/tech/computer-vision/iou-miou' }
+      ]
+    }
+  ],
+  '/free/': [
+    {
+      text: '免费资源',
+      items: [
+        { text: '资源首页', link: '/free/' }
+      ]
+    },
+    {
+      text: '学习资源',
+      collapsed: false,
+      items: [
+        { text: 'CS 四年 Checklist', link: '/free/study/four-year-checklist' },
+        { text: '学期规划模板', link: '/free/study/semester-planner' },
+        { text: 'Project 选择 Checklist', link: '/free/study/project-selection-checklist' }
+      ]
+    },
+    {
+      text: '求职资源',
+      collapsed: false,
+      items: [
+        { text: 'CS CV Checklist', link: '/free/career/cv-checklist' },
+        { text: 'Project Bullet 模板', link: '/free/career/project-bullet-template' },
+        { text: 'Application Tracker', link: '/free/career/internship-application-tracker' },
+        { text: 'Interview Checklist', link: '/free/career/interview-prep-checklist' }
+      ]
+    },
+    {
+      text: '技术速查',
+      collapsed: false,
+      items: [
+        { text: 'Backend Cheat Sheet', link: '/free/tech/backend-interview-cheatsheet' },
+        { text: 'Git Cheat Sheet', link: '/free/tech/git-cheatsheet' },
+        { text: 'AI · RAG · Agent', link: '/free/tech/ai-rag-agent-cheatsheet' }
       ]
     }
   ],

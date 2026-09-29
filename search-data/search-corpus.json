@@ -2448,13 +2448,1184 @@
     "content": "悉尼 CS 求职不是一场毕业时突然开始的考试。 最好从还在学校的时候，就开始进入真实市场。"
   },
   {
+    "id": "/free/career/cv-checklist::0::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "CS CV Checklist",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "在投递之前，用这份 Checklist 做最后检查。"
+  },
+  {
+    "id": "/free/career/cv-checklist::1::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Header",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 姓名明显 - [ ] Email 正常且专业 - [ ] Phone 正确 - [ ] LinkedIn 可访问 - [ ] GitHub 可访问 - [ ] 不放无必要的私人信息"
+  },
+  {
+    "id": "/free/career/cv-checklist::2::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Education",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] University 和 Degree 写清楚 - [ ] Graduation Date 正确 - [ ] WAM / GPA 只有在有价值时展示 - [ ] Relevant Coursework 不要堆太多"
+  },
+  {
+    "id": "/free/career/cv-checklist::3::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Experience",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 每条 Bullet 以 Action 开始 - [ ] 说明做了什么 - [ ] 说明用了什么技术 - [ ] 尽量说明结果或影响 - [ ] 不只是 Job Description"
+  },
+  {
+    "id": "/free/career/cv-checklist::4::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Projects",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 至少有一个能深入讲的项目 - [ ] 技术栈和贡献明确 - [ ] 不写“Responsible for”式空话 - [ ] GitHub / Demo 可访问时提供链接"
+  },
+  {
+    "id": "/free/career/cv-checklist::5::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "Skills",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 只写真的能够讨论的技术 - [ ] Language / Framework / Tool 分类合理 - [ ] 不使用百分比或进度条表示熟练度"
+  },
+  {
+    "id": "/free/career/cv-checklist::6::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "ATS",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 使用标准 Section Name - [ ] 不依赖复杂双栏或图形元素 - [ ] PDF 文本可以正常复制 - [ ] Job Description 中的重要技术词有合理匹配"
+  },
+  {
+    "id": "/free/career/cv-checklist::7::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "最终检查",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- [ ] 一页优先，除非经历确实很多 - [ ] 没有拼写错误 - [ ] 时间格式统一 - [ ] Bullet 标点格式统一 - [ ] 文件名专业 例如："
+  },
+  {
+    "id": "/free/career/cv-checklist::8::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "推荐继续阅读",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "- CS CV 完整指南 - ATS 指南 - Project Bullet 怎么写"
+  },
+  {
+    "id": "/free/career/cv-checklist::9::0",
+    "route": "/free/career/cv-checklist",
+    "title": "CS CV Checklist",
+    "section": "最后",
+    "description": "投递 Software、Backend、AI 或 Graduate Role 前可以逐项检查的 CS 简历清单。",
+    "keywords": [
+      "CV",
+      "Resume",
+      "Checklist",
+      "Software Engineer"
+    ],
+    "content": "CV 的目标不是记录你做过的所有事情，而是让招聘者快速看到与你申请岗位最相关的证据。"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::0::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "Internship Application Tracker",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "当投递数量超过十几个以后，仅靠记忆很快就会混乱。 建议每一个申请至少记录： | Field | 作用 | | --- | --- | | Company | 公司 | | Role | 岗位名称 | | Location | 地点 | | Applied Date | 投递日期 | | Source | LinkedIn / Seek / 官网等 | | Status | 当前状态 | | Next Step | OA / Interview / Follow-up | | Deadline | 下一步截止日期 | | Contact | Recruiter / Referral | | Notes | 特殊要求或反馈 |"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::1::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "推荐 Status",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "保持状态统一："
+  },
+  {
+    "id": "/free/career/internship-application-tracker::2::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "每周 Review",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "每周检查： - 本周投递多少？ - 哪些 Application 没有下一步？ - 哪些 OA 快到期？ - 哪些公司需要 Follow-up？ - 哪种岗位 Response Rate 更高？"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::3::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "为什么记录 Source",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "一段时间以后，你可以判断： - 官网申请效果如何 - Referral 是否更有效 - LinkedIn / Seek 哪个渠道更适合 - 哪类岗位 Response 更高"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::4::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "可下载模板",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "下载 Internship Application Tracker CSV → 下载后可以直接使用 Excel、Numbers 或 Google Sheets 打开。"
+  },
+  {
+    "id": "/free/career/internship-application-tracker::5::0",
+    "route": "/free/career/internship-application-tracker",
+    "title": "Internship Application Tracker",
+    "section": "最后",
+    "description": "用统一表格管理 Internship、Graduate Program 和 Software Role 的投递状态。",
+    "keywords": [
+      "Internship",
+      "Application Tracker",
+      "Graduate Program",
+      "Job Search"
+    ],
+    "content": "Job Search 本身也是一个 Pipeline。只要开始大规模投递，就应该把它当成系统管理，而不是靠记忆。"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::0::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Software Interview Preparation Checklist",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "面试准备不要只刷 LeetCode。 一个完整 Software Interview 通常可能覆盖四类内容。"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::1::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Coding",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] Array / String - [ ] Hash Map / Set - [ ] Two Pointers - [ ] Sliding Window - [ ] Stack / Queue - [ ] Linked List - [ ] Binary Search - [ ] Tree / BFS / DFS - [ ] Heap - [ ] 基础 Dynamic Programming - [ ] 能解释 Time / Space Complexity"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::2::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Technical Fundamentals",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] OOP - [ ] HTTP / REST - [ ] Database / SQL / Index - [ ] Session / JWT - [ ] Redis / Cache - [ ] DNS / TCP - [ ] Git - [ ] 基础 Security"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::3::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Project Deep Dive",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] 项目解决什么问题 - [ ] Architecture - [ ] 为什么选择这些技术 - [ ] 最困难的问题 - [ ] 一个 Bug - [ ] 一个 Trade-off - [ ] 如果重新做会改什么"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::4::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "Behavioral",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "至少准备： - [ ] Team Conflict - [ ] Leadership - [ ] Failure - [ ] Difficult Problem - [ ] Tight Deadline - [ ] Feedback - [ ] Learning Something Quickly"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::5::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "公司准备",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] Why this company - [ ] Why this role - [ ] Job Description 关键技术 - [ ] 2–3 个准备问面试官的问题"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::6::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "面试前一天",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- [ ] Camera / Microphone - [ ] IDE / Browser - [ ] Resume - [ ] Job Description - [ ] Interview Timezone - [ ] 安静环境"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::7::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "推荐继续阅读",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "- Coding Interview - Technical Interview - Behavioral Interview"
+  },
+  {
+    "id": "/free/career/interview-prep-checklist::8::0",
+    "route": "/free/career/interview-prep-checklist",
+    "title": "Software Interview Preparation Checklist",
+    "section": "最后",
+    "description": "Coding、Technical、Behavioral 和 Project Interview 的统一准备清单。",
+    "keywords": [
+      "Interview",
+      "Coding Interview",
+      "Technical Interview",
+      "Behavioral Interview"
+    ],
+    "content": "面试准备的目标不是预测所有问题，而是保证常见问题出现时，你有稳定的思考框架。"
+  },
+  {
+    "id": "/free/career/project-bullet-template::0::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "Project Bullet 模板",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "很多 CS 简历的问题不是项目差，而是写出来以后完全看不出技术含量。"
+  },
+  {
+    "id": "/free/career/project-bullet-template::1::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "基础公式",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "可以先从这个结构开始："
+  },
+  {
+    "id": "/free/career/project-bullet-template::2::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "写完后检查",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "- [ ] 是否看得出你具体做了什么？ - [ ] 是否有技术细节？ - [ ] 是否能看出项目目的？ - [ ] 是否存在可以量化的结果？ - [ ] 面试官追问时你能解释吗？"
+  },
+  {
+    "id": "/free/career/project-bullet-template::3::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "不要强行造数字",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "如果没有真实 Benchmark，不要为了“量化”凭空写： 没有可信数字时，可以描述真实范围、规模或功能结果。"
+  },
+  {
+    "id": "/free/career/project-bullet-template::4::0",
+    "route": "/free/career/project-bullet-template",
+    "title": "Project Bullet 模板",
+    "section": "最后",
+    "description": "把普通项目描述改成更适合 Software Engineering CV 的项目 Bullet。",
+    "keywords": [
+      "Project Bullet",
+      "CV",
+      "Resume",
+      "Template"
+    ],
+    "content": "好的 Bullet 不是更华丽，而是让陌生人快速理解你的技术贡献。"
+  },
+  {
     "id": "/free/::0::0",
     "route": "/free/",
-    "title": "🎁 免费资源",
-    "section": "🎁 免费资源",
-    "description": "",
-    "keywords": [],
-    "content": "真正能够直接使用，而不是故意做残缺的免费资源。 这里会持续整理 GradBridge 的 Roadmap、Checklist、Template 和 Tracker。 免费内容本身就应该能够解决一个具体问题。 --- 计划提供： - CS 求职 Roadmap - CV Checklist - Interview Checklist - Backend Roadmap - AI Roadmap - Sydney Newcomer Checklist - Renting Checklist - Job Tracker"
+    "title": "免费资源",
+    "section": "免费资源",
+    "description": "GradBridge 免费资源中心：CS 学习 Checklist、CV 模板、求职 Tracker、面试清单与技术速查。",
+    "keywords": [
+      "Free Resources",
+      "CS",
+      "CV",
+      "Checklist",
+      "Templates"
+    ],
+    "content": "GRADBRIDGE · FREE RESOURCES 真正可以直接拿走使用的 CS 学习与求职资源。 不是故意做残缺的免费样品。Checklist、Template、Tracker 和 Cheat Sheet 都应该独立解决一个具体问题。 浏览全部资源 语义搜索资源 → STUDY 学习与大学规划 把“大学四年应该做什么”变成可以逐项执行的行动清单。 ROADMAP 海外 CS 四年 Checklist 从大一到毕业，检查课程、技术、项目、实习与求职准备。 打开资源 → PLANNER CS 学期规划模板 把课程、技术、项目和求职放进同一个 Semester Plan。 包含 CSV 模板 → PROJECT Project 选择 Checklist 判断一个项目是否值得投入，并能否真正形成 Portfolio 资产。 打开资源 → CAREER 求职模板与 Checklist 从一份 CV 到完整 Application Pipeline，减少重复整理和遗漏。 CV CS CV Checklist 投递 Software、Backend、AI 和 Graduate Role 前做最后检查。 打开资源 → WRITING Project Bullet 模板 把普通项目描述变成更有技术信息量的 Resume Bullet。 打开资源 → TRACKER Internship Application Tracker 统一管理 Company、Role、Status、OA、Interview 和 Deadline。 包含 CSV 模板 → INTERVIEW Interview Preparation Checklist Coding、Technical、Project Deep Dive 和 Behavioral 一次检查。 打开资源 → TECH CHEAT SHEETS 面试前快速恢复知识结构 Cheat Sheet 不是替代学习，而是帮助你在短时间内重新建立知识地图。 BACKEND Backend Interview Cheat Sheet HTTP、Auth、Database、Redis、Queue 与 System Design。 打开速查 → GIT Git Cheat Sheet 学生项目和真实团队协作最常用 Git 命令与 Workflow。 打开速查 → AI AI · RAG · Agent 概念速查 Embedding、Vector Search、RAG、Agent、LangGraph 和 MCP。 打开速查 → FREE FIRST 免费内容本身就应该有完整价值。 GradBridge 会继续把高频、通用、适合大多数海外 CS 学生的资料开放出来。未来的高级产品可以提供更深的工具与服务，但不会故意把基础资源切碎。"
+  },
+  {
+    "id": "/free/::0::1",
+    "route": "/free/",
+    "title": "免费资源",
+    "section": "免费资源",
+    "description": "GradBridge 免费资源中心：CS 学习 Checklist、CV 模板、求职 Tracker、面试清单与技术速查。",
+    "keywords": [
+      "Free Resources",
+      "CS",
+      "CV",
+      "Checklist",
+      "Templates"
+    ],
+    "content": "· RAG · Agent 概念速查 Embedding、Vector Search、RAG、Agent、LangGraph 和 MCP。 打开速查 → FREE FIRST 免费内容本身就应该有完整价值。 GradBridge 会继续把高频、通用、适合大多数海外 CS 学生的资料开放出来。未来的高级产品可以提供更深的工具与服务，但不会故意把基础资源切碎。 了解 GradBridge →"
+  },
+  {
+    "id": "/free/study/four-year-checklist::0::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "海外 CS 四年 Checklist",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "这份 Checklist 的目标不是让你四年把所有东西都做完。 它的作用是帮助你判断：现在最值得做的事情是什么。"
+  },
+  {
+    "id": "/free/study/four-year-checklist::1::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大一：建立基础",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 熟悉至少一门主语言 - [ ] 掌握 Git 基础操作 - [ ] 能独立完成课程 Programming Assignment - [ ] 理解 Array、Linked List、Stack、Queue、Hash Map - [ ] 开始维护 GitHub - [ ] 做至少一个可以展示的小项目 - [ ] 学会阅读 Documentation - [ ] 保持基本成绩，不因为求职完全放弃课程"
+  },
+  {
+    "id": "/free/study/four-year-checklist::2::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大二：从课程走向工程",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 掌握 OOP - [ ] 学会 SQL 和基础 Database - [ ] 理解 HTTP / REST API - [ ] 完成一个多人 Group Project - [ ] 学会 Pull Request 和 Code Review - [ ] 开始准备 LeetCode 高频题型 - [ ] 把课程项目整理成 CV Bullet - [ ] 开始关注 Internship Timeline"
+  },
+  {
+    "id": "/free/study/four-year-checklist::3::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大三：进入求职主战场",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 完成一版正式 CS CV - [ ] LinkedIn 信息完整 - [ ] GitHub 有 2–3 个能够讲清楚的项目 - [ ] 建立 Internship Application Tracker - [ ] 系统准备 Coding Interview - [ ] 系统准备 Technical Interview - [ ] 准备 Behavioral Stories - [ ] 大规模投递 Internship / Graduate Program - [ ] 主动参加 Networking / Career Event"
+  },
+  {
+    "id": "/free/study/four-year-checklist::4::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "大四：完成转换",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 明确 Graduate / Full-time 求职方向 - [ ] 根据岗位重新调整项目展示 - [ ] 能完整讲清一段 Internship / Project Experience - [ ] 能进行 45–60 分钟 Technical Interview - [ ] 能回答 Why this company / Why this role - [ ] 持续记录所有申请状态 - [ ] 准备毕业后的 Work Rights / Location Plan"
+  },
+  {
+    "id": "/free/study/four-year-checklist::5::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "每学期都检查",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- [ ] 这学期最重要的能力是什么？ - [ ] 有没有一个可以留下来的项目产物？ - [ ] 有没有一个可以写进 CV 的结果？ - [ ] 有没有认识新的同学、工程师或导师？ - [ ] 有没有在为下一阶段提前准备？"
+  },
+  {
+    "id": "/free/study/four-year-checklist::6::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "不需要同时做到的事",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "你不需要同时： - 刷 500 道 LeetCode - 学 8 个 Framework - 做 10 个项目 - 保持极端高 WAM - 每周参加 Hackathon 更重要的是建立一条连贯主线。"
+  },
+  {
+    "id": "/free/study/four-year-checklist::7::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "推荐搭配阅读",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "- 海外 CS 四年成长路线 - 什么时候开始找实习 - WAM 与求职怎么平衡"
+  },
+  {
+    "id": "/free/study/four-year-checklist::8::0",
+    "route": "/free/study/four-year-checklist",
+    "title": "海外 CS 四年 Checklist",
+    "section": "最后",
+    "description": "从大一到毕业，把课程、项目、技术、实习和求职拆成可以逐项检查的行动清单。",
+    "keywords": [
+      "CS Roadmap",
+      "Checklist",
+      "University",
+      "Internship",
+      "Career"
+    ],
+    "content": "每一个学期只要比上一个学期多留下一个真正的能力资产，四年以后差距就会非常大。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::0::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "CS Project 选择 Checklist",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "项目不是越大越好。 真正值得投入的项目，应该同时满足： 能学到东西、能完成、能展示、能讲清楚。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::1::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "开始前先问",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- [ ] 这个项目解决什么具体问题？ - [ ] 谁会使用它？ - [ ] 最核心的 Feature 是什么？ - [ ] 两到六周内能不能做出 MVP？ - [ ] 是否需要真正的 Database / API / Model？ - [ ] 有没有可以量化的结果？ - [ ] 最后能不能部署或 Demo？"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::2::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "技术深度检查",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- [ ] 有没有 Authentication / Authorization？ - [ ] 有没有 Database Design？ - [ ] 有没有 Error Handling？ - [ ] 有没有 Testing？ - [ ] 有没有性能或可靠性问题？ - [ ] 有没有真正做过技术取舍？ 不需要全部满足。 但如果一个项目只是把 UI 页面拼出来，Technical Interview 可讲的内容通常有限。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::3::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "求职价值检查",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- [ ] 可以写成 2–3 条有信息量的 CV Bullet - [ ] 可以解释 Architecture - [ ] 可以解释一个困难 Bug - [ ] 可以解释一个 Trade-off - [ ] 可以解释你个人具体贡献 - [ ] GitHub README 能让陌生人快速理解"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::4::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "不太推荐的项目",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- 完全照教程复制 - 只有静态 UI - Scope 大到永远做不完 - 使用几十个技术但每个都只碰一点 - 无法解释自己做了什么"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::5::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "一个更好的项目描述",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "不要说： 做了一个电商网站。 而应该能说： 设计并实现一个带 JWT Authentication、PostgreSQL、Redis Cache 和 Docker Deployment 的电商 Backend，并针对商品查询路径减少重复数据库访问。"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::6::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "推荐搭配",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "- Project Bullet 怎么写 - Git 与真实工程协作"
+  },
+  {
+    "id": "/free/study/project-selection-checklist::7::0",
+    "route": "/free/study/project-selection-checklist",
+    "title": "CS Project 选择 Checklist",
+    "section": "最后",
+    "description": "判断一个项目是否值得投入时间，避免做完以后既学不到东西也无法用于求职。",
+    "keywords": [
+      "Project",
+      "Portfolio",
+      "GitHub",
+      "Checklist"
+    ],
+    "content": "项目的目标不是证明你知道很多技术名词，而是证明你能够把技术用于解决一个完整问题。"
+  },
+  {
+    "id": "/free/study/semester-planner::0::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "CS 学期规划模板",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "大学规划最容易出现的问题，是每个方向都单独规划： - 课程一个计划 - LeetCode 一个计划 - 项目一个计划 - 求职又一个计划 最后时间完全冲突。 更合理的是把所有事情放进同一张 Semester Plan。"
+  },
+  {
+    "id": "/free/study/semester-planner::1::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "第一步：只定 3 个核心目标",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "建议一个学期最多三个核心目标。 例如："
+  },
+  {
+    "id": "/free/study/semester-planner::2::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "第二步：规划能力资产",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "| Area | 本学期目标 | 最终产物 | | --- | --- | --- | | Study | 完成核心课程 | 成绩 + 知识笔记 | | Tech | 学 Backend | 一个可运行 API | | Project | 完成团队项目 | GitHub Repo + Demo | | Career | 准备 Internship | CV + Tracker | | Interview | DSA 高频题 | 题型总结 |"
+  },
+  {
+    "id": "/free/study/semester-planner::3::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "Week 1–4",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "- 建立课程节奏 - 确定项目 - 补基础"
+  },
+  {
+    "id": "/free/study/semester-planner::4::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "Week 5–8",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "- 项目进入主要开发 - Mid-semester Assessment - 开始整理 CV"
+  },
+  {
+    "id": "/free/study/semester-planner::5::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "Week 9–12",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "- 完成项目 - 准备 Final - 开始下一阶段申请"
+  },
+  {
+    "id": "/free/study/semester-planner::6::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "第四步：每周 Review",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "每周只问四个问题： 1. 本周真正完成了什么？ 2. 哪件事花了很多时间但价值很低？ 3. 下周最重要的一件事是什么？ 4. 有没有 Deadline 正在靠近？"
+  },
+  {
+    "id": "/free/study/semester-planner::7::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "可下载模板",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "下载 Semester Planner CSV → 也可以直接复制本页表格到 Notion、Excel 或 Google Sheets。"
+  },
+  {
+    "id": "/free/study/semester-planner::8::0",
+    "route": "/free/study/semester-planner",
+    "title": "CS 学期规划模板",
+    "section": "最后",
+    "description": "用一张表把课程、技术、项目、求职和生活安排到同一个 Semester Plan 中。",
+    "keywords": [
+      "Semester Planner",
+      "Study Plan",
+      "CS Student",
+      "Template"
+    ],
+    "content": "学期规划不是把每天排满，而是保证最重要的能力资产真的能在学期结束前留下来。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::0::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Embedding",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "把文本或其他对象转换成高维 Vector Representation。 用途： - Semantic Search - Retrieval - Similarity - Clustering"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::1::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Vector Search",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "把 Query 也转换成 Vector，然后找到最相似的 Top-K Candidate。 常见 Similarity： - Cosine Similarity - Dot Product"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::2::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "RAG",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "RAG 最大风险之一：Retrieval 本身找错内容。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::3::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Chunking",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "Chunk 太大：Noise 多。 Chunk 太小：Context 断裂。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::4::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Agent",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "Agent 不只是输出文字，还可能： - Decide - Choose Tool - Execute - Observe - Continue"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::5::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "Tool Calling",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "LLM 决定调用什么工具，但真正的工具操作由系统执行。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::6::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "LangChain",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "广泛的 LLM Application Toolkit。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::7::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "LangGraph",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "更适合： - State - Branch - Loop - Retry - Multi-step Workflow"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::8::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "MCP",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "用于 AI Application 与外部 Tool / Resource 之间的标准化连接。 MCP 不是 Model，也不是 Web Framework。"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::9::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "推荐继续阅读",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "- Embedding 与 Vector Search - RAG - Agent · LangChain · LangGraph · MCP"
+  },
+  {
+    "id": "/free/tech/ai-rag-agent-cheatsheet::10::0",
+    "route": "/free/tech/ai-rag-agent-cheatsheet",
+    "title": "AI、RAG 与 Agent 概念速查",
+    "section": "最后",
+    "description": "Embedding、Vector Search、RAG、Agent、LangChain、LangGraph 和 MCP 的一页概念速查。",
+    "keywords": [
+      "AI",
+      "RAG",
+      "Agent",
+      "LangGraph",
+      "MCP"
+    ],
+    "content": "先理解每一个概念解决的问题，再决定需要使用什么框架。"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::0::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Backend Interview Cheat Sheet",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "这页适合面试前快速复习，不替代完整学习。"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::1::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "HTTP",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "- GET：读取 - POST：创建或执行操作 - PUT：通常整体更新 - PATCH：通常部分更新 - DELETE：删除 - 401：Authentication 问题 - 403：Authorization 问题 - 404：Resource 不存在 - 500：Server Error"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::2::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "REST",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "关键词： - Resource-oriented - HTTP Method - Status Code - Stateless - Idempotency"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::3::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Session vs JWT",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "Session： - State 主要在 Server - 容易主动撤销 - 多实例需要共享 Session JWT： - Token 自带 Claims - 服务端可验证签名 - 未过期 Token 天然较难主动撤销"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::4::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Database",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "Index： - 减少扫描范围 - 提高 Read - 增加 Storage 和 Write Cost Transaction： - Atomicity - Consistency - Isolation - Durability"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::5::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Redis",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "常见用途： - Cache - Session - Counter - Rate Limiting RDB：Snapshot。 AOF：记录写操作。"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::6::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Cache",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "常见问题： - Cache Miss - TTL - Invalidation - Stampede - Hot Key"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::7::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "Message Queue",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "主要价值： - Async - Decoupling - Buffer 新问题： - Retry - Duplicate - Ordering - Delivery Guarantee"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::8::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "推荐继续阅读",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "- HTTP 与 REST API - Session vs JWT - Redis 持久化 - System Design"
+  },
+  {
+    "id": "/free/tech/backend-interview-cheatsheet::9::0",
+    "route": "/free/tech/backend-interview-cheatsheet",
+    "title": "Backend Interview Cheat Sheet",
+    "section": "最后",
+    "description": "HTTP、REST、Authentication、Database、Redis、Queue 和 System Design 的后端面试快速复习表。",
+    "keywords": [
+      "Backend",
+      "Interview",
+      "Cheat Sheet",
+      "Redis",
+      "HTTP"
+    ],
+    "content": "Cheat Sheet 是为了帮你快速恢复知识结构，而不是代替真正理解。"
+  },
+  {
+    "id": "/free/tech/git-cheatsheet::0::0",
+    "route": "/free/tech/git-cheatsheet",
+    "title": "Git Cheat Sheet",
+    "section": "Rebase",
+    "description": "学生项目和团队开发最常见 Git 命令与协作流程速查。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Cheat Sheet",
+      "Pull Request"
+    ],
+    "content": "注意：不要随意 Rebase 已经被多人共享的历史。"
+  },
+  {
+    "id": "/free/tech/git-cheatsheet::1::0",
+    "route": "/free/tech/git-cheatsheet",
+    "title": "Git Cheat Sheet",
+    "section": "Commit Prefix 示例",
+    "description": "学生项目和团队开发最常见 Git 命令与协作流程速查。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Cheat Sheet",
+      "Pull Request"
+    ],
+    "content": "- feat: 新功能 - fix: Bug Fix - docs: 文档 - refactor: 重构 - test: 测试 - chore: 工程维护"
+  },
+  {
+    "id": "/free/tech/git-cheatsheet::2::0",
+    "route": "/free/tech/git-cheatsheet",
+    "title": "Git Cheat Sheet",
+    "section": "最后",
+    "description": "学生项目和团队开发最常见 Git 命令与协作流程速查。",
+    "keywords": [
+      "Git",
+      "GitHub",
+      "Cheat Sheet",
+      "Pull Request"
+    ],
+    "content": "Git 最重要的能力不是记住命令，而是知道当前代码状态，以及每一步会怎样改变历史。"
   },
   {
     "id": "/::0::0",
@@ -6002,13 +7173,538 @@
     "content": "给留学生的 0.5 天、1 天与 2 天周末路线。 不会做普通旅游门户，而是重点考虑时间、预算、公共交通与学生场景。"
   },
   {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::0::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "Agent、LangChain、LangGraph 与 MCP",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "这几个概念经常被混在一起。 最简单的区分方式是： - Agent：一种系统行为模式 - LangChain：构建 LLM Application 的工具生态 - LangGraph：更适合表达有状态、多步骤 Agent Workflow - MCP：让 AI Application 以标准化方式连接外部工具和数据源的一种协议"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::1::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "什么是 Agent",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "一个普通 Chatbot 通常是： Agent 更可能是： 核心变化是模型不只生成文本，还能够影响后续执行流程。"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::2::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "Tool Calling",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "Agent 常见能力来自 Tool。 例如： - Search - Database Query - API - File Access - Calculator - Calendar - Code Execution LLM 决定何时调用哪个 Tool，然后系统执行实际操作。"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::3::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "LangChain",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "LangChain 提供大量用于构建 LLM Application 的抽象和集成。 例如： - Model - Prompt - Retriever - Tool - Structured Output - Agent 它更像一个广泛的 LLM Application Toolkit。"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::4::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "LangGraph",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "当 Workflow 开始出现： - 多个步骤 - Condition - Loop - State - Retry - Human Approval 单纯 Chain 很快会变复杂。 LangGraph 更强调显式 Graph 和 State。 例如："
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::5::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "为什么 Agent 需要 State",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "多步骤任务需要保存： - Conversation - Tool Results - Current Step - Intermediate Data - Error 否则每一步都不知道之前发生了什么。"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::6::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "MCP",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "MCP 的重点不是“让模型更聪明”。 它解决的是： AI Application 如何用统一方式发现和调用外部能力。 你可以把它类比成 AI Tool Integration 的标准接口层。"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::7::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "MCP 和 FastAPI 一样吗",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "不是。 FastAPI 是构建 HTTP API 的 Web Framework。 MCP 定义的是 AI Client / Server 之间如何暴露和使用 Tool、Resource 等能力的协议。 底层实现仍然可能使用不同 Transport。"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::8::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "它们之间怎么组合",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "一个系统完全可能是："
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::9::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "Agent 最大的问题不是能不能调用 Tool",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "真正困难的地方通常是： - Tool Selection - Error Recovery - State Management - Infinite Loop - Permission - Reliability - Observability - Evaluation"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::10::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "面试怎么回答 LangChain vs LangGraph",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "可以说： LangChain 更广泛地提供 LLM Application Components；LangGraph 更适合把复杂、有状态、带分支和循环的 Agent Workflow 显式建模成 Graph。"
+  },
+  {
+    "id": "/tech/ai/agent-langchain-langgraph-mcp::11::0",
+    "route": "/tech/ai/agent-langchain-langgraph-mcp",
+    "title": "Agent、LangChain、LangGraph 与 MCP",
+    "section": "最后",
+    "description": "区分 AI Agent、LangChain、LangGraph 和 MCP 分别解决什么问题，以及它们在 Agent System 中如何协作。",
+    "keywords": [
+      "AI Agent",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "Tool Calling"
+    ],
+    "content": "不要从“我应该学哪个框架”开始，而要先判断你的 AI System 到底需要 Retrieval、Tool、State、Workflow 还是 Protocol Integration。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::0::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Embedding 与 Vector Search",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "Embedding 的核心目标是： 把文本、图片或其他对象转换成可以被计算机比较的向量表示。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::1::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "为什么关键词搜索不够",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "关键词搜索更关注字面是否重合。 例如： - “怎么准备后端面试” - “Backend technical interview preparation” 字面差异很大，但语义接近。 Embedding 希望让语义相近的内容在向量空间中也更接近。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::2::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Vector 是什么",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "一个文本经过 Embedding Model 后，会得到类似： 这样的高维数字数组。 每一个数字本身通常没有直观的人类语义。 真正有价值的是整个向量在空间中的相对位置。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::3::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Similarity",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "最常见的比较方式之一是 Cosine Similarity。 它关注两个向量方向是否相近。 如果向量已经 Normalize，Dot Product 也常被用于高效比较。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::4::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Semantic Search 流程",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "典型流程："
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::5::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Chunking 为什么重要",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "如果把整本书变成一个向量，检索粒度会太粗。 如果每一句话都变成独立 Chunk，又可能失去上下文。 所以 Chunk Size、Overlap 和 Section Boundary 都会影响 Retrieval Quality。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::6::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Metadata",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "除了向量，通常还会保存： - Title - Route - Section - Source - Category - Keywords Metadata 可以用于 Filter、Display 和 Reranking。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::7::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Vector Database",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "数据规模小时，可以直接在内存或静态 JSON 中比较所有向量。 数据规模变大以后，通常会考虑： - pgvector - Qdrant - Pinecone - Milvus - 其他 ANN Vector Index 核心目的都是更高效地找到相似向量。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::8::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Approximate Nearest Neighbor",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "当向量数量非常多时，逐个比较所有向量成本很高。 ANN 的目标是用更低成本找到“足够接近”的候选结果。 这是 Recall、Latency 和 Memory 之间的工程权衡。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::9::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "Hybrid Search",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "纯 Vector Search 并不总是最好。 真实系统经常把： - Semantic Similarity - Keyword Match - Metadata - Intent - Reranking 组合起来。 GradBridge 当前语义搜索本身就是这种思路。"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::10::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "面试怎么回答",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "推荐从四层回答： 1. Embedding 把内容表示成 Vector 2. Query 也转换成同一向量空间 3. 使用 Similarity 找 Top-K 4. 大规模系统使用 Vector Index / Vector Database 提高效率"
+  },
+  {
+    "id": "/tech/ai/embedding-vector-search::11::0",
+    "route": "/tech/ai/embedding-vector-search",
+    "title": "Embedding 与 Vector Search",
+    "section": "最后",
+    "description": "从向量表示、相似度到 Semantic Search，理解 Embedding 为什么能够支持 RAG 和语义检索。",
+    "keywords": [
+      "Embedding",
+      "Vector Search",
+      "Semantic Search",
+      "Cosine Similarity",
+      "AI Engineering"
+    ],
+    "content": "Embedding 的价值不在“生成一个向量”，而在于让非结构化信息第一次可以通过距离进行检索和比较。"
+  },
+  {
     "id": "/tech/ai/::0::0",
     "route": "/tech/ai/",
     "title": "AI Engineering",
     "section": "AI Engineering",
-    "description": "",
+    "description": "从 Embedding、RAG、Agent 到 LangGraph 与 MCP，建立面向真实 AI Application 的工程路线。",
     "keywords": [],
-    "content": "LLM、Embedding、RAG、Agent、LangChain、LangGraph、MCP 与 Evaluation。 重点放在 AI Engineering，而不是只介绍模型名词。"
+    "content": "TECH · AI ENGINEERING AI Engineering 不只是调一个模型， 而是在构建完整的信息与执行系统。 从 Embedding 和 Retrieval 开始，再进入 RAG、Agent、Tool、State、Workflow 和 Protocol Integration。 AI PATH 先建立三层核心能力 RETRIEVAL Embedding 与 Vector Search 理解语义向量、Similarity、Chunking 和 Vector Index。 RAG Retrieval-Augmented Generation 把外部知识检索结果接入 LLM，并理解 Retrieval Quality 为什么重要。 AGENT Agent · LangChain · LangGraph · MCP 区分 Tool、State、Workflow、Framework 和 Protocol 分别解决什么。 AI SYSTEM 一个 AI Application 通常不止有 LLM 01 Retrieve 找到真正相关的信息。 02 Reason 让模型基于上下文做判断。 03 Act 调用 Tool 与外部系统交互。 04 Evaluate 判断系统是否稳定、相关和可信。"
+  },
+  {
+    "id": "/tech/ai/rag::0::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "RAG：从检索到生成",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "RAG 是 Retrieval-Augmented Generation。 可以把它理解成： 在 LLM 回答之前，先从外部知识库找到相关信息，再把这些信息作为上下文提供给模型。"
+  },
+  {
+    "id": "/tech/ai/rag::1::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "为什么需要 RAG",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "LLM 自身参数中的知识存在几个限制： - 不一定包含你的私人数据 - 不一定包含最新业务数据 - 很难直接引用公司内部文档 - 很难保证回答完全基于指定知识源 RAG 把外部知识接入生成过程。"
+  },
+  {
+    "id": "/tech/ai/rag::2::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "Retrieval 是核心",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "如果检索出来的内容本身不相关，再强的 LLM 也只能在错误上下文上生成。 所以 RAG Quality 很大程度取决于 Retrieval Quality。"
+  },
+  {
+    "id": "/tech/ai/rag::3::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "Chunking",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "Chunk 太大： - Noise 增加 - Context 浪费 - 一个向量承载太多主题 Chunk 太小： - 上下文断裂 - 语义信息不足 - 需要更多结果才能恢复完整含义 因此 Chunking 是一个非常实际的工程问题。"
+  },
+  {
+    "id": "/tech/ai/rag::4::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "Top-K",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "Top-K 太小可能漏掉必要信息。 Top-K 太大则会引入噪声并占用 Context Window。 没有一个适合所有任务的固定 K。"
+  },
+  {
+    "id": "/tech/ai/rag::5::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "Reranking",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "第一阶段 Vector Search 找到 Candidate。 第二阶段可以再使用： - Cross-Encoder - Keyword Score - Metadata - Business Rule 重新排序。 这通常比直接扩大 Top-K 更有效。"
+  },
+  {
+    "id": "/tech/ai/rag::6::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "RAG 不等于 Fine-tuning",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "RAG 主要解决的是： 模型回答时应该看到什么知识。 Fine-tuning 更关注： 模型的行为、风格或特定能力如何改变。 两者解决的问题不同。"
+  },
+  {
+    "id": "/tech/ai/rag::7::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "RAG 常见失败原因",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "- 文档解析失败 - Chunk Boundary 不合理 - Embedding Model 不适合任务 - Query 表达和文档表达差异大 - Top-K 不合理 - Context 中噪声过多 - Prompt 没要求模型基于证据回答"
+  },
+  {
+    "id": "/tech/ai/rag::8::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "Evaluation",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "不能只问“感觉回答不错吗”。 可以分别评估： - Retrieval Recall - Retrieval Precision - Answer Relevance - Groundedness - Citation Correctness"
+  },
+  {
+    "id": "/tech/ai/rag::9::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "项目里怎么解释",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "如果面试官问你 RAG 项目，不要只说： 我用了 LangChain + Vector Database。 更应该说明： - 数据从哪里来 - 怎么 Chunk - 用什么 Embedding - 怎么 Retrieval - 如何 Rerank - 怎么评估 - 遇到什么失败 Case"
+  },
+  {
+    "id": "/tech/ai/rag::10::0",
+    "route": "/tech/ai/rag",
+    "title": "RAG：从检索到生成",
+    "section": "最后",
+    "description": "理解 Retrieval-Augmented Generation 的完整流程、为什么需要 RAG，以及 Chunking、Retrieval 和 Context 的关键问题。",
+    "keywords": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embedding",
+      "LLM",
+      "Vector Search"
+    ],
+    "content": "RAG 不是把 PDF 丢给 LLM，而是一套完整的信息检索系统。"
   },
   {
     "id": "/tech/backend/http-rest-api::0::0",
@@ -6626,13 +8322,523 @@
     "content": "Session 和 JWT 没有绝对赢家。 认证方案应该根据系统规模、安全要求、撤销需求和架构复杂度选择。"
   },
   {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::0::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "CNN、Detection 与 Segmentation",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "Computer Vision 的不同任务，本质上在回答不同问题。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::1::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "Classification",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "输入一张图片，输出类别。 例如： 它告诉你“这是什么”，但不会告诉你对象具体在哪里。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::2::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "CNN",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "CNN 通过局部感受野和共享参数，从图像中逐层提取特征。 浅层可能学习： - Edge - Texture 更深层逐渐学习更高层语义特征。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::3::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "Object Detection",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "Detection 不仅预测类别，还需要预测位置。 输出通常包含： - Bounding Box - Class - Confidence 例如："
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::4::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "Segmentation",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "Segmentation 的粒度更细。 它需要判断每一个 Pixel 属于哪个类别。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::5::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "Semantic Segmentation",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "同一类别的所有对象通常共享同一个 Class Label。 例如道路场景： - Road - Car - Person - Building 每个 Pixel 都会得到类别。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::6::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "Instance Segmentation",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "除了 Pixel Class，还区分同一类别中的不同实例。 例如两个人会被识别成两个不同 Instance。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::7::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "Classification vs Detection vs Segmentation",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "| Task | Output | | --- | --- | | Classification | Class | | Detection | Box + Class | | Semantic Segmentation | Pixel Class | | Instance Segmentation | Pixel + Instance |"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::8::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "项目中如何选择",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "如果只需要判断有没有目标：Classification 可能足够。 如果需要知道对象位置：Detection。 如果需要精确区域：Segmentation。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::9::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "面试怎么回答",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "不要只背模型名字。 先说明任务 Output，再解释为什么这个任务需要这种粒度。"
+  },
+  {
+    "id": "/tech/computer-vision/cnn-detection-segmentation::10::0",
+    "route": "/tech/computer-vision/cnn-detection-segmentation",
+    "title": "CNN、Detection 与 Segmentation",
+    "section": "最后",
+    "description": "从 CNN 特征提取出发，理解 Classification、Object Detection 和 Semantic Segmentation 的任务差异。",
+    "keywords": [
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "content": "选择 Computer Vision Model 之前，先明确你到底需要 Class、Bounding Box，还是 Pixel-level Prediction。"
+  },
+  {
     "id": "/tech/computer-vision/::0::0",
     "route": "/tech/computer-vision/",
     "title": "Computer Vision",
     "section": "Computer Vision",
-    "description": "",
+    "description": "从 CNN、Object Detection、YOLO、Segmentation 到 IoU / mIoU，建立视觉工程完整基础。",
     "keywords": [],
-    "content": "CNN、Detection、Segmentation 与常见 Evaluation Metrics。 后续会逐渐加入 YOLO、Segmentation 和真实工程案例。"
+    "content": "TECH · COMPUTER VISION 先明确视觉任务， 再讨论应该使用什么模型。 Classification、Detection 和 Segmentation 的输出目标不同，数据、模型和 Evaluation 也随之变化。 VISION PATH 从任务到模型，再到指标 FOUNDATION CNN · Detection · Segmentation 先理解不同 Computer Vision Task 到底在预测什么。 DETECTION YOLO 与 Object Detection Bounding Box、Confidence、NMS 与实时检测中的工程权衡。 EVALUATION IoU 与 mIoU 理解视觉任务如何衡量预测区域和真实区域的重叠质量。 VISION PIPELINE 一个真实 CV 项目至少包含四层 01 Data 采集、标注、划分和质量控制。 02 Model 根据 Task 选择合理 Architecture。 03 Evaluate 用正确 Metric 判断模型是否真的改善。 04 Deploy 考虑 Latency、Model Size 和 Hardware Constraint。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::0::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "IoU、mIoU 与视觉模型评估",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "Computer Vision 中，一个模型“预测对了”通常比普通分类更复杂。 因为我们不仅关心类别，还可能关心空间位置。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::1::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "IoU",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "IoU 是 Intersection over Union。 直觉是： 预测区域和真实区域重叠得有多好。 公式： 如果预测区域和 Ground Truth 完全一致，IoU 接近 1。 完全不重叠，则为 0。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::2::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "Detection 中的 IoU",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "Detection 使用 Bounding Box。 IoU 可以判断预测 Box 和 Ground Truth Box 是否足够匹配。 不同 Evaluation Protocol 会使用不同 IoU Threshold。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::3::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "Segmentation 中的 IoU",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "Segmentation 不比较矩形，而是比较 Pixel Region。 对于某个 Class："
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::4::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "mIoU",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "mIoU 是多个类别 IoU 的平均值。 它经常用于 Semantic Segmentation。 例如："
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::5::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "为什么 Accuracy 可能误导",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "假设图片中 90% Pixel 都是 Background。 模型全部预测 Background，也可能获得很高 Pixel Accuracy。 但它实际上没有识别目标。 IoU 对这种问题更敏感。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::6::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "Precision 和 Recall",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "Detection 中同样需要关注："
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::7::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "Precision",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "预测出来的目标中，有多少是真的。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::8::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "Recall",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "真实目标中，有多少被找到了。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::9::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "False Positive / False Negative",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "不同业务对错误类型的成本不同。 例如安全检测场景中，漏检和误报的代价可能完全不同。 所以不能只看一个总体 Metric。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::10::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "面试怎么解释 mIoU",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "推荐先说： mIoU 衡量预测区域和真实区域的重叠程度，并对多个类别取平均，因此比单纯 Pixel Accuracy 更能反映 Segmentation 对目标区域的真实预测质量。 然后再解释 Class Imbalance 和 Background 问题。"
+  },
+  {
+    "id": "/tech/computer-vision/iou-miou::11::0",
+    "route": "/tech/computer-vision/iou-miou",
+    "title": "IoU、mIoU 与视觉模型评估",
+    "section": "最后",
+    "description": "理解 Intersection over Union、mIoU，以及 Detection 和 Segmentation 为什么不能只看 Accuracy。",
+    "keywords": [
+      "IoU",
+      "mIoU",
+      "Segmentation",
+      "Evaluation",
+      "Computer Vision"
+    ],
+    "content": "Evaluation Metric 不是报告里的一个数字，而是在定义“什么叫模型做得好”。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::0::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "YOLO 与 Object Detection",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "YOLO 是 Object Detection 中非常有代表性的一类方法。 它的核心目标是： 在一次高效的模型推理中同时完成目标位置和类别预测。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::1::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "Detection Output",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "一个预测通常包含： - Bounding Box - Class - Confidence"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::2::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "Bounding Box",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "Bounding Box 用矩形描述目标位置。 常见表示包括： - x1, y1, x2, y2 - centerx, centery, width, height 不同实现内部格式可能不同。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::3::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "Confidence",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "模型往往会产生大量 Candidate Box。 低 Confidence Prediction 可以先通过 Threshold 过滤。 但 Threshold 太高会降低 Recall。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::4::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "为什么会有重复 Box",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "同一个对象可能产生多个相互重叠的预测。 因此需要进一步去重。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::5::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "NMS",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "Non-Maximum Suppression 的直觉是： 1. 选最高分 Box 2. 找和它高度重叠的其他 Box 3. 抑制重复预测 4. 继续处理剩余 Box 重叠程度通常使用 IoU 衡量。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::6::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "Precision vs Recall",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "Detection 不能只看 Accuracy。 重要指标包括： - Precision - Recall - AP - mAP"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::7::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "Real-time Trade-off",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "实际部署常常在： - Accuracy - Latency - Model Size - GPU / CPU Cost 之间做平衡。 更大的模型不一定适合 Edge Device。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::8::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "Dataset Quality",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "Detection 项目非常依赖： - Label Quality - Class Balance - Scene Diversity - Bounding Box Accuracy 模型本身不是唯一变量。"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::9::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "项目面试怎么讲 YOLO",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "不要只说： 我用了 YOLO。 应该准备： - 为什么选择 Detection - Dataset 怎么构建 - Classes 是什么 - Train / Validation 怎么划分 - Metric 是什么 - False Positive / False Negative - Inference Speed - Deployment Constraint"
+  },
+  {
+    "id": "/tech/computer-vision/yolo-object-detection::10::0",
+    "route": "/tech/computer-vision/yolo-object-detection",
+    "title": "YOLO 与 Object Detection",
+    "section": "最后",
+    "description": "从实时检测需求出发理解 YOLO 类方法、Bounding Box、Confidence、NMS 和工程部署中的核心问题。",
+    "keywords": [
+      "YOLO",
+      "Object Detection",
+      "NMS",
+      "Bounding Box",
+      "Computer Vision"
+    ],
+    "content": "Detection 项目的核心不是模型名字，而是数据、指标、速度和真实业务目标之间的平衡。"
   },
   {
     "id": "/tech/cs-basics/dns-tcp-http::0::0",
@@ -7628,13 +9834,523 @@
     "content": "Security 很少是单一技术的胜负，而是在浏览器、认证方式和数据流之间理解完整威胁模型。"
   },
   {
+    "id": "/tech/system-design/cache-load-balancer::0::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "Cache 与 Load Balancer",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "System Design 最重要的习惯之一是： 不要先画组件，先说系统出现了什么问题。"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::1::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "为什么需要 Cache",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "假设每一次 Request 都访问 Database。 当 Read Traffic 很高时，Database 可能成为瓶颈。 如果大量请求读取相同数据，就可以把高频结果放到更快的 Cache。"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::2::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "Cache 能解决什么",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "- 减少 Database Load - 降低 Response Latency - 提高 Read Throughput"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::3::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "Cache Aside",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "一个常见模式："
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::4::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "Cache Invalidation",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "真正困难的问题通常不是读取 Cache，而是： 数据变化以后，Cache 什么时候失效？ 可能使用： - TTL - Explicit Invalidation - Update Strategy 不同策略影响 Consistency 和 Complexity。"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::5::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "Load Balancer",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "如果一个 Backend Instance 无法处理所有流量，可以运行多个实例。 这时需要有人决定： 每个 Request 应该交给哪台 Server？ Load Balancer 就负责流量分配。"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::6::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "常见策略",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "- Round Robin - Least Connections - Weighted Routing - Hash-based Routing"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::7::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "为什么 Backend 最好 Stateless",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "如果所有 Login State 都只存在某一台 Server 内存里，Request 被分到另一台 Server 就可能找不到状态。 因此 Horizontal Scaling 通常希望 Application Server 尽量 Stateless。 状态可以放到： - Database - Redis - Shared Storage"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::8::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "Health Check",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "Load Balancer 还需要知道 Server 是否健康。 如果某个 Instance 故障，就应该停止向它分配新流量。"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::9::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "面试怎么回答",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "推荐顺序： 1. 当前瓶颈是什么 2. 为什么添加 Cache / Load Balancer 3. 它解决什么 4. 引入后又产生什么新问题"
+  },
+  {
+    "id": "/tech/system-design/cache-load-balancer::10::0",
+    "route": "/tech/system-design/cache-load-balancer",
+    "title": "Cache 与 Load Balancer",
+    "section": "最后",
+    "description": "从系统瓶颈出发理解 Cache 和 Load Balancer 为什么存在，以及它们分别解决什么扩展问题。",
+    "keywords": [
+      "System Design",
+      "Cache",
+      "Load Balancer",
+      "Scalability",
+      "Redis"
+    ],
+    "content": "System Design 不是不断添加组件，而是在一个瓶颈出现以后，用新的组件交换新的 Trade-off。"
+  },
+  {
     "id": "/tech/system-design/::0::0",
     "route": "/tech/system-design/",
     "title": "System Design",
     "section": "System Design",
-    "description": "",
+    "description": "从 Cache、Load Balancer、Queue、Rate Limiting 到 Database Scaling，建立系统设计的瓶颈与权衡思维。",
     "keywords": [],
-    "content": "Cache、Database、Queue、Scalability 与 Distributed Systems。 目标是理解设计背后的原因，而不是背架构图。"
+    "content": "TECH · SYSTEM DESIGN 不要背架构图， 先找到系统真正的瓶颈。 System Design 的核心不是用了多少组件，而是每增加一个组件，都能解释它解决什么问题、又带来了什么成本。 SYSTEM PATH 从三个最常见的扩展问题开始 SCALE Cache 与 Load Balancer 解决 Read Pressure、Latency 和 Application Horizontal Scaling。 ASYNC Message Queue 理解异步、解耦、Buffer、Retry、Ordering 和 Delivery Guarantee。 PROTECTION Rate Limiting 与 Database Scaling 从流量保护到 Replica、Partition 和 Sharding。 DESIGN METHOD 每次设计都先回答四个问题 01 Requirement 系统真正需要支持什么。 02 Bottleneck 当前哪里会先撑不住。 03 Component 新增组件解决什么具体问题。 04 Trade-off 复杂度、一致性和成本发生了什么变化。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::0::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Message Queue 为什么存在",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "很多人第一次接触 Message Queue，会把它理解成： 把消息先放进去，以后再处理。 这是对的，但不够完整。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::1::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "同步调用的问题",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "假设用户下单以后需要： 1. 创建 Order 2. 扣库存 3. 发 Email 4. 发 Notification 5. 更新 Analytics 如果所有步骤都同步执行，整个 Request 会越来越慢。 而且其中一个非核心步骤失败，也可能影响主流程。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::2::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Async",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "可以让核心流程先完成，再把非立即必要的任务异步处理。 例如："
+  },
+  {
+    "id": "/tech/system-design/message-queue::3::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Decoupling",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "Producer 不需要知道有多少 Consumer。 以后增加新的 Consumer，可以减少对原服务的修改。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::4::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Buffer",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "当流量突然上涨时，Queue 可以临时吸收一部分请求。 Consumer 按自己的处理能力逐渐消费。 这可以缓解瞬间流量冲击。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::5::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Delivery",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "现实系统需要考虑： - At-most-once - At-least-once - Exactly-once Semantics 不同系统对 Delivery Guarantee 的支持和定义不同。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::6::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Duplicate",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "如果系统使用 At-least-once Delivery，同一个 Message 可能被处理多次。 因此 Consumer 经常需要考虑 Idempotency。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::7::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Ordering",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "并不是所有 Queue 都能在任意规模下保证全局顺序。 如果业务要求 Ordering，就必须明确： - 哪些消息需要顺序 - 顺序范围是什么 - 是否可以 Partition"
+  },
+  {
+    "id": "/tech/system-design/message-queue::8::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Retry",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "Consumer 失败以后可能 Retry。 但无限 Retry 会产生新的问题。 因此常见机制包括： - Retry Count - Backoff - Dead Letter Queue"
+  },
+  {
+    "id": "/tech/system-design/message-queue::9::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "Kafka 和 RabbitMQ",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "不要简单理解成谁更高级。 它们的设计目标、数据模型和使用场景不同。 选型应该根据： - Throughput - Durability - Ordering - Routing - Replay - Consumer Model 决定。"
+  },
+  {
+    "id": "/tech/system-design/message-queue::10::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "面试怎么回答",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "先回答为什么要 Queue： - Async - Decoupling - Buffer 然后主动提到新问题： - Duplicate - Retry - Ordering - Delivery Guarantee"
+  },
+  {
+    "id": "/tech/system-design/message-queue::11::0",
+    "route": "/tech/system-design/message-queue",
+    "title": "Message Queue 为什么存在",
+    "section": "最后",
+    "description": "从同步调用、异步任务和系统解耦理解 Message Queue，以及 Delivery、Ordering 和 Retry 等核心问题。",
+    "keywords": [
+      "Message Queue",
+      "Kafka",
+      "RabbitMQ",
+      "Async",
+      "System Design"
+    ],
+    "content": "Message Queue 把时间和依赖关系解耦，但同时把一致性和可靠性问题带进了系统。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::0::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "Rate Limiting 与 Database Scaling",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "系统扩展不是“用户多了就加服务器”。 不同组件会在不同阶段成为瓶颈。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::1::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "Rate Limiting 为什么存在",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "系统资源是有限的。 如果一个 Client 可以无限发送 Request，可能导致： - Server Overload - Database Overload - Abuse - Cost Explosion - Unfair Resource Usage Rate Limiter 用来限制一定时间内允许的请求数量。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::2::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "常见算法",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "- Fixed Window - Sliding Window - Token Bucket - Leaky Bucket 它们在 Burst、Accuracy、Memory 和 Implementation Complexity 上有所不同。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::3::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "Token Bucket",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "可以理解成 Bucket 中不断补充 Token。 每个 Request 消耗一个 Token。 没有 Token 时，请求被限制。 这种方式允许一定程度的 Burst。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::4::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "Database 为什么会成为瓶颈",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "Application Server 很容易水平扩展。 Database 因为保存共享状态，扩展通常更复杂。 常见瓶颈包括： - CPU - Disk I/O - Connection - Lock - Query - Storage"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::5::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "先优化 Query",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "不要看到数据库慢就直接 Sharding。 先检查： - Query Pattern - Index - N+1 Query - Unnecessary Full Scan - Connection Pool"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::6::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "Read Replica",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "如果系统读多写少，可以把部分 Read Traffic 分散到 Replica。 这可以降低 Primary 的读取压力。 但需要考虑 Replication Lag。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::7::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "Partition / Sharding",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "当单个 Database 的数据量或写入压力过大，可以把数据拆到多个节点。 关键问题是 Sharding Key。 一个差的 Sharding Key 可能导致： - Hot Partition - Uneven Distribution - Cross-shard Query"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::8::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "为什么 Sharding 很贵",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "因为它会让： - Query - Transaction - Join - Migration - Operations 全部变复杂。 所以它通常不是第一步。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::9::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "面试怎么回答扩数据库",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "推荐顺序： 1. 优化 Query / Index 2. Cache 3. Read Replica 4. Vertical Scaling 5. Partition / Sharding 实际顺序取决于具体瓶颈，但一定要先说明原因。"
+  },
+  {
+    "id": "/tech/system-design/rate-limit-database-scaling::10::0",
+    "route": "/tech/system-design/rate-limit-database-scaling",
+    "title": "Rate Limiting 与 Database Scaling",
+    "section": "最后",
+    "description": "理解系统流量增长后如何通过限流、Read Replica、Partition 等方式保护服务并扩展数据库。",
+    "keywords": [
+      "Rate Limiting",
+      "Database Scaling",
+      "Read Replica",
+      "Sharding",
+      "System Design"
+    ],
+    "content": "Scaling 不是选择一个高级架构，而是定位瓶颈，然后用最小复杂度解决当前问题。"
   },
   {
     "id": "/tools/::0::0",
