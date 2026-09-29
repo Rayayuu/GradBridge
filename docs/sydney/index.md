@@ -1,3 +1,12 @@
+---
+title: 悉尼学生生活
+description: GradBridge Sydney Student Life，覆盖新生落地、租房、生活、CS 求职和周末旅行。
+keywords:
+  - Sydney
+  - International Student
+  - Rent
+  - Student Life
+---
 <div class="gb-sydney-home">
 <section class="gb-sydney-hero">
 <div class="gb-section-label">GRADBRIDGE · SYDNEY</div>
