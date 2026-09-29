@@ -217,15 +217,32 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     },
     {
-      text: '学生生活',
+      text: '新生落地',
       collapsed: false,
       items: [
-        { text: '新生落地', link: '/sydney/newcomer/' },
-        { text: '租房', link: '/sydney/rent/' },
-        { text: '生活', link: '/sydney/life/' },
+        { text: '新生落地首页', link: '/sydney/newcomer/' },
+        { text: '第一周 Checklist', link: '/sydney/newcomer/first-week-checklist' },
+        { text: 'Transport 与 Opal', link: '/sydney/newcomer/transport-opal' },
+        { text: '生活基础 Setup', link: '/sydney/newcomer/essential-setup' }
+      ]
+    },
+    {
+      text: '租房',
+      collapsed: false,
+      items: [
+        { text: '租房首页', link: '/sydney/rent/' },
+        { text: '悉尼租房完整流程', link: '/sydney/rent/renting-process' },
+        { text: 'Inspection · Lease · Bond', link: '/sydney/rent/inspection-lease-bond' },
+        { text: '租房区域怎么选', link: '/sydney/rent/area-selection' }
+      ]
+    },
+    {
+      text: '悉尼生活',
+      collapsed: false,
+      items: [
+        { text: '日常生活', link: '/sydney/life/' },
         { text: '周末旅行', link: '/sydney/travel/' }
       ]
     }
   ]
-
 }
