@@ -39,22 +39,41 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       text: '求职',
       items: [
         { text: '求职首页', link: '/career/' },
-        { text: '求职路线', link: '/career/roadmap/' }
+        { text: '求职路线', link: '/career/roadmap/' },
+        { text: 'CS 求职时间线', link: '/career/roadmap/career-timeline' },
+        { text: '第一份 CS 实习', link: '/career/roadmap/first-internship' }
       ]
     },
     {
-      text: '核心模块',
+      text: 'CV',
       collapsed: false,
       items: [
-        { text: 'CV', link: '/career/cv/' },
-        { text: '面试', link: '/career/interview/' },
+        { text: 'CV 首页', link: '/career/cv/' },
+        { text: 'CS CV 完整指南', link: '/career/cv/cs-cv-guide' },
+        { text: 'Project Bullet 怎么写', link: '/career/cv/project-bullets' },
+        { text: 'ATS 指南', link: '/career/cv/ats-guide' }
+      ]
+    },
+    {
+      text: '面试',
+      collapsed: false,
+      items: [
+        { text: '面试首页', link: '/career/interview/' },
+        { text: 'Coding Interview', link: '/career/interview/coding-interview' },
+        { text: 'Technical Interview', link: '/career/interview/technical-interview' },
+        { text: 'Behavioral Interview', link: '/career/interview/behavioral-interview' }
+      ]
+    },
+    {
+      text: '地区求职',
+      collapsed: false,
+      items: [
         { text: '澳洲求职', link: '/career/australia/' },
         { text: '悉尼 CS 求职', link: '/career/sydney/' },
         { text: '国内秋招', link: '/career/china/' }
       ]
     }
   ],
-
   '/tech/': [
     {
       text: '技术知识库',

@@ -27,13 +27,570 @@
     "content": "面向计划回国求职的海外 CS 学生。 这里会整理暑期实习、提前批、秋招、补录与国内技术面试准备。"
   },
   {
+    "id": "/career/cv/ats-guide::0::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "ATS 与技术简历指南",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "ATS 经常被描述成一个“神秘筛选机器人”。 更准确的理解是：ATS 是招聘流程中用于存储、管理、搜索和流转候选人的系统。 不同公司和不同招聘流程差别很大，所以不要迷信所谓 100% ATS 技巧。"
+  },
+  {
+    "id": "/career/cv/ats-guide::1::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "真正需要优化两件事",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "第一，机器能够正常解析 Name、Education、Experience、Skills、Dates 和 Job Titles。 第二，Recruiter 和 Hiring Manager 能够快速看懂。 ATS-friendly 不等于疯狂堆关键词。"
+  },
+  {
+    "id": "/career/cv/ats-guide::2::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "推荐格式",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "- 单栏或简单布局 - 清晰 Section Heading - 常规字体 - 一致日期格式 - 标准 PDF - 文本可以选择 尽量避免复杂图表、大量图标、技能进度条和关键内容放在图片里。"
+  },
+  {
+    "id": "/career/cv/ats-guide::3::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "Section 标题保持标准",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "优先使用 Education、Experience、Projects、Technical Skills、Leadership 和 Certifications。 不要为了创意把 Experience 改成 My Journey。"
+  },
+  {
+    "id": "/career/cv/ats-guide::4::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "关键词应该从哪里来",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "来自真实 Job Description。 如果岗位写 Java、Spring Boot、REST、SQL 和 AWS，而你真实使用过其中技术，就应该在 CV 合理位置体现。 最好不仅出现在 Skills，还能在 Experience 或 Project 中找到真实证据。"
+  },
+  {
+    "id": "/career/cv/ats-guide::5::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "不要 Keyword Stuffing",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "一长串 Java、Python、React、AWS、Docker、Kubernetes、Redis、Kafka，如果经历里完全没有对应证据，可信度会很低。 Skills 告诉招聘者你会什么，Experience 和 Project 证明你真的使用过。"
+  },
+  {
+    "id": "/career/cv/ats-guide::6::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "日期和 Job Title",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "日期格式应该统一，例如 Jun 2026 – Aug 2026。 不要伪造职位名称。如果内部 Title 很模糊，可以在保持事实准确的前提下增加说明。"
+  },
+  {
+    "id": "/career/cv/ats-guide::7::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "PDF 还是 Word",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "招聘页面明确要求格式时按要求。 否则提交前至少确认 PDF 文字可以复制、链接正常、字体没有乱码、页面没有错位。"
+  },
+  {
+    "id": "/career/cv/ats-guide::8::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "ATS Score 网站怎么看",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "可以作为辅助工具，但不要把它们当成真实招聘决策。 它们可以帮助检查关键词和格式，但不能准确模拟每一家公司的系统和人工筛选。"
+  },
+  {
+    "id": "/career/cv/ats-guide::9::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "更有效的匹配方式",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "拿到 Job Description 后分别检查 Must-have、Nice-to-have、Technology、Responsibilities 和 Domain。 然后调整 Project 顺序、Bullet 顺序和 Skills 顺序，而不是每个岗位从头写一份简历。"
+  },
+  {
+    "id": "/career/cv/ats-guide::10::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "常见误区",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "- 不要使用白色隐藏关键词 - 不要认为 ATS 会自动淘汰所有非 100% 匹配候选人 - 不要为了模板漂亮牺牲可读性 - 不要认为关键词越多越好"
+  },
+  {
+    "id": "/career/cv/ats-guide::11::0",
+    "route": "/career/cv/ats-guide",
+    "title": "ATS 与技术简历指南",
+    "section": "最后",
+    "description": "解释 ATS 在技术招聘中的作用，并给出学生和 Early Career Software Engineer 的简历格式与关键词策略。",
+    "keywords": [
+      "ATS",
+      "Resume",
+      "CV",
+      "Applicant Tracking System",
+      "Keywords"
+    ],
+    "content": "ATS 优化的目标不是骗机器，而是让系统和招聘者都能快速、准确地理解你的经历。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::0::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "CS CV 完整指南",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "一份好的技术 CV 不是“把经历全部放进去”。 它的目标是： 让招聘者在很短时间内理解你是谁、做过什么、会什么，以及为什么值得进入下一轮。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::1::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "一页优先",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "对于大多数学生和 Early Career 候选人，一页通常更清晰。 常见结构： 1. Name + Contact 2. Education 3. Experience 4. Projects 5. Technical Skills 如果还没有正式 Experience，可以把 Projects 提前。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::2::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "Header",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "通常包括 Name、Email、Phone、LinkedIn、GitHub 和 Portfolio。 不要让 Header 占用太多垂直空间。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::3::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "Education",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "建议包括： - University - Degree - Major - Expected Graduation - WAM / GPA（如果有竞争力） - Relevant Coursework（必要时） 不要列十几门课程，只保留和目标岗位真正相关的内容。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::4::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "Experience",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "每段经历建议包含 Company、Role、Location、Date 和 2–4 个高质量 Bullet。 弱： Responsible for backend development. 更好： Implemented REST APIs for order workflows using Spring Boot and PostgreSQL, adding validation and error handling for core service endpoints. 如果有真实量化结果，再加入数字。不要为了数字而编数字。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::5::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "Project",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "每个核心 Project 至少应该回答： 1. 解决什么问题？ 2. 你具体做了什么？ 3. 使用什么技术？ 4. 有什么技术难点？ 5. 结果是什么？"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::6::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "Technical Skills",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "可以按类别组织： - Languages: Java, Python, JavaScript, SQL - Backend: Spring Boot, Node.js, REST - Database: PostgreSQL, MySQL, Redis - Tools: Git, Docker, Linux 不要把 Microsoft Word、Internet、Hard-working 写进 Technical Skills。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::7::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "Skills 不要堆关键词",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "写在 CV 上意味着你应该能够接受追问。 如果写 Redis，至少应该理解为什么使用、TTL、常见数据结构、Persistence 基础和 Cache invalidation 的基本问题。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::8::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "Bullet 基本结构",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "Action + Technical Detail + Result / Purpose 例如： Built a FastAPI service that processed uploaded CSV files and generated structured analytics for dashboard visualization. 不是每个 Bullet 都必须有百分比。技术细节本身也能够提供可信度。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::9::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "CV 是否应该针对岗位调整",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "应该，但不需要每个岗位都重新写一份。 可以准备 Master CV，再根据 Backend、Software Engineering、AI / Data 等方向调整 Project、Skills 和 Bullet 顺序。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::10::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "ATS 基本原则",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "- 使用标准 Section Heading - 避免复杂多栏布局 - 不依赖图标表达关键信息 - 不把重要文字放在图片中 - 使用岗位真实关键词 - 保持 PDF 文本可以选择 目标不是“骗过 ATS”，而是让机器和人都容易理解。"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::11::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "投递前 Checklist",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "- [ ] 一页为主 - [ ] Email 专业 - [ ] LinkedIn 正常打开 - [ ] GitHub 链接正确 - [ ] 日期格式一致 - [ ] Bullet 使用主动动词 - [ ] 没有明显拼写错误 - [ ] 技术栈与目标岗位匹配 - [ ] PDF 可以复制文字 - [ ] 文件名专业"
+  },
+  {
+    "id": "/career/cv/cs-cv-guide::12::0",
+    "route": "/career/cv/cs-cv-guide",
+    "title": "CS CV 完整指南",
+    "section": "最后",
+    "description": "从结构、Education、Experience、Project、Skills 到一页简历，建立适合软件、后端、数据和 AI 岗位的技术 CV。",
+    "keywords": [
+      "CS CV",
+      "Software Engineer Resume",
+      "ATS",
+      "Internship",
+      "Project"
+    ],
+    "content": "CV 不是你全部能力的完整记录，而是一个筛选工具。 优秀的 CV 不一定信息最多，而是能最快让招聘者看到：这个候选人做过相关的事，而且值得继续聊。"
+  },
+  {
     "id": "/career/cv/::0::0",
     "route": "/career/cv/",
-    "title": "CV",
-    "section": "CV",
-    "description": "",
+    "title": "CS CV",
+    "section": "CS CV",
+    "description": "海外 CS 学生技术简历专区，覆盖结构、Project Bullet、ATS 和岗位匹配。",
     "keywords": [],
-    "content": "从第一份技术简历，到真正可以投递的软件工程、Backend 和 AI 岗位简历。 这里会覆盖结构、Project、Internship、Technical Skills、ATS 和常见错误。"
+    "content": "CAREER · CV 让招聘者快速看懂， 你到底做过什么。 CV 不是经历仓库，而是一个筛选工具。结构、Bullet、技术证据和岗位匹配都需要有目的地设计。 CV PATH 推荐阅读顺序 01 CS CV 完整指南 先建立一页简历的整体结构和信息优先级。 从这里开始 → 02 Project Bullet 怎么写 把“做了一个项目”变成有 Scope、技术细节和结果的工程表达。 优化项目经历 → 03 ATS 与技术简历 理解格式、关键词和 Job Description 匹配，而不是盲目追求 ATS 分数。 检查 ATS → CV PRINCIPLE Skills 告诉别人你会什么，经历证明你真的做过。 真正有说服力的技术简历，需要让 Skills、Project 和 Experience 互相提供证据。"
+  },
+  {
+    "id": "/career/cv/project-bullets::0::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "Project Bullet 怎么写",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "很多 CS 学生做过不错的项目，但 CV 上写出来以后非常普通。 问题通常不是项目太弱，而是 Bullet 只写了“做了什么”。 好的 Bullet 还应该让招聘者看到你怎么做、使用了什么技术、遇到了什么问题，以及产生了什么结果。"
+  },
+  {
+    "id": "/career/cv/project-bullets::1::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "最常见的弱写法",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "Developed a website using React. 问题是看不到产品类型、个人贡献、Backend、Database、技术难点和结果。 更完整的版本： Built a React and Node.js task management platform with JWT authentication and PostgreSQL persistence, implementing REST APIs for user and task workflows."
+  },
+  {
+    "id": "/career/cv/project-bullets::2::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "推荐结构",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "Action + Scope + Technology + Technical Detail + Result 不需要每一条都把五项全部塞进去，但每一条 Bullet 都应该提供新的信息。"
+  },
+  {
+    "id": "/career/cv/project-bullets::3::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "Action",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "常用动词包括 Built、Designed、Implemented、Developed、Integrated、Automated、Optimized、Refactored、Deployed、Tested 和 Led。 尽量少用 Worked on。"
+  },
+  {
+    "id": "/career/cv/project-bullets::4::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "Scope",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "告诉招聘者你真正负责的范围，例如： - Authentication Flow - REST API - Recommendation Pipeline - Database Schema - CI Pipeline - Data Processing Workflow - Dashboard - Model Training Pipeline"
+  },
+  {
+    "id": "/career/cv/project-bullets::5::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "Technical Detail",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "Implemented JWT-based authentication with role-based authorization for protected API routes. 通常比“Added login functionality”更有信息量。"
+  },
+  {
+    "id": "/career/cv/project-bullets::6::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "Result",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "Result 不一定必须是百分比。 真实结果还可以是 reduced manual work、supported a workflow、improved reliability、passed tests、deployed successfully 或 processed a dataset。 只有真实测量过的数字才写数字。"
+  },
+  {
+    "id": "/career/cv/project-bullets::7::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "三条 Bullet 如何分工",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "第一条写整体系统，第二条写技术难点，第三条写工程质量或结果。 例如 Backend 项目： Built a Spring Boot booking platform with PostgreSQL persistence and REST APIs for users, venues, and reservations. Implemented JWT authentication and role-based access control for customer and administrator workflows. Added validation, exception handling, and integration tests for core booking endpoints to improve API reliability."
+  },
+  {
+    "id": "/career/cv/project-bullets::8::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "AI / ML 项目",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "不要只写 Trained a machine learning model。 至少说明 Data、Task、Model、Evaluation 和个人贡献。"
+  },
+  {
+    "id": "/career/cv/project-bullets::9::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "Group Project",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "不要只写 Worked with a team of five。 应该说明自己具体负责什么，以及如何与其他模块协作。"
+  },
+  {
+    "id": "/career/cv/project-bullets::10::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "不要为了量化而造数字",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "如果没有真实 benchmark，不要写 Improved performance by 70%。 真实技术成果本身就有价值。"
+  },
+  {
+    "id": "/career/cv/project-bullets::11::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "自检",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "问自己两个问题： 1. 如果删除技术名词，这句话还剩什么？ 2. 面试官看到这句话以后，能不能产生具体追问？ 好的 Bullet 应该自然产生“为什么这样设计”“怎么实现”“遇到什么问题”“Trade-off 是什么”等追问。"
+  },
+  {
+    "id": "/career/cv/project-bullets::12::0",
+    "route": "/career/cv/project-bullets",
+    "title": "Project Bullet 怎么写",
+    "section": "最后",
+    "description": "把普通课程项目和个人项目改写成有技术深度、可追问、适合技术 CV 的 Project Bullet。",
+    "keywords": [
+      "CV Bullet",
+      "Project",
+      "Resume",
+      "Software Engineering"
+    ],
+    "content": "Project Bullet 的目标不是让项目听起来很厉害，而是让招聘者相信你真的做过工程，而且理解自己做了什么。"
   },
   {
     "id": "/career/::0::0",
@@ -42,7 +599,7 @@
     "section": "index",
     "description": "",
     "keywords": [],
-    "content": "GRADBRIDGE · CAREER 从第一份 CV， 走到第一份 Offer。 求职不是毕业前突然开始的一件事。GradBridge 会把 CV、Internship、Graduate Program、OA、技术面试和 Behavioral Interview 放进同一条路线里。 查看求职路线 浏览核心模块 → CAREER ROADMAP 求职，本质上是一个连续过程 不要等到岗位开放以后才开始准备。真正有效的求职，是把每一个阶段提前完成。 01 准备基础材料 完成第一版 CV、LinkedIn、GitHub，并整理可以讲清楚的项目经历。 CV · LinkedIn · GitHub 02 进入申请市场 开始追踪 Internship、Graduate 和其他 Entry-level 技术岗位。 Search · Apply · Track 03 通过筛选与面试 准备 OA、Coding Interview、Technical Interview 和 Behavioral Interview。 OA · Coding · Interview 04 完成 Offer 转化 比较岗位、团队、技术方向和长期成长机会，完成从学生到工程师的转换。 Offer · Decision · Growth CORE MODULES 求职最重要的四个模块 01 CV Education、Internship、Project、Technical Skills 到 ATS，逐步建立一份真正能投递的技术简历。 CV Guide · Checklist · Project Writing 02 Internship 什么时候开始准备、第一份实习怎么找、没有经验时应该优先补什么。 Timeline · Application · Experience 03 Interview 从 Coding、Backend、AI 到 Behavioral，建立完整的技术面试准备体系。 Coding · Technical · Behavioral 04 Graduate 理解澳洲 Graduate Program 的申请时间线、流程、岗位类型和筛选方式。 Graduate · Timeline · Assessment AUSTRALIA CAREER 在澳洲找技术工作，需要理解本地规则 澳洲技术招聘和国内秋招并不完全一样。申请时间、Graduate Program、Visa Requirement、Networking 和招聘渠道都需要单独理解。 01 Graduate Program 很多大型企业会提前数月开放 Graduate 招聘，时间线本身就是求职的一部分。 02 Visa Requirement 学会区分岗位是否接受学生签证、毕业生签证以及是否涉及 Sponsorship。"
+    "content": "GRADBRIDGE · CAREER 从第一份 CV， 走到第一份 Offer。 把实习、CV、项目、OA、技术面试、Behavioral 和澳洲求职放进同一条路线里。你不需要等到毕业才开始准备。 开始求职路线 先改 CV → START HERE 你现在处在哪个阶段？ 不用从头看完所有内容。先找到你当前最需要解决的问题。 01 我不知道什么时候开始准备 从大一到 Graduate / New Grad，把求职拆成一条清晰时间线。 查看 CS 求职时间线 → 02 我还没有第一份实习 没有工作经验时，用项目、基础能力和真实投递建立第一段经历。 第一份 CS 实习怎么找 → 03 我的 CV 不知道怎么写 从 Education、Experience、Project、Skills 到一页技术简历。 进入 CV 指南 → 04 我已经开始面试了 系统准备 Coding、Technical 和 Behavioral Interview。 进入面试专区 → CAREER ROADMAP 求职不是一次投递，而是一条漏斗 真正需要优化的是每一个阶段的转化率，而不是单纯增加投递数量。 01 Build 课程、技术基础、项目、GitHub 和第一份可以投递的 CV。 Skills · Project · CV 02 Apply 发现岗位、判断匹配、追踪申请并持续获得市场反馈。 Search · Apply · Track 03 Interview OA、Coding、Technical、Project Deep Dive 和 Behavioral。 OA · Technical · STAR 04 Convert 把真实反馈继续转化成下一轮 CV、项目和面试能力。 Review · Improve · Offer CORE GUIDES 已经可以直接阅读的核心指南 CV CS CV 完整指南 结构、Experience、Project、Skills 与投递前 Checklist。 CV Project Bullet 怎么写 把普通课程项目写成有技术深度、经得起追问的经历。 ATS ATS 与技术简历 格式、关键词和岗位匹配，不靠所谓“ATS 玄学”。 CODING Coding Interview 从数据结构到高频 Pattern 和 Live Coding 表达。 TECHNICAL Technical Interview Database、HTTP、OOP、Network、Testing 与项目追问。 BEHAVIORAL STAR Story Bank Leadership、Conflict、Failure、Ownership 与真实故事。"
   },
   {
     "id": "/career/::0::1",
@@ -51,25 +608,965 @@
     "section": "index",
     "description": "",
     "keywords": [],
-    "content": "、Graduate Program、Visa Requirement、Networking 和招聘渠道都需要单独理解。 01 Graduate Program 很多大型企业会提前数月开放 Graduate 招聘，时间线本身就是求职的一部分。 02 Visa Requirement 学会区分岗位是否接受学生签证、毕业生签证以及是否涉及 Sponsorship。 03 Job Platforms LinkedIn、Seek、GradConnection 和企业官网承担不同的岗位发现角色。 04 Networking Networking 不等于找人内推，而是逐渐建立真实的行业连接和职业信息来源。 COMING GUIDES 接下来会逐步完成的专题 CV CS CV 完整指南 从一页结构到 Internship 和 Project Bullet。 INTERNSHIP 第一份实习怎么找 没有工作经验时，应该从哪里开始。 GRADUATE 澳洲 Graduate 时间线 什么时候准备、什么时候投递、什么时候面试。 CODING Coding Interview 不是单纯刷题，而是掌握高频 Pattern。 TECHNICAL Technical Interview Backend、AI 和 CS Fundamentals 应该怎么准备。 BEHAVIORAL Behavioral Interview 建立自己的 STAR Story Bank，而不是现场编答案。 START BEFORE YOU FEEL READY 不要等到“准备好了”才开始投递。 真实申请本身就是发现 CV、项目和面试短板最快的方法之一。 查看路线 ↑"
+    "content": "ew 从数据结构到高频 Pattern 和 Live Coding 表达。 TECHNICAL Technical Interview Database、HTTP、OOP、Network、Testing 与项目追问。 BEHAVIORAL STAR Story Bank Leadership、Conflict、Failure、Ownership 与真实故事。 REGIONAL CAREER 同一套技术能力，不同市场有不同规则 AU 澳洲求职 Graduate Program、Work Rights、Seek、LinkedIn、Assessment Centre 和 Networking。 SYD 悉尼 CS 求职 围绕悉尼本地 Software、Backend、AI、Graduate 和 Internship 市场。 CN 国内秋招 暑期实习、提前批、秋招、补录以及海外学生回国求职节奏。 GLOBAL 同一份能力资产 项目、CV 和技术基础可以复用，但时间线和招聘规则必须分别理解。 START BEFORE YOU FEEL READY 不要等到“完全准备好”才进入市场。 真实投递和真实面试，本身就是发现短板最快的方法之一。 开始求职路线 →"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::0::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Behavioral Interview 与 STAR Story Bank",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "Behavioral Interview 最常见的误区是等面试官问了以后现场想。 结果往往是故事太长、背景太多、自己做了什么不清楚，也没有明确结果。 更好的方式是提前建立自己的 Story Bank。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::1::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Situation",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "发生了什么？"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::2::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Task",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "你的责任是什么？"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::3::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Action",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "你具体做了什么？"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::4::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Result",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "最后结果如何？ 其中最重要的通常是 Action，因为面试官真正想知道的是你做了什么。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::5::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "不要全部使用 We",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "团队背景可以使用 We，但 Action 部分需要明确说明： - I proposed - I implemented - I coordinated - I debugged - I communicated"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::6::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "建议准备的故事类型",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "- Leadership - Conflict - Failure - Tight Deadline - Difficult Technical Problem - Learning Something Quickly - Team Collaboration - Ownership - Ambiguous Requirement - Receiving Feedback 一个故事可以回答多个问题，但回答角度应该根据问题调整。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::7::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Leadership 不等于当组长",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "Leadership 可以表现为主动推动任务、明确分工、解决阻塞、帮助团队决策、改进流程和承担责任。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::8::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Conflict 怎么讲",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "不要把别人描述成很差。 更成熟的结构是说明双方目标、分歧、如何理解对方、如何沟通验证，以及最后如何推进。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::9::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Failure 怎么讲",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "不要使用“我太追求完美”这种伪缺点。 更好的 Failure Story 应包含真实错误、影响、责任、修复方式以及后来改变了什么。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::10::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Technical Challenge",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "软件工程候选人最好准备至少一个真实技术难题，例如难查 Bug、性能问题、API Integration、Deployment 或 Data Issue。 它可以同时体现 Technical Skill、Ownership、Communication 和 Persistence。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::11::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Story Bank 怎么整理",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "| Story | Leadership | Conflict | Failure | Technical | | --- | --- | --- | --- | --- | | API redesign | ✓ | ✓ | | ✓ | | Internship bug | | | ✓ | ✓ | | Hackathon deadline | ✓ | | | ✓ | 面试前不需要背整段英文，而是熟悉每一个故事的关键节点。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::12::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Result 没有数字怎么办",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "真实 Result 可以是 project delivered on time、bug resolved、team adopted the proposal、client accepted the output 或 improved collaboration。 不要为了显得厉害而编造百分比。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::13::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Why this company",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "可以从公司或产品、目标岗位、个人经历连接，以及希望获得的成长四个部分准备。 不要只回答 Because your company is famous。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::14::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "Tell me about yourself",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "建议形成一个简洁职业叙事：现在是谁、主要技术方向、相关经历、为什么正在寻找这个岗位。 不需要从高中开始讲。"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::15::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "面试前 Checklist",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "- [ ] 6–10 个真实故事 - [ ] 每个故事都有明确 Action - [ ] 能说清 Result - [ ] 能说出 Learning - [ ] 准备 Why Company - [ ] 准备 Why Role - [ ] 准备 Tell Me About Yourself - [ ] 用英文实际说过至少一遍"
+  },
+  {
+    "id": "/career/interview/behavioral-interview::16::0",
+    "route": "/career/interview/behavioral-interview",
+    "title": "Behavioral Interview 与 STAR Story Bank",
+    "section": "最后",
+    "description": "用 STAR 框架准备 Leadership、Conflict、Failure、Ownership、Teamwork 和 Learning 等常见 Behavioral Interview。",
+    "keywords": [
+      "Behavioral Interview",
+      "STAR",
+      "Leadership",
+      "Conflict",
+      "Teamwork"
+    ],
+    "content": "Behavioral Interview 在判断一个人进入真实团队以后，会怎么沟通、承担责任、处理冲突、学习和交付。 最有效的准备方式不是背模板，而是把真实经历整理成清楚、可信、可追问的故事。"
+  },
+  {
+    "id": "/career/interview/coding-interview::0::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "Coding Interview 怎么准备",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "Coding Interview 不是“刷过多少题”的比赛。 真正需要建立的是识别题型、选择数据结构、推导复杂度、写出正确代码、边写边沟通和测试边界情况。"
+  },
+  {
+    "id": "/career/interview/coding-interview::1::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "第一阶段：基础数据结构",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "- Array - String - Hash Map - Set - Stack - Queue - Linked List - Tree - Heap - Graph Basics 不要只会 API，还应该知道常见操作复杂度、什么时候使用，以及常见陷阱。"
+  },
+  {
+    "id": "/career/interview/coding-interview::2::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "第二阶段：高频 Pattern",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "- Two Pointers - Sliding Window - Prefix Sum - Binary Search - Fast / Slow Pointer - Stack - Monotonic Stack - BFS - DFS - Backtracking - Heap / Top K - Interval - Dynamic Programming Basics 目标是看到题目以后能够判断它更像哪一种结构。"
+  },
+  {
+    "id": "/career/interview/coding-interview::3::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "不要马上写代码",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "先确认 Input、Output、Boundary、Brute Force、可优化的数据结构，以及时间和空间复杂度。 这也是 Live Coding 中非常重要的沟通能力。"
+  },
+  {
+    "id": "/career/interview/coding-interview::4::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "一个标准流程",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "Clarify → Brute Force → Optimize → Implement → Test。 手动测试至少覆盖正常 case、极小 case 和边界 case。"
+  },
+  {
+    "id": "/career/interview/coding-interview::5::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "复杂度一定要会",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "至少能够解释 O(1)、O(log n)、O(n)、O(n log n) 和 O(n²)。 如果不知道当前复杂度，就很难回答 Can we do better。"
+  },
+  {
+    "id": "/career/interview/coding-interview::6::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "LeetCode 应该刷多少",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "没有神奇数字。 比数量更重要的是能不能独立复现、理解 Pattern、一周以后还能不能做，以及是否知道为什么这样做。"
+  },
+  {
+    "id": "/career/interview/coding-interview::7::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "OA 与 Live Coding",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "OA 更强调时间、正确率、测试用例和 Debug。 Live Coding 除了代码，还强调思考过程、沟通、Clarification、Trade-off 和 Testing。"
+  },
+  {
+    "id": "/career/interview/coding-interview::8::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "面试中卡住怎么办",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "不要完全沉默。 可以重新确认题意、说出当前思路、指出卡点、尝试小例子，并讨论可能使用的数据结构。"
+  },
+  {
+    "id": "/career/interview/coding-interview::9::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "一个八周基础节奏",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "- Week 1: Array / String / Hash Map - Week 2: Two Pointers / Sliding Window - Week 3: Stack / Queue / Linked List - Week 4: Binary Search / Prefix Sum - Week 5: Tree / DFS / BFS - Week 6: Heap / Interval - Week 7: Backtracking / Graph - Week 8: Mixed Mock Interview 每周都应该保留旧题复习。"
+  },
+  {
+    "id": "/career/interview/coding-interview::10::0",
+    "route": "/career/interview/coding-interview",
+    "title": "Coding Interview 怎么准备",
+    "section": "最后",
+    "description": "从基础数据结构到高频 Pattern、刷题节奏和面试表达，建立适合实习和 Graduate 的 Coding Interview 体系。",
+    "keywords": [
+      "Coding Interview",
+      "LeetCode",
+      "Algorithm",
+      "OA",
+      "Interview"
+    ],
+    "content": "Coding Interview 更像是在有限时间里展示：我能理解问题、选择合理方法、写出可靠代码，并清楚解释自己的思考过程。"
   },
   {
     "id": "/career/interview/::0::0",
     "route": "/career/interview/",
-    "title": "面试",
-    "section": "面试",
-    "description": "",
+    "title": "技术面试",
+    "section": "技术面试",
+    "description": "GradBridge CS 面试专区，覆盖 Coding、Technical、Project Deep Dive 和 Behavioral Interview。",
     "keywords": [],
-    "content": "系统整理 Coding、Technical、Backend、AI 和 Behavioral Interview。 目标不是背答案，而是建立真正可以应对追问的理解与表达。"
+    "content": "CAREER · INTERVIEW 面试不是背题， 而是证明你真的理解。 算法只是其中一部分。真正完整的准备还包括 CS Fundamentals、项目深挖、沟通和 Behavioral Story。 INTERVIEW STACK 三个核心模块 01 Coding Interview 数据结构、Pattern、复杂度、Live Coding 和测试边界。 进入 Coding → 02 Technical Interview Database、HTTP、OOP、Network、OS、Cache、Testing 和项目追问。 进入 Technical → 03 Behavioral Interview STAR、Leadership、Conflict、Failure、Ownership 与 Story Bank。 进入 Behavioral → HOW TO PREPARE 项目一定要讲得比 CV 上写得更深。 如果写了 Spring Boot、Redis、JWT、FastAPI 或模型训练，就默认面试官可以继续追问为什么、怎么做以及有什么 Trade-off。"
+  },
+  {
+    "id": "/career/interview/technical-interview::0::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Technical Interview 完整准备框架",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "很多学生把技术面试等同于 LeetCode。 实际上 Software / Backend / Graduate 岗位还经常考 CS Fundamentals、Project Depth、API、Database、Debugging 和 Engineering Trade-off。"
+  },
+  {
+    "id": "/career/interview/technical-interview::1::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "OOP",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "至少理解 Encapsulation、Inheritance、Polymorphism、Abstraction、Interface 和 Composition。 不要只背定义，要能够结合实际代码解释为什么这样设计。"
+  },
+  {
+    "id": "/career/interview/technical-interview::2::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Database",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "建议掌握： - Primary Key - Foreign Key - Index - Join - Transaction - Normalization - ACID - Isolation - SQL vs NoSQL 你应该能够解释 Index 为什么加速、什么时候存在成本，以及 Transaction 为什么重要。"
+  },
+  {
+    "id": "/career/interview/technical-interview::3::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "HTTP / REST",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "至少熟悉 HTTP Method、Status Code、Header、Cookie、Session、JWT、REST、Idempotency 和 CORS。 不要只会记 Status Code，也要理解协议背后的语义。"
+  },
+  {
+    "id": "/career/interview/technical-interview::4::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Authentication / Authorization",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "Authentication 回答“你是谁”，Authorization 回答“你能做什么”。 常见话题包括 Session、Cookie、JWT、Refresh Token、Role-based Access Control 和 Password Hashing。"
+  },
+  {
+    "id": "/career/interview/technical-interview::5::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Operating Systems",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "Early Career 常见范围包括 Process、Thread、Context Switch、Concurrency、Deadlock、Memory、Virtual Memory 和 Synchronization。"
+  },
+  {
+    "id": "/career/interview/technical-interview::6::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Networking",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "建议掌握 IP、DNS、TCP、UDP、HTTP、HTTPS、TLS 基础、Port 和 Client / Server。 一个很好的自测问题是：在浏览器输入一个 URL 后发生了什么？"
+  },
+  {
+    "id": "/career/interview/technical-interview::7::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Caching",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "至少理解为什么缓存、Cache hit / miss、TTL、Eviction、Cache invalidation 和 Redis 基础。 不要只说 Redis 很快，因为数据在内存里。"
+  },
+  {
+    "id": "/career/interview/technical-interview::8::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Testing",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "理解 Unit Test、Integration Test、End-to-End Test、Mock、Test Case 和 Regression。 如果项目里写过测试，一定准备真实例子。"
+  },
+  {
+    "id": "/career/interview/technical-interview::9::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Git / Engineering Workflow",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "至少知道 Branch、Commit、Merge、Rebase 基础、Pull Request、Code Review 和 Conflict。"
+  },
+  {
+    "id": "/career/interview/technical-interview::10::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "Project Deep Dive",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "每个核心项目至少准备：Problem、Architecture、Responsibility、Technical Choice、Challenge、Trade-off、Result 和 Improvement。 如果 CV 写了 Spring Boot、Node.js 或 FastAPI，就应该能够解释 API、Validation、Exception、Database Schema、Authentication、Testing 和 Deployment。"
+  },
+  {
+    "id": "/career/interview/technical-interview::11::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "不会的问题怎么回答",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "可以明确说自己没有直接使用过，然后说明当前理解，并基于已知知识继续合理推理。 比编造答案更专业。"
+  },
+  {
+    "id": "/career/interview/technical-interview::12::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "时间有限时的准备顺序",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "1. 自己的 Project 2. Database 3. HTTP / REST 4. OOP 5. Authentication 6. Networking 7. OS 8. Testing 9. Cache / Redis 10. 目标岗位专项"
+  },
+  {
+    "id": "/career/interview/technical-interview::13::0",
+    "route": "/career/interview/technical-interview",
+    "title": "Technical Interview 完整准备框架",
+    "section": "最后",
+    "description": "面向 Software、Backend 和 Graduate 岗位，系统整理 OOP、Database、OS、Network、HTTP、API、Testing 和项目追问。",
+    "keywords": [
+      "Technical Interview",
+      "Backend Interview",
+      "CS Fundamentals",
+      "Database",
+      "Networking"
+    ],
+    "content": "Technical Interview 不是百科知识竞赛。 真正好的状态是基础概念能解释、项目能讲深、不懂的问题能够合理推理，而且所有写进 CV 的技术都经得起追问。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::0::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "CS 求职时间线",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "很多学生把求职理解成“岗位开放以后开始投递”。 更有效的做法是：在岗位开放之前，把大部分准备工作完成。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::1::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "求职不是单点事件",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "完整流程通常包括： 1. 能力积累 2. 项目与经历 3. CV / LinkedIn / GitHub 4. 岗位发现 5. 投递 6. OA 7. Coding Interview 8. Technical Interview 9. Behavioral Interview 10. Offer 决策 如果前面几项没有准备好，后面的投递数量再多也很难稳定转化。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::2::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "大一：建立基础",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "大一重点不是疯狂投实习，而是建立以后能够持续增长的基础： - 熟练掌握至少一门主要编程语言 - 理解基础数据结构与算法 - 学会 Git / GitHub - 完成 1 个能够独立解释的小项目 - 建立基本的英文技术阅读能力 - 开始了解不同技术方向 大一结束前，最好能够独立完成一个小项目、把代码放到 GitHub，并解释这个项目解决了什么问题。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::3::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "大二：建立可投递资产",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "建议重点完成： - 第一版正式 CV - 2–3 个能够讲清楚的项目 - 开始 LeetCode / Coding Pattern - 开始关注 Internship - 参加 Career Fair、Hackathon、Tech Event - 优化 LinkedIn - 尝试第一次真实投递 真实投递可以帮助你发现 CV、算法、项目深度和表达上的真实短板。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::4::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "大三：进入主要申请阶段",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "申请前最好确认： - CV 已经可以投递 - LinkedIn 完整 - GitHub 没有明显空白 - 至少有 2 个核心项目能够深入解释 - 算法高频 Pattern 已经覆盖 - Technical Fundamentals 开始系统复习 - Behavioral Story Bank 初步建立 同时建立自己的 Job Tracker： | Company | Role | Date | Stage | Next Step | | --- | --- | --- | --- | --- | | Company A | SWE Intern | 12 Mar | OA | Prepare | | Company B | Backend Intern | 15 Mar | Applied | Follow up | 比“投了多少”更重要的是每一个阶段的转化率。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::5::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "大四：Graduate / New Grad 主战场",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "如果计划毕业后直接工作，需要同时处理： - Graduate Program - New Grad / Entry-level - Rolling Hiring - Internship 转正机会 - Thesis / Capstone - 面试准备 - 毕业时间与 Work Rights 这时 CV 应逐渐体现 Internship、Engineering Project、Technical Depth 和 Ownership。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::6::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "澳洲 Graduate Program 要提前准备",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "很多 Graduate Program 会提前开放。 建议提前建立目标公司列表并记录： - Opening Date - Closing Date - Work Rights - Online Assessment - Assessment Centre - Interview Stages - Location 招聘时间线本身就是求职能力的一部分。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::7::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "每学期做一次求职体检",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "检查自己的 CV、Project、Interview 和 Job Market 准备是否都在增长。 如果只有成绩越来越高，但长期没有项目、实习、面试能力和市场反馈，就应该重新分配时间。"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::8::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "一个可执行的求职季节奏",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "- 每周 2 次 Coding Practice - 每周 1 次 Technical Fundamentals - 每周 1 次 Project Review - 每周 1 次 CV / LinkedIn 优化 - 固定时间搜索与投递岗位 - 每周至少复盘一次面试或 Behavioral Story"
+  },
+  {
+    "id": "/career/roadmap/career-timeline::9::0",
+    "route": "/career/roadmap/career-timeline",
+    "title": "CS 求职时间线",
+    "section": "最后",
+    "description": "从大学阶段到毕业，拆解海外 CS 学生准备 CV、项目、实习、面试和 Graduate Program 的节奏。",
+    "keywords": [
+      "CS 求职",
+      "求职时间线",
+      "Internship",
+      "Graduate",
+      "CV",
+      "Interview"
+    ],
+    "content": "你不需要等到“准备好了”才开始求职。 一边准备，一边进入市场，一边根据真实反馈修正。 求职不是毕业前的一场考试，而是一套持续迭代的系统。"
+  },
+  {
+    "id": "/career/roadmap/first-internship::0::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "第一份 CS 实习怎么找",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "第一份实习通常最难，因为你还没有上一段实习来证明自己。 这时真正能够支撑你的，通常是课程基础、项目、GitHub、技术能力、沟通和学习速度。"
+  },
+  {
+    "id": "/career/roadmap/first-internship::1::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "核心问题不是“有没有经验”",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "更重要的问题是： 当没有正式工作经历时，我还能拿什么证明自己？ 答案通常是项目和可验证的技术输出，例如： - 完整 Web App - Backend API - 数据分析项目 - AI / ML 项目 - 开源贡献 - Hackathon 项目 - 课程项目中真正承担的重要模块"
+  },
+  {
+    "id": "/career/roadmap/first-internship::2::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "什么时候应该开始找",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "当你满足下面大部分条件时，就可以开始： - 有一版一页 CV - 有至少 1–2 个能够解释的项目 - 会基本 Git - 能完成基础 Coding Question - 能介绍自己的技术方向 - 能解释为什么申请这个岗位 准备和投递可以并行。"
+  },
+  {
+    "id": "/career/roadmap/first-internship::3::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "第一份实习可以投什么",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "不要只盯最热门的大公司。 - Software Engineer Intern - Backend Intern - Frontend Intern - Full-stack Intern - QA Automation Intern - Data Intern - AI / ML Intern - DevOps / Cloud Intern - Research Assistant - Startup Engineering Intern 第一段经历的重要价值，是帮助你第一次进入真实工程环境。"
+  },
+  {
+    "id": "/career/roadmap/first-internship::4::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "没有 Internship 时 CV 怎么写",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "重点放在 Education、Technical Skills、Projects、Leadership 和 Relevant Experience。 弱写法： Built a web application using React. 更好的写法： Built a React + Node.js task platform with JWT authentication and PostgreSQL persistence, implementing REST APIs for user and task workflows."
+  },
+  {
+    "id": "/career/roadmap/first-internship::5::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "项目数量不是越多越好",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "三个浅项目通常不如两个讲得很深的项目。 面试时你可能会被追问： - 为什么选这个技术？ - 数据库怎么设计？ - Authentication 怎么做？ - 遇到过什么 Bug？ - 性能瓶颈在哪里？ - 如果重做会改什么？ - 团队里你负责哪部分？"
+  },
+  {
+    "id": "/career/roadmap/first-internship::6::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "没有回复怎么办",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "如果完全没有 OA / Interview，优先检查 CV、岗位匹配、Work Rights、项目表达和申请时机。 如果有 OA 但过不了，优先补 Coding Pattern、时间管理和 Debug。 如果有 Interview 但没有下一轮，优先补 Project Depth、Technical Fundamentals、Communication 和 Behavioral。"
+  },
+  {
+    "id": "/career/roadmap/first-internship::7::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "Networking 怎么做",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "Networking 不等于直接向陌生人索要 Referral。 更自然的方式包括 Career Fair、Tech Meetup、Hackathon、Alumni Event、University Society 和 LinkedIn Professional Conversation。 目标是获得行业信息、团队信息、招聘时间、岗位理解和长期连接。"
+  },
+  {
+    "id": "/career/roadmap/first-internship::8::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "第一份实习前应该准备什么",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "Coding 至少覆盖 Array、String、Hash Map、Two Pointers、Stack、Queue、Linked List、Binary Search、Tree、BFS 和 DFS。 Fundamentals 至少覆盖 OOP、Database、HTTP、REST、Git、Testing 和 Basic Networking。 同时准备两个核心项目和一组真实 Behavioral Story。"
+  },
+  {
+    "id": "/career/roadmap/first-internship::9::0",
+    "route": "/career/roadmap/first-internship",
+    "title": "第一份 CS 实习怎么找",
+    "section": "第一份实习真正应该获得什么",
+    "description": "面向没有工作经验的 CS 学生，讲清第一份软件、后端、数据或 AI 实习应该如何准备和投递。",
+    "keywords": [
+      "第一份实习",
+      "CS Internship",
+      "Software Internship",
+      "求职",
+      "项目"
+    ],
+    "content": "- 读别人代码 - 使用 Git Workflow - 接受 Code Review - Debug 真实系统 - 与 PM / Engineer 沟通 - 理解 Deadline - 对自己的代码负责 第一份实习本质上是从学生能力到职业能力的第一次转换。"
   },
   {
     "id": "/career/roadmap/::0::0",
     "route": "/career/roadmap/",
     "title": "求职路线",
     "section": "求职路线",
-    "description": "",
+    "description": "从大学阶段到第一份实习、Graduate、面试和 Offer 的 CS 求职路线。",
     "keywords": [],
-    "content": "从大学阶段准备，到 Internship、Graduate、OA、Interview 和 Offer。 这里会逐步整理澳洲与国内两条主要求职路线，让你知道每个阶段应该准备什么。"
+    "content": "CAREER · ROADMAP 不要等招聘季开始， 才开始准备求职。 从能力积累到第一份 Internship，再到 Graduate / New Grad，把每一个阶段提前拆开。 START HERE 先完成这两篇 01 CS 求职时间线 大一、大二、大三、大四分别应该积累什么，什么时候进入真实市场。 阅读完整路线 → 02 第一份 CS 实习怎么找 没有上一段实习时，如何用项目、技术基础和市场反馈打开第一扇门。 开始准备第一份实习 → THE LOOP Build → Apply → Interview → Review 求职能力不是线性积累。每一次真实申请，都应该反过来修正你的准备方向。"
   },
   {
     "id": "/career/sydney/::0::0",
@@ -142,6 +1639,15 @@
     "description": "",
     "keywords": [],
     "content": "Coming Soon. 现阶段不会开放正式收费。"
+  },
+  {
+    "id": "/search/::0::0",
+    "route": "/search/",
+    "title": "语义搜索",
+    "section": "GradBridge Search",
+    "description": "使用自然语言搜索 GradBridge 学习、技术、求职与悉尼生活知识库。",
+    "keywords": [],
+    "content": "传统关键词搜索要求你先知道应该搜什么词。 GradBridge Semantic Search 更接近你真正提出问题的方式。"
   },
   {
     "id": "/study/::0::0",
